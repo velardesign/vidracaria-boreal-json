@@ -140,11 +140,46 @@
     ]
   },
   {
-    "id": 4,
+    "id": 5,
     "nome": "Guarda-Corpo - Vidro Temperado Laminado",
     "slug": "guarda-corpo",
     "imagem": "/products/guarda-corpo-vidro-temperado-laminado.jpg",
     "descricao": "<p>O <strong>Max System Guarda-Corpo</strong> une <strong>versatilidade, segurança e design sofisticado</strong> em um único sistema. Ideal para <strong>projetos modernos e resistentes</strong>, é compatível com <strong>vidros temperados, temperados e laminados</strong> nas espessuras de <strong>12 mm, 16 mm e 20 mm</strong>. Disponível em duas versões — <strong>perfil para sobrepor</strong> ou <strong>embutir</strong> —, adapta-se perfeitamente a diferentes estilos arquitetônicos. Com o <strong>Max System Guarda-Corpo</strong>, seu projeto ganha <strong>elegância, resistência e harmonia visual</strong>.</p>",
+    "material": "Espelho Cristal de 4mm",
+    "dimensoes": "Altura: 100cm x Largura: 80cm",
+    "peso": "8 kilos",
+    "preco": 399.9,
+    "quantidadeEmbalagem": 9,
+    "url": "#",
+    "imagens": [
+      {
+        "url": "/banco/detalhes/bisote.png",
+        "alt": "imagem de espelhos onix",
+        "descricao": "<p>O acabamento bisotê é um chanfro delicado nas bordas do espelho, criando um ângulo elegante que reflete a luz com sofisticação.</p>"
+      },
+      {
+        "url": "/banco/detalhes/cores-espelhos-velar.png",
+        "alt": "Cores disponíveis para espelhos",
+        "descricao": "<p>O Bronze aquece com sofisticação, o Prata amplia com leveza e o Fumê adiciona profundidade e elegância. Essa são as cores disponíveis.</p>"
+      },
+      {
+        "url": "/banco/detalhes/camadas-espelhos.png",
+        "alt": "imagem de camadas de pinturas de espelhos",
+        "descricao": "<p> O <strong>Espelho Velar Design</strong> é desenvolvido com tecnologia de ponta e atenção minuciosa aos detalhes. Cada peça passa por um processo de fabricação cuidadosamente controlado que garante qualidade, elegância e durabilidade.</p>"
+      },
+      {
+        "url": "/banco/detalhes/familia-reflexo-espelhos.png",
+        "alt": "familia se olhando no espelho velar design",
+        "descricao": "<p><strong>Espelhos cristal</strong> se destacam por oferecer um <strong>reflexo excepcionalmente nítido e fiel</strong>. Graças à sua composição com <strong>vidro de alta pureza</strong>, garantem <strong>clareza de imagem</strong> e <strong>brilho uniforme</strong>, valorizando qualquer ambiente com <strong>elegância</strong> e <strong>precisão visual</strong>.</p>"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "Porta de Giro - Vidro Temperado",
+    "slug": "guarda-corpo",
+    "imagem": "/products/porta-pivotante-vidracaria-boreal.jpg",
+    "descricao": "<p>A <strong>Porta Pivotante Max System</strong> une <strong>elegância, modernidade e sofisticação</strong>, proporcionando um <strong>acesso amplo e imponente</strong> a qualquer ambiente. Com <strong>estrutura robusta</strong> e <strong>perfis cortados a 90°</strong>, oferece <strong>abertura suave e fácil</strong> através do sistema de pivô. Conta com <strong>vedação eficiente</strong> para maior <strong>conforto acústico e térmico</strong> e está disponível em <strong>diversas cores</strong> que seguem as tendências do mercado. Seu <strong>design personalizável</strong> se adapta ao estilo de cada projeto. A <strong>Porta Pivotante Max System</strong> combina <strong>estética e funcionalidade</strong>, sendo a escolha ideal para quem busca <strong>sofisticação e exclusividade</strong>.</p>",
     "material": "Espelho Cristal de 4mm",
     "dimensoes": "Altura: 100cm x Largura: 80cm",
     "peso": "8 kilos",

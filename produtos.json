@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "nome": "Espelho Orion",
+    "slug": "orion",
+    "imagem": "/products/orion.webp",
+    "descricao": "<p>O <strong>Espelho Orion</strong> é um conjunto elegante composto por 8 espelhos na cor <strong>bronze</strong> e 1 espelho central na cor <strong>prata</strong>, formando a ilusão de um <strong>portal</strong>. Ideal para <strong>penteadeiras</strong>, <strong>lavabos</strong>, <strong>salas de jantar</strong> e <strong>ambientes sofisticados</strong>. Produzido pela <strong>Velar Design</strong> com qualidade e estilo em <strong>espelhos decorativos modulares</strong>.</p>",
+    "material": "Espelho Cristal de 4mm",
+    "dimensoes": "Altura: 100cm x Largura: 80cm",
+    "peso": "8 kilos",
+    "preco": 399.9,
+    "quantidadeEmbalagem": 9,
+    "url": "#",
+    "imagens": [
+      {
+        "url": "/banco/detalhes/bisote.png",
+        "alt": "imagem de espelhos onix",
+        "descricao": "<p>O acabamento bisotê é um chanfro delicado nas bordas do espelho, criando um ângulo elegante que reflete a luz com sofisticação.</p>"
+      },
+      {
+        "url": "/banco/detalhes/cores-espelhos-velar.png",
+        "alt": "Cores disponíveis para espelhos",
+        "descricao": "<p>O Bronze aquece com sofisticação, o Prata amplia com leveza e o Fumê adiciona profundidade e elegância. Essa são as cores disponíveis.</p>"
+      },
+      {
+        "url": "/banco/detalhes/camadas-espelhos.png",
+        "alt": "imagem de camadas de pinturas de espelhos",
+        "descricao": "<p> O <strong>Espelho Velar Design</strong> é desenvolvido com tecnologia de ponta e atenção minuciosa aos detalhes. Cada peça passa por um processo de fabricação cuidadosamente controlado que garante qualidade, elegância e durabilidade.</p>"
+      },
+      {
+        "url": "/banco/detalhes/familia-reflexo-espelhos.png",
+        "alt": "familia se olhando no espelho velar design",
+        "descricao": "<p><strong>Espelhos cristal</strong> se destacam por oferecer um <strong>reflexo excepcionalmente nítido e fiel</strong>. Graças à sua composição com <strong>vidro de alta pureza</strong>, garantem <strong>clareza de imagem</strong> e <strong>brilho uniforme</strong>, valorizando qualquer ambiente com <strong>elegância</strong> e <strong>precisão visual</strong>.</p>"
+      }
+    ]
+  }
+]

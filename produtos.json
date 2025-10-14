@@ -33,5 +33,40 @@
         "descricao": "<p><strong>Espelhos cristal</strong> se destacam por oferecer um <strong>reflexo excepcionalmente nítido e fiel</strong>. Graças à sua composição com <strong>vidro de alta pureza</strong>, garantem <strong>clareza de imagem</strong> e <strong>brilho uniforme</strong>, valorizando qualquer ambiente com <strong>elegância</strong> e <strong>precisão visual</strong>.</p>"
       }
     ]
+  },
+  {
+    "id": 2,
+    "nome": "Box Ideia Glass - Flex",
+    "slug": "box-flex",
+    "imagem": "/products/box-flex-vidracaria-boreal.jpg",
+    "descricao": "<p>O <strong>Box Flex</strong> é a solução perfeita para quem busca <strong>aproveitamento de espaço, praticidade e elegância</strong>. Com abertura articulada que permite até <strong>90% de passagem livre</strong>, seu design sem trilho superior deixa o ambiente <strong>clean e funcional</strong>. Dobradiças em metais nobres, possibilidade de montagem de canto e manuseio fácil tornam o sistema versátil e durável. Produto com garantia de fábrica e disponível em várias cores de acabamento. Conhecido também como box camarão, box articulado ou pantográfico — o original é o <strong>BOX FLEX</strong>, fabricado pela Ideia Glass.</p>",
+    "material": "Espelho Cristal de 4mm",
+    "dimensoes": "Altura: 100cm x Largura: 80cm",
+    "peso": "8 kilos",
+    "preco": 399.9,
+    "quantidadeEmbalagem": 9,
+    "url": "#",
+    "imagens": [
+      {
+        "url": "/banco/detalhes/bisote.png",
+        "alt": "imagem de espelhos onix",
+        "descricao": "<p>O acabamento bisotê é um chanfro delicado nas bordas do espelho, criando um ângulo elegante que reflete a luz com sofisticação.</p>"
+      },
+      {
+        "url": "/banco/detalhes/cores-espelhos-velar.png",
+        "alt": "Cores disponíveis para espelhos",
+        "descricao": "<p>O Bronze aquece com sofisticação, o Prata amplia com leveza e o Fumê adiciona profundidade e elegância. Essa são as cores disponíveis.</p>"
+      },
+      {
+        "url": "/banco/detalhes/camadas-espelhos.png",
+        "alt": "imagem de camadas de pinturas de espelhos",
+        "descricao": "<p> O <strong>Espelho Velar Design</strong> é desenvolvido com tecnologia de ponta e atenção minuciosa aos detalhes. Cada peça passa por um processo de fabricação cuidadosamente controlado que garante qualidade, elegância e durabilidade.</p>"
+      },
+      {
+        "url": "/banco/detalhes/familia-reflexo-espelhos.png",
+        "alt": "familia se olhando no espelho velar design",
+        "descricao": "<p><strong>Espelhos cristal</strong> se destacam por oferecer um <strong>reflexo excepcionalmente nítido e fiel</strong>. Graças à sua composição com <strong>vidro de alta pureza</strong>, garantem <strong>clareza de imagem</strong> e <strong>brilho uniforme</strong>, valorizando qualquer ambiente com <strong>elegância</strong> e <strong>precisão visual</strong>.</p>"
+      }
+    ]
   }
 ]

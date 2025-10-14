@@ -68,5 +68,40 @@
         "descricao": "<p><strong>Espelhos cristal</strong> se destacam por oferecer um <strong>reflexo excepcionalmente nítido e fiel</strong>. Graças à sua composição com <strong>vidro de alta pureza</strong>, garantem <strong>clareza de imagem</strong> e <strong>brilho uniforme</strong>, valorizando qualquer ambiente com <strong>elegância</strong> e <strong>precisão visual</strong>.</p>"
       }
     ]
+  },
+  {
+    "id": 3,
+    "nome": "Porta de Correr Max System - Al Indústria",
+    "slug": "porta-correr-max-system",
+    "imagem": "/products/porta-de-correr-vidro-vidracaria-boreal.jpg",
+    "descricao": "<p>A <strong>Porta de Correr Max System</strong> oferece <strong>design clean, funcionalidade e elegância</strong> em um único sistema. Com <strong>duas folhas deslizantes simultaneamente</strong>, adapta-se perfeitamente a diferentes projetos, proporcionando <strong>amplitude e leveza visual</strong>. Possui <strong>trilho inclinado</strong> para o escoamento da água e <strong>trilho meia cana</strong> que garante acessibilidade. A <strong>mão de amigo</strong> oferece reforço estrutural, vedação eficiente e ainda funciona como puxador. A <strong>Max System</strong> combina <strong>estética e praticidade</strong>, sendo a escolha ideal para qualquer ambiente.</p>",
+    "material": "Espelho Cristal de 4mm",
+    "dimensoes": "Altura: 100cm x Largura: 80cm",
+    "peso": "8 kilos",
+    "preco": 399.9,
+    "quantidadeEmbalagem": 9,
+    "url": "#",
+    "imagens": [
+      {
+        "url": "/banco/detalhes/bisote.png",
+        "alt": "imagem de espelhos onix",
+        "descricao": "<p>O acabamento bisotê é um chanfro delicado nas bordas do espelho, criando um ângulo elegante que reflete a luz com sofisticação.</p>"
+      },
+      {
+        "url": "/banco/detalhes/cores-espelhos-velar.png",
+        "alt": "Cores disponíveis para espelhos",
+        "descricao": "<p>O Bronze aquece com sofisticação, o Prata amplia com leveza e o Fumê adiciona profundidade e elegância. Essa são as cores disponíveis.</p>"
+      },
+      {
+        "url": "/banco/detalhes/camadas-espelhos.png",
+        "alt": "imagem de camadas de pinturas de espelhos",
+        "descricao": "<p> O <strong>Espelho Velar Design</strong> é desenvolvido com tecnologia de ponta e atenção minuciosa aos detalhes. Cada peça passa por um processo de fabricação cuidadosamente controlado que garante qualidade, elegância e durabilidade.</p>"
+      },
+      {
+        "url": "/banco/detalhes/familia-reflexo-espelhos.png",
+        "alt": "familia se olhando no espelho velar design",
+        "descricao": "<p><strong>Espelhos cristal</strong> se destacam por oferecer um <strong>reflexo excepcionalmente nítido e fiel</strong>. Graças à sua composição com <strong>vidro de alta pureza</strong>, garantem <strong>clareza de imagem</strong> e <strong>brilho uniforme</strong>, valorizando qualquer ambiente com <strong>elegância</strong> e <strong>precisão visual</strong>.</p>"
+      }
+    ]
   }
 ]

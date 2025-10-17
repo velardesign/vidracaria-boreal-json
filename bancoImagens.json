@@ -1,6 +1,6 @@
 [
   {
-    "name": "Cliente Shopping Bike",
+    "name": "Cliente: Shopping Bike",
     "image": "/servicos/colocacao-vidro-escritorio-vidracaria-boreal.jpg",
     "description": "Fechamento de escritório.",
     "url": "#",
@@ -9,6 +9,18 @@
       "Vidro Temperado Incolor de 8 mm",
       "Alumínio Preto",
       "Ferragens em polímero - AL Indústria"
+    ]
+  },
+  {
+    "name": "Cliente: Barbearia Jd. Rincão",
+    "image": "/servicos/colocacao-de-espelho-boreal-fazenda-rincao.jpg",
+    "description": "Fechamento de escritório.",
+    "url": "#",
+    "features": [
+      "Cidade: Arujá - São Paulo",
+      "Espelhos 4 mm - Cebrace",
+      "Alumínio Preto",
+      "Leds e suporte personalizado"
     ]
   }
 ]

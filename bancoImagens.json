@@ -3,7 +3,7 @@
     "name": "Cliente: Shopping Bike",
     "image": "/servicos/colocacao-vidro-escritorio-vidracaria-boreal.jpg",
     "description": "Fechamento de escritório.",
-    "url": "#",
+    "url": "https://vidracariaborial.com.br/colocacao-vidro-escritorio-vidracaria-boreal.jpg",
     "features": [
       "Cidade: Poá - São Paulo",
       "Vidro Temperado Incolor de 8 mm",
@@ -15,12 +15,24 @@
     "name": "Cliente: Barbearia Jd. Rincão",
     "image": "/servicos/colocacao-de-espelho-boreal-fazenda-rincao.jpg",
     "description": "Fechamento de escritório.",
-    "url": "#",
+    "url": "https://vidracariaborial.com.br/colocacao-de-espelho-boreal-fazenda-rincao.jpg",
     "features": [
       "Cidade: Arujá - São Paulo",
       "Espelhos 4 mm - Cebrace",
       "Alumínio Preto",
       "Leds e suporte personalizado"
+    ]
+  },
+  {
+    "name": "Cliente: Juliana ",
+    "image": "/servicos/colocacao-espelhos-aruja-hills.jpg",
+    "description": "Parede de espelhos.",
+    "url": "https://vidracariaborial.com.br/colocacao-espelhos-aruja-hills.jpg",
+    "features": [
+      "Cidade: Arujá - Condomínio Hills 3 - São Paulo",
+      "Espelhos 4 mm - Cebrace",
+      "Lapição polida",
+      "Colado - Fixa Espelho"
     ]
   }
 ]

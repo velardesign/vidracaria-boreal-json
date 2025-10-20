@@ -2,109 +2,97 @@
   {
     "name": "Cliente: Shopping Bike",
     "image": "/servicos/colocacao-vidro-escritorio-vidracaria-boreal.jpg",
-    "description": "Fechamento de escritório.",
-    "url": "https://vidracariaborial.com.br/colocacao-vidro-escritorio-vidracaria-boreal.jpg",
+    "description": "Fechamento de escritório em vidro temperado.",
+    "url": "https://vidracariaborealaruja.com.br/colocacao-vidro-escritorio-vidracaria-boreal.jpg",
     "features": [
       "Cidade: Poá - São Paulo",
-      "Vidro Temperado Incolor de 8 mm",
-      "Alumínio Preto",
+      "Vidro temperado incolor de 8 mm",
+      "Alumínio preto",
       "Ferragens em polímero - AL Indústria"
     ]
   },
   {
     "name": "Cliente: Barbearia Jd. Rincão",
     "image": "/servicos/colocacao-de-espelho-boreal-fazenda-rincao.jpg",
-    "description": "Fechamento de escritório.",
-    "url": "https://vidracariaborial.com.br/colocacao-de-espelho-boreal-fazenda-rincao.jpg",
+    "description": "Instalação de espelho com iluminação em LED.",
+    "url": "https://vidracariaborealaruja.com.br/colocacao-de-espelho-boreal-fazenda-rincao.jpg",
     "features": [
       "Cidade: Arujá - São Paulo",
-      "Espelhos 4 mm - Cebrace",
-      "Alumínio Preto",
-      "Leds e suporte personalizado"
+      "Espelho 4 mm - Cebrace",
+      "Alumínio preto",
+      "LEDs e suporte personalizado"
     ]
   },
   {
-    "name": "Cliente: Juliana ",
+    "name": "Cliente: Juliana",
     "image": "/servicos/colocacao-espelhos-aruja-hills.jpg",
-    "description": "Parede de espelhos.",
-    "url": "https://vidracariaborial.com.br/colocacao-espelhos-aruja-hills.jpg",
+    "description": "Parede revestida com espelhos decorativos.",
+    "url": "https://vidracariaborealaruja.com.br/colocacao-espelhos-aruja-hills.jpg",
     "features": [
       "Cidade: Arujá - Condomínio Hills 3 - São Paulo",
-      "Espelhos 4 mm - Cebrace",
-      "Lapição polida",
-      "Colado - Fixa Espelho"
+      "Espelho 4 mm - Cebrace",
+      "Lapidação polida",
+      "Colado com Fixa Espelho"
     ]
   },
   {
     "name": "Cliente: Nelson",
     "image": "/servicos/telhado-vidro-laminado-sun-guardian.jpg",
-    "description": "Telhado Vidro Laminado Refletivo.",
-    "url": "https://vidracariaborial.com.br/telhado-vidro-laminado-sun-guardian.jpg",
+    "description": "Cobertura em vidro laminado refletivo.",
+    "url": "https://vidracariaborealaruja.com.br/telhado-vidro-laminado-sun-guardian.jpg",
     "features": [
       "Cidade: Arujá - Country Club - São Paulo",
-      "Laminados 5 + 5 refletivo - Cebrace",
-      "Alumínio Preto",
-      "Colado - Silicone Extrutural - Tek Bond"
+      "Vidro laminado 5 + 5 refletivo - Cebrace",
+      "Alumínio preto",
+      "Colado com silicone estrutural - Tek Bond"
     ]
   },
   {
     "name": "Cliente: José Antônio",
     "image": "/servicos/espelhobisote.jpg",
     "description": "Parede de espelhos bisotê em módulos.",
-    "url": "https://vidracariaborial.com.br/espelhobisote.jpg",
+    "url": "https://vidracariaborealaruja.com.br/espelhobisote.jpg",
     "features": [
       "Cidade: Arujá - Centro Residencial - São Paulo",
-      "Espelhos 4 mm - Cebrace",
+      "Espelho 4 mm - Cebrace",
       "Bisotê de 10 mm",
-      "Colado - Fixa Espelhos - Tek Bond"
+      "Colado com Fixa Espelhos - Tek Bond"
     ]
   },
   {
-    "name": "Cliente: Marcia",
+    "name": "Cliente: Márcia",
     "image": "/servicos/telhado-vidro-laminado-aluminio-branco-hills.jpg",
-    "description": "Telhado Vidro Laminado Incolor.",
-    "url": "https://vidracariaborial.com.br/telhado-vidro-laminado-aluminio-branco-hills.jpg",
+    "description": "Telhado em vidro laminado incolor.",
+    "url": "https://vidracariaborealaruja.com.br/telhado-vidro-laminado-aluminio-branco-hills.jpg",
     "features": [
-      "Cidade: Arujá - Cond. Arujá Lagos - São Paulo",
-      "Laminados 5 + 5 incolor - Santa Marina",
-      "Alumínio Branco",
-      "Colado - Silicone Extrutural - Tek Bond"
+      "Cidade: Arujá - Condomínio Arujá Lagos - São Paulo",
+      "Vidro laminado 5 + 5 incolor - Santa Marina",
+      "Alumínio branco",
+      "Colado com silicone estrutural - Tek Bond"
     ]
   },
   {
-    "name": "Cliente: Patricia",
+    "name": "Cliente: Patrícia",
     "image": "/servicos/boxbanheira.jpg",
-    "description": "Box personalizado em cima da banheira.",
-    "url": "https://vidracariaborial.com.br/boxbanheira.jpg",
+    "description": "Box personalizado instalado sobre banheira.",
+    "url": "https://vidracariaborealaruja.com.br/boxbanheira.jpg",
     "features": [
       "Cidade: Arujá - Condomínio 5 - São Paulo",
-      "Vidro Temperado Verde - Blindex",
-      "Alumínio Branco",
-      "Colado - Silicone Extrutural - Tek Bond"
-    ]
-  },
-  {
-    "name": "Cliente: Marcia",
-    "image": "/servicos/telhado-vidro-laminado-aluminio-branco-hills.jpg",
-    "description": "Telhado Vidro Laminado Incolor.",
-    "url": "https://vidracariaborial.com.br/telhado-vidro-laminado-aluminio-branco-hills.jpg",
-    "features": [
-      "Cidade: Arujá - Cond. Arujá Lagos - São Paulo",
-      "Laminados 5 + 5 incolor - Santa Marina",
-      "Alumínio Branco",
-      "Colado - Silicone Extrutural - Tek Bond"
+      "Vidro temperado verde - Blindex",
+      "Alumínio branco",
+      "Colado com silicone estrutural - Tek Bond"
     ]
   },
   {
     "name": "Cliente: Erike",
     "image": "/servicos/vitrine-loja-vidro-temperado-itaqua.jpg",
-    "description": "Frente de Loja em vidro temperado.",
-    "url": "https://vitrine-loja-vidro-temperado-itaqua.jpg",
+    "description": "Fachada comercial em vidro temperado.",
+    "url": "https://vidracariaborealaruja.com.br/vitrine-loja-vidro-temperado-itaqua.jpg",
     "features": [
-      "Cidade: Arujá - Centro - São Paulo",
-      "Vidro Temperado incolor 10 mm - Blindex",
-      "Alumínio Preto",
-      "Colado - Silicone Extrutural - Tek Bond"
+      "Cidade: Itaquaquecetuba - São Paulo",
+      "Vidro temperado incolor de 10 mm - Blindex",
+      "Alumínio preto",
+      "Colado com silicone estrutural - Tek Bond"
     ]
   }
 ]

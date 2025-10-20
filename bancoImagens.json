@@ -46,5 +46,53 @@
       "Alumínio Preto",
       "Colado - Silicone Extrutural - Tek Bond"
     ]
+  },
+  {
+    "name": "Cliente: José Antônio",
+    "image": "/servicos/espelhobisote.jpg",
+    "description": "Parede de espelhos bisotê em módulos.",
+    "url": "https://vidracariaborial.com.br/telhado-vidro-laminado-sun-guardian.jpg",
+    "features": [
+      "Cidade: Arujá - Centro Residencial - São Paulo",
+      "Espelhos 4 mm - Cebrace",
+      "Bisotê de 10 mm",
+      "Colado - Fixa Espelhos - Tek Bond"
+    ]
+  },
+  {
+    "name": "Cliente: Erike",
+    "image": "/servicos/telhado-vidro-laminado-incolor.jpg",
+    "description": "Telhado Vidro Laminado Incolor.",
+    "url": "https://vidracariaborial.com.br/telhado-vidro-laminado-sun-guardian.jpg",
+    "features": [
+      "Cidade: Arujá - Country Club - São Paulo",
+      "Laminados 5 + 5 incolor - Santa Marina",
+      "Alumínio Branco",
+      "Colado - Silicone Extrutural - Tek Bond"
+    ]
+  },
+  {
+    "name": "Cliente: Patricia",
+    "image": "/servicos/boxbanheira.jpg",
+    "description": "Box personalizado em cima da banheira.",
+    "url": "https://vidracariaborial.com.br/boxbanheira.jpg",
+    "features": [
+      "Cidade: Arujá - Condomínio 5 - São Paulo",
+      "Vidro Temperado Verde - Blindex",
+      "Alumínio Branco",
+      "Colado - Silicone Extrutural - Tek Bond"
+    ]
+  },
+  {
+    "name": "Cliente: Marcia",
+    "image": "/servicos/boxbanheira.jpg",
+    "description": "Fechamento de sacada com telhado de vidro laminado.",
+    "url": "https://fechamento-sacada-vidro-laminado-aruja-lagos.jpg",
+    "features": [
+      "Cidade: Arujá - Condomínio Arujá Lagos - São Paulo",
+      "Vidro Temperado e laminado incolor 10 mm - Blindex",
+      "Alumínio Branco",
+      "Colado - Silicone Extrutural - Tek Bond"
+    ]
   }
 ]

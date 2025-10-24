@@ -45,7 +45,7 @@
     "peso": "8 kilos",
     "preco": 399.9,
     "quantidadeEmbalagem": 9,
-    "url": "#",
+    "url": "#1",
     "imagens": [
       {
         "url": "/banco/detalhes/bisote.png",
@@ -80,7 +80,7 @@
     "peso": "8 kilos",
     "preco": 399.9,
     "quantidadeEmbalagem": 9,
-    "url": "#",
+    "url": "#2",
     "imagens": [
       {
         "url": "/banco/detalhes/bisote.png",
@@ -115,7 +115,7 @@
     "peso": "8 kilos",
     "preco": 399.9,
     "quantidadeEmbalagem": 9,
-    "url": "#",
+    "url": "#3",
     "imagens": [
       {
         "url": "/banco/detalhes/bisote.png",
@@ -150,7 +150,7 @@
     "peso": "8 kilos",
     "preco": 399.9,
     "quantidadeEmbalagem": 9,
-    "url": "#",
+    "url": "#4",
     "imagens": [
       {
         "url": "/banco/detalhes/bisote.png",
@@ -185,7 +185,7 @@
     "peso": "8 kilos",
     "preco": 399.9,
     "quantidadeEmbalagem": 9,
-    "url": "#",
+    "url": "#5",
     "imagens": [
       {
         "url": "/banco/detalhes/bisote.png",

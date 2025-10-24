@@ -2,7 +2,7 @@
   {
     "id": 1,
     "nome": "Envidraçamento de Sacadas",
-    "slug": "orion",
+    "slug": "sacada",
     "imagem": "/products/sacada-vidros-vidracaria-boreal.jpg",
     "descricao": "<p>O <strong>Kit de Envidraçamento de Sacadas AL</strong> é a escolha ideal para quem busca <strong>conforto, segurança e sofisticação</strong> em seu ambiente. Produzido com <strong>vidros laminados ou temperados de alta qualidade</strong>, o sistema da <strong>AL Indústria</strong> destaca-se por seu <strong>design moderno</strong>, <strong>movimentação suave</strong> e <strong>ausência de rolamentos</strong>, garantindo <strong>durabilidade, praticidade e fácil manutenção</strong>.</p>",
     "material": "Espelho Cristal de 4mm",
@@ -45,7 +45,7 @@
     "peso": "8 kilos",
     "preco": 399.9,
     "quantidadeEmbalagem": 9,
-    "url": "#1",
+    "url": "#",
     "imagens": [
       {
         "url": "/banco/detalhes/bisote.png",
@@ -80,7 +80,7 @@
     "peso": "8 kilos",
     "preco": 399.9,
     "quantidadeEmbalagem": 9,
-    "url": "#2",
+    "url": "#",
     "imagens": [
       {
         "url": "/banco/detalhes/bisote.png",
@@ -177,7 +177,7 @@
   {
     "id": 6,
     "nome": "Porta de Giro - Vidro Temperado",
-    "slug": "guarda-corpo",
+    "slug": "porta-giro",
     "imagem": "/products/porta-pivotante-vidracaria-boreal.jpg",
     "descricao": "<p>A <strong>Porta Pivotante Max System</strong> une <strong>elegância, modernidade e sofisticação</strong>, proporcionando um <strong>acesso amplo e imponente</strong> a qualquer ambiente. Com <strong>estrutura robusta</strong> e <strong>perfis cortados a 90°</strong>, oferece <strong>abertura suave e fácil</strong> através do sistema de pivô. Conta com <strong>vedação eficiente</strong> para maior <strong>conforto acústico e térmico</strong> e está disponível em <strong>diversas cores</strong> que seguem as tendências do mercado. Seu <strong>design personalizável</strong> se adapta ao estilo de cada projeto. A <strong>Porta Pivotante Max System</strong> combina <strong>estética e funcionalidade</strong>, sendo a escolha ideal para quem busca <strong>sofisticação e exclusividade</strong>.</p>",
     "material": "Espelho Cristal de 4mm",
@@ -185,7 +185,7 @@
     "peso": "8 kilos",
     "preco": 399.9,
     "quantidadeEmbalagem": 9,
-    "url": "#5",
+    "url": "#",
     "imagens": [
       {
         "url": "/banco/detalhes/bisote.png",

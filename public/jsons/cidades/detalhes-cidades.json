@@ -1,0 +1,244 @@
+[
+  {
+    "id": 1,
+    "imagem": "/imagens/aruja.jpg",
+    "slug": "aruja",
+    "nome": "Arujá",
+    "descricao": "Vidraçaria Boreal em Arujá oferece envidraçamento de sacadas, portas de vidro e soluções personalizadas para sua casa e empresa. Qualidade e segurança garantidas.",
+    "historia": "Arujá, conhecida por seu desenvolvimento industrial e proximidade com São Paulo, é um polo crescente de serviços residenciais e comerciais. Vidraçaria Boreal atende há anos com excelência na cidade.",
+    "estado": "SP",
+    "regiao": "Sudeste",
+    "aniversario": "02/02",
+    "servicos": {
+      "nome": "Envidraçamento de Sacadas",
+      "url": "/servicos/envidracamento-sacadas",
+      "descricao": "Transforme sua sacada com vidros de alta qualidade, garantindo beleza, conforto e segurança."
+    },
+    "feriados": [{ "nome": "Aniversário de Arujá", "data": "02/02" }],
+    "imagens": [
+      {
+        "url": "/imagens/aruja-sacada.jpg",
+        "alt": "Sacada envidraçada em Arujá",
+        "descricao": "Exemplo de envidraçamento de sacada da Vidraçaria Boreal em Arujá"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "imagem": "/imagens/guarulhos.jpg",
+    "slug": "guarulhos",
+    "nome": "Guarulhos",
+    "descricao": "Vidraçaria Boreal em Guarulhos oferece vidros temperados, portas de vidro e serviços de envidraçamento para residências e empresas.",
+    "historia": "Guarulhos é a segunda maior cidade do estado de São Paulo, com forte comércio e indústria. A Vidraçaria Boreal se destaca atendendo clientes com qualidade e agilidade.",
+    "estado": "SP",
+    "regiao": "Sudeste",
+    "aniversario": "08/12",
+    "servicos": {
+      "nome": "Portas de Vidro",
+      "url": "/servicos/portas-vidro",
+      "descricao": "Portas de vidro sob medida para residências e comércios, unindo segurança e estética."
+    },
+    "feriados": [{ "nome": "Aniversário de Guarulhos", "data": "08/12" }],
+    "imagens": [
+      {
+        "url": "/imagens/guarulhos-vidro.jpg",
+        "alt": "Porta de vidro em Guarulhos",
+        "descricao": "Porta de vidro instalada pela Vidraçaria Boreal"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "imagem": "/imagens/mogi-das-cruzes.jpg",
+    "slug": "mogi-das-cruzes",
+    "nome": "Mogi das Cruzes",
+    "descricao": "Envidraçamento e portas de vidro em Mogi das Cruzes com a Vidraçaria Boreal. Serviços personalizados para deixar sua casa moderna e segura.",
+    "historia": "Mogi das Cruzes combina tradição histórica com crescimento urbano. A Vidraçaria Boreal contribui com soluções de vidro para imóveis residenciais e comerciais.",
+    "estado": "SP",
+    "regiao": "Sudeste",
+    "aniversario": "01/09",
+    "servicos": {
+      "nome": "Vidros Temperados",
+      "url": "/servicos/vidros-temperados",
+      "descricao": "Vidros temperados de alta resistência, ideais para portas, janelas e sacadas."
+    },
+    "feriados": [{ "nome": "Aniversário de Mogi das Cruzes", "data": "01/09" }],
+    "imagens": [
+      {
+        "url": "/imagens/mogi-vidro.jpg",
+        "alt": "Vidros temperados em Mogi das Cruzes",
+        "descricao": "Exemplo de instalação da Vidraçaria Boreal em Mogi"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "imagem": "/imagens/suzano.jpg",
+    "slug": "suzano",
+    "nome": "Suzano",
+    "descricao": "Vidraçaria Boreal em Suzano oferece soluções em vidro temperado, portas de vidro e envidraçamento de sacadas com qualidade premium.",
+    "historia": "Suzano possui grande crescimento residencial e comercial. A Vidraçaria Boreal atende clientes exigentes, garantindo beleza, conforto e segurança.",
+    "estado": "SP",
+    "regiao": "Sudeste",
+    "aniversario": "02/07",
+    "servicos": {
+      "nome": "Envidraçamento de Sacadas",
+      "url": "/servicos/envidracamento-sacadas",
+      "descricao": "Sacadas envidraçadas que aumentam o conforto e a estética do seu lar."
+    },
+    "feriados": [{ "nome": "Aniversário de Suzano", "data": "02/07" }],
+    "imagens": [
+      {
+        "url": "/imagens/suzano-sacada.jpg",
+        "alt": "Sacada envidraçada em Suzano",
+        "descricao": "Trabalho da Vidraçaria Boreal em Suzano"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "imagem": "/imagens/itaquaquecetuba.jpg",
+    "slug": "itaquaquecetuba",
+    "nome": "Itaquaquecetuba",
+    "descricao": "Portas de vidro e envidraçamento em Itaquaquecetuba com a Vidraçaria Boreal. Soluções modernas para residências e comércios.",
+    "historia": "Itaquaquecetuba é um município em crescimento na região metropolitana de São Paulo. A Vidraçaria Boreal traz inovação e segurança para os projetos locais.",
+    "estado": "SP",
+    "regiao": "Sudeste",
+    "aniversario": "08/08",
+    "servicos": {
+      "nome": "Portas de Vidro",
+      "url": "/servicos/portas-vidro",
+      "descricao": "Portas de vidro modernas e resistentes para sua casa ou comércio."
+    },
+    "feriados": [{ "nome": "Aniversário de Itaquaquecetuba", "data": "08/08" }],
+    "imagens": [
+      {
+        "url": "/imagens/itaquaquecetuba-vidro.jpg",
+        "alt": "Portas de vidro em Itaquaquecetuba",
+        "descricao": "Vidraçaria Boreal atendendo em Itaquaquecetuba"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "imagem": "/imagens/poa.jpg",
+    "slug": "santa-isabel",
+    "nome": "Santa Isabel",
+    "descricao": "Vidraçaria Boreal em Santa Isabel oferece vidros, portas de vidro e envidraçamento de sacadas com atendimento personalizado.",
+    "historia": "Santa Isabel, famosa por áreas verdes e qualidade de vida, recebe serviços especializados de vidro com a Vidraçaria Boreal.",
+    "estado": "SP",
+    "regiao": "Sudeste",
+    "aniversario": "14/07",
+    "servicos": {
+      "nome": "Envidraçamento de Sacadas",
+      "url": "/servicos/envidracamento-sacadas",
+      "descricao": "Transforme sua varanda ou sacada com vidros seguros e elegantes."
+    },
+    "feriados": [{ "nome": "Aniversário de Santa Isabel", "data": "14/07" }],
+    "imagens": [
+      {
+        "url": "/imagens/santa-isabel-vidro.jpg",
+        "alt": "Sacada envidraçada em Santa Isabel",
+        "descricao": "Exemplo de serviço da Vidraçaria Boreal"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "imagem": "/imagens/ferraz.jpg",
+    "slug": "ferraz-de-vasconcelos",
+    "nome": "Ferraz de Vasconcelos",
+    "descricao": "Vidraçaria Boreal em Ferraz de Vasconcelos oferece vidros temperados, portas de vidro e envidraçamento de sacadas com excelência.",
+    "historia": "Ferraz de Vasconcelos é conhecida por seu desenvolvimento residencial. Vidraçaria Boreal garante segurança e beleza em cada projeto.",
+    "estado": "SP",
+    "regiao": "Sudeste",
+    "aniversario": "28/04",
+    "servicos": {
+      "nome": "Vidros Temperados",
+      "url": "/servicos/vidros-temperados",
+      "descricao": "Vidros resistentes e elegantes para casas e comércios."
+    },
+    "feriados": [
+      { "nome": "Aniversário de Ferraz de Vasconcelos", "data": "28/04" }
+    ],
+    "imagens": [
+      {
+        "url": "/imagens/ferraz-vidro.jpg",
+        "alt": "Vidros temperados em Ferraz",
+        "descricao": "Instalação da Vidraçaria Boreal"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "imagem": "/imagens/itu.jpg",
+    "slug": "itambe",
+    "nome": "Itaimbé",
+    "descricao": "Vidraçaria Boreal em Itaimbé oferece soluções em vidro para residências e empresas, incluindo portas de vidro e envidraçamento de sacadas.",
+    "historia": "Itaimbé é um bairro em crescimento próximo a Arujá, recebendo serviços de vidraçaria de alta qualidade da Vidraçaria Boreal.",
+    "estado": "SP",
+    "regiao": "Sudeste",
+    "aniversario": "12/06",
+    "servicos": {
+      "nome": "Portas de Vidro",
+      "url": "/servicos/portas-vidro",
+      "descricao": "Portas de vidro sob medida, elegantes e resistentes."
+    },
+    "feriados": [{ "nome": "Aniversário de Itaimbé", "data": "12/06" }],
+    "imagens": [
+      {
+        "url": "/imagens/itaimbe-vidro.jpg",
+        "alt": "Portas de vidro em Itaimbé",
+        "descricao": "Exemplo de instalação da Vidraçaria Boreal"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "imagem": "/imagens/guararema.jpg",
+    "slug": "guararema",
+    "nome": "Guararema",
+    "descricao": "Envidraçamento de sacadas, portas e vidros temperados em Guararema com a Vidraçaria Boreal. Transforme sua casa com segurança e beleza.",
+    "historia": "Guararema é um município turístico e cultural próximo a Arujá. Vidraçaria Boreal oferece serviços premium de vidraçaria para residências e empresas.",
+    "estado": "SP",
+    "regiao": "Sudeste",
+    "aniversario": "08/09",
+    "servicos": {
+      "nome": "Envidraçamento de Sacadas",
+      "url": "/servicos/envidracamento-sacadas",
+      "descricao": "Sacadas modernas e seguras com vidros de alta qualidade."
+    },
+    "feriados": [{ "nome": "Aniversário de Guararema", "data": "08/09" }],
+    "imagens": [
+      {
+        "url": "/imagens/guararema-sacada.jpg",
+        "alt": "Sacada envidraçada em Guararema",
+        "descricao": "Serviço da Vidraçaria Boreal"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "imagem": "/imagens/poa2.jpg",
+    "slug": "poa",
+    "nome": "Poá",
+    "descricao": "Vidraçaria Boreal em Poá oferece portas de vidro, sacadas envidraçadas e soluções personalizadas em vidro para residências e comércios.",
+    "historia": "Poá é um município próximo a Arujá, conhecido pelo crescimento urbano e comércio local. A Vidraçaria Boreal garante qualidade e segurança em todos os serviços.",
+    "estado": "SP",
+    "regiao": "Sudeste",
+    "aniversario": "09/08",
+    "servicos": {
+      "nome": "Portas de Vidro",
+      "url": "/servicos/portas-vidro",
+      "descricao": "Portas de vidro elegantes e resistentes para sua casa ou comércio."
+    },
+    "feriados": [{ "nome": "Aniversário de Poá", "data": "09/08" }],
+    "imagens": [
+      {
+        "url": "/imagens/poa-vidro.jpg",
+        "alt": "Porta de vidro em Poá",
+        "descricao": "Instalação da Vidraçaria Boreal"
+      }
+    ]
+  }
+]

@@ -44,7 +44,7 @@
     "slug": "guarulhos",
     "nome": "Guarulhos",
     "descricao": "Vidraçaria Boreal em Guarulhos oferece vidros temperados, portas de vidro e serviços de envidraçamento para residências e empresas.",
-    "historia": "Guarulhos é a segunda maior cidade do estado de São Paulo, com forte comércio e indústria. A Vidraçaria Boreal se destaca atendendo clientes com qualidade e agilidade.",
+    "historia": "<p>Guarulhos é um município da Região Metropolitana de São Paulo, no estado de São Paulo, no Brasil.</p><p> É a segunda cidade mais populosa do estado, a 13.ª mais populosa do país e a 53.ª mais populosa do continente americano, com 1 291 784 habitantes, de acordo com o Censo 2022 do IBGE.[6] Guarulhos foi fundada em 8 de dezembro de 1560, pelo padre jesuíta Manuel de Paiva, com a denominação de Nossa Senhora da Conceição de Guarulhos.</p><p>Sua origem está ligada à de cinco outros povoamentos que tinham, como principal objetivo, defender o povoado de São Paulo dos Campos de Piratininga contra um possível ataque dos Tamoios. </p><p>É a cidade não capital mais populosa do Brasil e é considerada a 10.ª cidade mais rica do país. Em 2020, registrou um Produto Interno Bruto (PIB) de 77,3 bilhões de reais, o que representa 0,9% de todo PIB nacional,[7] além de deter o 3.º maior PIB de seu estado. </p><p>Guarulhos sedia o principal aeroporto do país, que serve São Paulo, o Aeroporto Internacional André Franco Montoro.</p>",
     "estado": "SP",
     "regiao": "Sudeste",
     "aniversario": "08/12",
@@ -56,9 +56,19 @@
     "feriados": [{ "nome": "Aniversário de Guarulhos", "data": "08/12" }],
     "imagens": [
       {
-        "url": "/imagens/guarulhos-vidro.jpg",
-        "alt": "Porta de vidro em Guarulhos",
-        "descricao": "Porta de vidro instalada pela Vidraçaria Boreal"
+        "url": "/imagens/areoporto-guarulhos-vidracaria-boreal.jpg",
+        "alt": "Aeroporto de Guarulhos",
+        "descricao": "<div><p><strong>Aeroporto Internacional de Guarulhos</strong> é um dos mais importantes do Brasil e da América Latina, reconhecido por sua infraestrutura moderna, eficiência operacional e pela capacidade de conectar pessoas e negócios de todo o mundo. O aeroporto é símbolo de desenvolvimento, mobilidade e orgulho para a cidade de Guarulhos.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, destaca o <em>Aeroporto de Guarulhos</em> como um marco de inovação e progresso. Muitos clientes e colaboradores da Boreal veem o aeroporto como um ponto de partida e chegada de grandes histórias e oportunidades.</p><p>Assim como a <strong>Vidraçaria Boreal</strong> busca proporcionar segurança, elegância e modernidade em cada projeto, o <strong>Aeroporto de Guarulhos</strong> representa tecnologia, acolhimento e o espírito cosmopolita da cidade. Duas referências que refletem o compromisso com a excelência e o crescimento de Guarulhos.</p></div>"
+      },
+      {
+        "url": "/imagens/centro-guarulhos-vidracaria-boreal.jpg",
+        "alt": "Centro de Guarulhos",
+        "descricao": "<div><p><strong>Centro de Guarulhos</strong> é o coração pulsante da cidade, onde tradição e modernidade se encontram. Comércios, serviços, cultura e história se misturam em um ambiente dinâmico que reflete a força e a diversidade do povo guarulhense. É um espaço de convivência, trabalho e desenvolvimento constante.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, valoriza o <em>Centro de Guarulhos</em> como símbolo de crescimento e vitalidade urbana. Muitos clientes e parceiros da Boreal fazem parte dessa região que movimenta a economia e inspira inovação.</p><p>Assim como o <strong>Centro de Guarulhos</strong> conecta pessoas e oportunidades, a <strong>Vidraçaria Boreal</strong> busca unir segurança, beleza e qualidade em cada projeto. Duas forças que refletem o compromisso com o progresso e o orgulho de pertencer a Guarulhos.</p></div>"
+      },
+      {
+        "url": "/imagens/parque-bosque-maia-guarulhos-vidracaria-boreal.jpg",
+        "alt": "Bosque Maia - Guarulhos",
+        "descricao": "<div><p><strong>Parque Bosque Maia</strong> é um dos maiores e mais queridos espaços verdes de Guarulhos, oferecendo lazer, natureza e qualidade de vida para moradores e visitantes. Com trilhas, áreas de esporte e espaços de convivência, o parque representa um refúgio de tranquilidade em meio à cidade.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, destaca o <em>Parque Bosque Maia</em> como um símbolo de harmonia, equilíbrio e bem-estar. Muitos clientes e colaboradores da Boreal frequentam o parque e reconhecem sua importância para o lazer e a sustentabilidade de Guarulhos.</p><p>Assim como o <strong>Parque Bosque Maia</strong> oferece beleza e segurança natural, a <strong>Vidraçaria Boreal</strong> busca levar elegância, proteção e conforto aos lares e comércios da cidade. Duas referências que refletem o cuidado com o meio ambiente e o amor por Guarulhos.</p></div>"
       }
     ]
   },

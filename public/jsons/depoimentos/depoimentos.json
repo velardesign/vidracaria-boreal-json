@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Carla Mendes",
+    "image": "/products/petalo.png",
+    "mensagem": "Sou arquiteta há mais de 15 anos e sempre busco peças que valorizem os espaços sem perder a essência do design brasileiro. Os espelhos da Velar Design realmente me surpreenderam — têm um design limpo, modular e ao mesmo tempo marcante. Usei em dois projetos residenciais e o resultado foi incrível: os clientes simplesmente adoraram. É aquele tipo de detalhe que transforma o ambiente com sutileza e sofisticação. Agradeço à Vidraçaria Boreal pelo atendimento atencioso e pela execução impecável do serviço.",
+    "nota": 5
+  },
+  {
+    "id": 2,
+    "name": "Francisco",
+    "image": "/products/espelhos-vidracaria-boreal-condominio-4-aruja.jpeg",
+    "mensagem": "Sou arquiteta há mais de 15 anos e sempre busco peças que valorizem os espaços sem perder a essência do design brasileiro. Os espelhos da Velar Design realmente me surpreenderam — têm um design limpo, modular e ao mesmo tempo marcante. Usei em dois projetos residenciais e o resultado foi incrível: os clientes simplesmente adoraram. É aquele tipo de detalhe que transforma o ambiente com sutileza e sofisticação. Agradeço à Vidraçaria Boreal pelo atendimento atencioso e pela execução impecável do serviço.",
+    "nota": 5
+  },
+  {
+    "id": 3,
+    "name": "Ana Souza",
+    "image": "/products/box-flex-vidracaria-boreal.webp",
+    "mensagem": "Chegou muito rápido e a qualidade é impecável. A instalação foi fácil, sem sujeira nenhuma. A equipe da Vidraçaria Boreal foi extremamente educada e cuidadosa em cada detalhe. Recomendo de olhos fechados!",
+    "nota": 5
+  },
+  {
+    "id": 4,
+    "name": "José Antônio",
+    "image": "/products/espelho-bisote-vidracaria-boreal-poa.webp",
+    "mensagem": "Achei incrível poder montar meu espelho como um quebra-cabeça. O produto é diferenciado e muito bonito. Só não dou 5 estrelas porque pedi para trazer a maquininha de cartão e acabaram esquecendo.",
+    "nota": 4
+  }
+]

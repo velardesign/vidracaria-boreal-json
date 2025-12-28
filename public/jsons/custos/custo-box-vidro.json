@@ -1,0 +1,55 @@
+{
+  "nomeDoProduto": "Box de Vidro",
+  "cidade": "Arujá",
+  "introducao": "Um box de vidro envolve muito mais do que apenas o valor do vidro. Quando um orçamento é muito abaixo do mercado, normalmente algum item essencial foi ignorado — e isso quase sempre gera problemas depois.",
+
+  "blocosDeCusto": [
+    {
+      "nome": "Vidro temperado",
+      "descricao": "Vidro certificado, cortado sob medida e temperado conforme normas técnicas.",
+      "observacao": "Vidros muito baratos geralmente não seguem a espessura correta ou não possuem certificação."
+    },
+    {
+      "nome": "Ferragens",
+      "descricao": "Roldanas, puxadores, trilhos e suportes adequados ao peso do vidro.",
+      "observacao": "Ferragens frágeis causam travamentos, desalinhamento e quebra precoce."
+    },
+    {
+      "nome": "Silicone estrutural",
+      "descricao": "Responsável pela vedação e fixação correta do box.",
+      "observacao": "Silicone comum não suporta umidade constante e perde aderência."
+    },
+    {
+      "nome": "Transporte",
+      "descricao": "Veículo adequado, proteção do vidro e risco assumido pela empresa.",
+      "observacao": "Transporte sem seguro transfere o risco para o cliente."
+    },
+    {
+      "nome": "Equipe técnica",
+      "descricao": "Profissionais treinados para manuseio, instalação e ajuste fino.",
+      "observacao": "Instalação incorreta é uma das principais causas de quebra."
+    }
+  ],
+
+  "explicacaoPrecoBaixo": "Quando o valor cobrado não cobre esses custos, a empresa não consegue absorver prejuízos com quebras, riscos ou ajustes necessários após a instalação.",
+
+  "consequencias": [
+    {
+      "titulo": "Box desalinhado ou vazando",
+      "descricao": "Falta de tempo ou material adequado compromete a vedação."
+    },
+    {
+      "titulo": "Vidro riscado ou danificado",
+      "descricao": "Sem margem financeira, o prejuízo acaba ficando com o cliente."
+    },
+    {
+      "titulo": "Profissional que não retorna",
+      "descricao": "Empresas que operam no limite tendem a desaparecer após problemas."
+    }
+  ],
+
+  "conclusao": "Um box de vidro seguro e durável precisa de uma estrutura de custos mínima. Desconfie de valores muito abaixo do mercado.",
+
+  "textoCTA": "Solicite um orçamento técnico correto",
+  "linkCTA": "/orcamento"
+}

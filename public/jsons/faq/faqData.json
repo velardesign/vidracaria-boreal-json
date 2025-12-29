@@ -1,27 +1,222 @@
 [
   {
     "pergunta": "O box de vidro temperado é seguro?",
-    "resposta":
-      "Sim. O vidro temperado é até cinco vezes mais resistente que o vidro comum e, em caso de quebra, se fragmenta em pequenos pedaços menos cortantes."
+    "resposta": "Sim. O vidro temperado é até cinco vezes mais resistente que o vidro comum e, em caso de quebra, se fragmenta em pequenos pedaços menos cortantes."
   },
   {
     "pergunta": "O serviço pode ser interrompido em dias de chuva?",
-    "resposta":
-      "Sim. Em dias chuvosos, a instalação pode ser pausada temporariamente para garantir a segurança da equipe e a qualidade final do serviço."
+    "resposta": "Sim. Em dias chuvosos, a instalação pode ser pausada temporariamente para garantir a segurança da equipe e a qualidade final do serviço."
   },
   {
     "pergunta": "Qual é o horário de execução do serviço?",
-    "resposta":
-      "Os serviços são realizados em horário comercial, respeitando intervalos legais de almoço e normas do condomínio."
+    "resposta": "Os serviços são realizados em horário comercial, respeitando intervalos legais de almoço e normas do condomínio."
   },
   {
     "pergunta": "O box faz muito barulho durante a instalação?",
-    "resposta":
-      "A instalação envolve uso de ferramentas, o que pode gerar ruído temporário, sempre dentro dos horários permitidos por lei."
+    "resposta": "A instalação envolve uso de ferramentas, o que pode gerar ruído temporário, sempre dentro dos horários permitidos por lei."
   },
   {
     "pergunta": "Qual a espessura do vidro do box?",
-    "resposta":
-      "Normalmente utilizamos vidro temperado de 8mm ou 10mm, conforme o projeto e a necessidade do cliente."
+    "resposta": "Normalmente utilizamos vidro temperado de 8mm ou 10mm, conforme o projeto e a necessidade do cliente."
+  },
+  {
+    "pergunta": "Qual o horário de atendimento da vidraçaria?",
+    "resposta": "Atendemos de segunda a quinta-feira das 09h às 17h e às sextas-feiras das 09h às 15h."
+  },
+  {
+    "pergunta": "Quanto tempo leva para instalar um box de vidro?",
+    "resposta": "A instalação de um box geralmente leva de 2 a 4 horas, dependendo do modelo e complexidade do projeto."
+  },
+  {
+    "pergunta": "O box de vidro precisa de manutenção?",
+    "resposta": "Sim, recomendamos limpeza regular com produtos neutros e verificação periódica das ferragens para garantir durabilidade."
+  },
+  {
+    "pergunta": "Qual a diferença entre vidro temperado e vidro comum?",
+    "resposta": "O vidro temperado passa por tratamento térmico que o torna até 5 vezes mais resistente e, em caso de quebra, fragmenta em pedaços pequenos e menos cortantes."
+  },
+  {
+    "pergunta": "Vocês trabalham com envidraçamento de sacada?",
+    "resposta": "Sim, oferecemos envidraçamento de sacadas com diversos sistemas, incluindo vidro temperado e sistemas retráteis."
+  },
+  {
+    "pergunta": "O que é um guarda-corpo de vidro?",
+    "resposta": "É uma estrutura de proteção feita com vidro temperado, ideal para sacadas, escadas e mezaninos, oferecendo segurança e design moderno."
+  },
+  {
+    "pergunta": "Vocês instalam portas e janelas Max-System?",
+    "resposta": "Sim, somos especializados em sistemas Max-System, reconhecidos pela qualidade e durabilidade no mercado."
+  },
+  {
+    "pergunta": "O que é o sistema Suprema?",
+    "resposta": "O sistema Suprema é uma linha premium de esquadrias de alumínio, oferecendo excelente acabamento e desempenho técnico superior."
+  },
+  {
+    "pergunta": "Qual a diferença entre os sistemas Gold e Orion?",
+    "resposta": "O sistema Gold oferece perfis mais robustos para projetos que exigem maior resistência, enquanto o Orion é ideal para aplicações residenciais padrão com ótimo custo-benefício."
+  },
+  {
+    "pergunta": "O que é o sistema Kaizen?",
+    "resposta": "Kaizen é um sistema de esquadrias de alumínio que combina design elegante com funcionalidade, ideal para projetos modernos e sofisticados."
+  },
+  {
+    "pergunta": "Quanto custa um box de vidro?",
+    "resposta": "O valor varia conforme modelo, tamanho, tipo de vidro e ferragens. Oferecemos orçamento gratuito após avaliação técnica no local."
+  },
+  {
+    "pergunta": "O vidro do box pode ser fumê ou colorido?",
+    "resposta": "Sim, oferecemos vidros em diversas opções: incolor, fumê, bronze, verde e outros acabamentos sob consulta."
+  },
+  {
+    "pergunta": "É possível fazer box sob medida?",
+    "resposta": "Sim, todos os nossos boxes são planejados sob medida para se adequar perfeitamente ao seu banheiro."
+  },
+  {
+    "pergunta": "Quanto tempo leva para fabricar um box?",
+    "resposta": "O prazo médio de fabricação é de 7 a 15 dias úteis, dependendo do modelo e disponibilidade de materiais."
+  },
+  {
+    "pergunta": "Vocês fazem manutenção de box antigo?",
+    "resposta": "Sim, realizamos manutenção, troca de ferragens, regulagem e substituição de vidros danificados."
+  },
+  {
+    "pergunta": "O envidraçamento de sacada é permitido em condomínios?",
+    "resposta": "Depende das normas do condomínio. Recomendamos consultar o regulamento interno antes de iniciar o projeto."
+  },
+  {
+    "pergunta": "O envidraçamento de sacada reduz o barulho?",
+    "resposta": "Sim, o envidraçamento cria uma barreira acústica que pode reduzir significativamente os ruídos externos."
+  },
+  {
+    "pergunta": "Qual a espessura ideal para guarda-corpo de vidro?",
+    "resposta": "Recomendamos vidro temperado de 10mm ou 12mm para guarda-corpo, garantindo segurança e resistência adequadas."
+  },
+  {
+    "pergunta": "O guarda-corpo de vidro suporta impacto?",
+    "resposta": "Sim, quando instalado corretamente com vidro temperado de espessura adequada, suporta impactos normais com segurança."
+  },
+  {
+    "pergunta": "Vocês emitem nota fiscal?",
+    "resposta": "Sim, emitimos nota fiscal para todos os serviços realizados, garantindo garantia e segurança na transação."
+  },
+  {
+    "pergunta": "Qual a garantia dos serviços?",
+    "resposta": "Oferecemos garantia de 1 ano para instalação e conforme especificação do fabricante para vidros e ferragens."
+  },
+  {
+    "pergunta": "É necessário estar presente durante a instalação?",
+    "resposta": "Sim, é importante que o cliente ou responsável esteja presente para autorizar o serviço e esclarecer dúvidas."
+  },
+  {
+    "pergunta": "Vocês removem o box antigo?",
+    "resposta": "Sim, podemos remover e descartar o box antigo antes de instalar o novo, mediante combinação prévia."
+  },
+  {
+    "pergunta": "O que são ferragens para box?",
+    "resposta": "São os acessórios metálicos como dobradiças, puxadores, perfis e fixações que sustentam e permitem o funcionamento do box."
+  },
+  {
+    "pergunta": "Qual a diferença entre box de abrir e de correr?",
+    "resposta": "O box de abrir (pivotante) abre para fora, ideal para espaços amplos. O de correr desliza lateralmente, perfeito para banheiros pequenos."
+  },
+  {
+    "pergunta": "O box pode ir até o teto?",
+    "resposta": "Sim, o box até o teto é uma opção sofisticada que retém vapor, aquece o ambiente e proporciona visual elegante."
+  },
+  {
+    "pergunta": "Como limpar o box de vidro corretamente?",
+    "resposta": "Use detergente neutro, água e rodo após cada banho. Para limpeza profunda, utilize vinagre branco diluído em água."
+  },
+  {
+    "pergunta": "O vidro do box pode riscar?",
+    "resposta": "Vidro temperado é resistente, mas pode riscar com objetos abrasivos. Evite esponjas de aço e produtos inadequados."
+  },
+  {
+    "pergunta": "Existe box anticalcário?",
+    "resposta": "Sim, oferecemos tratamento anticalcário que facilita a limpeza e reduz manchas de água no vidro."
+  },
+  {
+    "pergunta": "O que é vidro laminado?",
+    "resposta": "Vidro laminado é composto por duas ou mais lâminas unidas por película, oferecendo maior segurança e isolamento acústico."
+  },
+  {
+    "pergunta": "Quando devo usar vidro laminado ao invés de temperado?",
+    "resposta": "O vidro laminado é indicado para coberturas, guarda-corpos em áreas de risco elevado e onde se exige maior proteção."
+  },
+  {
+    "pergunta": "Vocês trabalham com espelhos?",
+    "resposta": "Sim, fornecemos e instalamos espelhos sob medida para banheiros, quartos e outros ambientes."
+  },
+  {
+    "pergunta": "É possível instalar prateleiras de vidro?",
+    "resposta": "Sim, instalamos prateleiras de vidro temperado para banheiros, cozinhas e áreas de estar."
+  },
+  {
+    "pergunta": "O que é vidro serigrafado?",
+    "resposta": "É um vidro com desenhos ou padrões aplicados através de processo de serigrafia, ideal para privacidade com design."
+  },
+  {
+    "pergunta": "Vocês fazem projetos comerciais?",
+    "resposta": "Sim, atendemos projetos residenciais e comerciais, incluindo fachadas, divisórias e vitrines."
+  },
+  {
+    "pergunta": "Como funciona o orçamento?",
+    "resposta": "Realizamos visita técnica gratuita, tiramos medidas e apresentamos orçamento detalhado sem compromisso."
+  },
+  {
+    "pergunta": "Aceitam cartão de crédito?",
+    "resposta": "Sim, aceitamos diversas formas de pagamento incluindo cartão de crédito, débito, PIX e transferência bancária."
+  },
+  {
+    "pergunta": "É possível parcelar o pagamento?",
+    "resposta": "Sim, oferecemos opções de parcelamento que podem ser negociadas durante o orçamento."
+  },
+  {
+    "pergunta": "Quanto tempo dura um box de vidro?",
+    "resposta": "Com manutenção adequada, um box de vidro temperado pode durar mais de 20 anos mantendo qualidade e transparência."
+  },
+  {
+    "pergunta": "O que fazer se o box quebrar?",
+    "resposta": "Entre em contato imediatamente. Realizamos avaliação, providenciamos novo vidro e reinstalamos com segurança."
+  },
+  {
+    "pergunta": "Vocês atendem em finais de semana?",
+    "resposta": "Normalmente não, mas em casos específicos podemos agendar atendimento especial mediante consulta prévia."
+  },
+  {
+    "pergunta": "Qual a diferença entre perfil de alumínio branco e natural?",
+    "resposta": "O branco tem pintura eletrostática durável e acabamento clean. O natural (anodizado) tem tonalidade prateada e maior resistência à corrosão."
+  },
+  {
+    "pergunta": "É possível fazer box com porta de correr e fixa?",
+    "resposta": "Sim, existe o modelo misto que combina folha fixa com porta de correr, otimizando espaço e custos."
+  },
+  {
+    "pergunta": "O que é box sanfonado?",
+    "resposta": "É um modelo que dobra em formato sanfona, ideal para banheiros muito pequenos onde é necessário máximo aproveitamento de espaço."
+  },
+  {
+    "pergunta": "Vocês fazem divisórias de vidro para escritório?",
+    "resposta": "Sim, instalamos divisórias de vidro temperado para escritórios, consultórios e ambientes corporativos."
+  },
+  {
+    "pergunta": "O que são portas de vidro blindex?",
+    "resposta": "Blindex é uma marca de vidro temperado. As portas são feitas com vidro temperado de alta qualidade, sem caixilho aparente."
+  },
+  {
+    "pergunta": "É possível instalar box em banheira?",
+    "resposta": "Sim, fazemos projetos personalizados para banheiras com diversos modelos e acabamentos."
+  },
+  {
+    "pergunta": "Vocês fazem tampo de vidro para mesa?",
+    "resposta": "Sim, fabricamos tampos de vidro temperado sob medida para mesas, com diversos formatos e acabamentos de borda."
+  },
+  {
+    "pergunta": "Como entrar em contato para orçamento?",
+    "resposta": "Você pode nos contatar pelo telefone, WhatsApp, e-mail ou visitar nossa loja no horário de atendimento: segunda a quinta das 09h às 17h e sexta das 09h às 15h."
+  },
+  {
+    "pergunta": "Vocês cobrem orçamento de concorrentes?",
+    "resposta": "Analisamos cada caso individualmente. Oferecemos o melhor custo-benefício com qualidade garantida e preço justo."
   }
 ]

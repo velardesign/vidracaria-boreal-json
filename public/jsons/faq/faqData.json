@@ -1,0 +1,27 @@
+[
+  {
+    "pergunta": "O box de vidro temperado é seguro?",
+    "resposta":
+      "Sim. O vidro temperado é até cinco vezes mais resistente que o vidro comum e, em caso de quebra, se fragmenta em pequenos pedaços menos cortantes."
+  },
+  {
+    "pergunta": "O serviço pode ser interrompido em dias de chuva?",
+    "resposta":
+      "Sim. Em dias chuvosos, a instalação pode ser pausada temporariamente para garantir a segurança da equipe e a qualidade final do serviço."
+  },
+  {
+    "pergunta": "Qual é o horário de execução do serviço?",
+    "resposta":
+      "Os serviços são realizados em horário comercial, respeitando intervalos legais de almoço e normas do condomínio."
+  },
+  {
+    "pergunta": "O box faz muito barulho durante a instalação?",
+    "resposta":
+      "A instalação envolve uso de ferramentas, o que pode gerar ruído temporário, sempre dentro dos horários permitidos por lei."
+  },
+  {
+    "pergunta": "Qual a espessura do vidro do box?",
+    "resposta":
+      "Normalmente utilizamos vidro temperado de 8mm ou 10mm, conforme o projeto e a necessidade do cliente."
+  }
+]

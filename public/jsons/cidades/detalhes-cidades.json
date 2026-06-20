@@ -28,12 +28,12 @@
       },
       {
         "url": "/imagens/rodoviaria-aruja-vidracaria-boreal.jpg",
-        "alt": "Rodoviaria de Arujá Perto de Vidraçaria Boreal",
+        "alt": "Rodoviária de Arujá Perto de Vidraçaria Boreal",
         "descricao": "<div><p><strong>Rodoviária de Arujá</strong> é um dos principais pontos de chegada e partida da cidade, conectando Arujá a diversas regiões do estado de São Paulo. Com localização estratégica e fácil acesso, a rodoviária oferece estrutura moderna, ambiente seguro e diversas opções de transporte, tanto intermunicipal quanto interestadual. O local conta com lanchonetes, lojas e áreas de espera confortáveis, garantindo praticidade e comodidade aos passageiros.</p><p>A <strong>Vidraçaria Boreal</strong>, reconhecida por sua qualidade em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, é frequentemente recomendada por quem circula pela região. O pessoal da Boreal destaca o bom atendimento e a organização da <em>Rodoviária de Arujá</em>, que reflete o desenvolvimento e a hospitalidade da cidade.</p><p>Se você está de passagem por Arujá, aproveite para conhecer a <strong>Vidraçaria Boreal</strong> e descobrir soluções modernas em vidro com o melhor custo-benefício. A <strong>Rodoviária de Arujá</strong> é mais do que um ponto de transporte — é um símbolo de movimento, crescimento e integração que conecta pessoas, histórias e oportunidades.</p></div>"
       },
       {
         "url": "/imagens/hospital-aruja-vidracaria-boreal.jpg",
-        "alt": "Rodoviaria de Arujá Perto de Vidraçaria Boreal",
+        "alt": "Hospital de Arujá Perto de Vidraçaria Boreal",
         "descricao": "<div><p><strong>Hospital de Arujá</strong> é uma das principais referências em saúde da região, com estrutura moderna, atendimento humanizado e equipe médica altamente capacitada. O hospital oferece pronto atendimento, exames, internações e diversas especialidades, sempre priorizando o conforto e a segurança dos pacientes.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, destaca o <em>Hospital de Arujá</em> como um símbolo de cuidado e dedicação à comunidade. Muitos clientes e colaboradores da Boreal reconhecem o hospital pela excelência no atendimento e pela importância que tem no desenvolvimento da cidade.</p><p>Assim como a <strong>Vidraçaria Boreal</strong> busca garantir segurança e beleza nos lares e comércios de Arujá, o <strong>Hospital de Arujá</strong> representa confiança, saúde e qualidade de vida. Duas instituições que refletem o compromisso com o bem-estar e o progresso da cidade.</p></div>"
       }
     ]
@@ -83,7 +83,7 @@
     "slug": "mogi-das-cruzes",
     "nome": "Mogi das Cruzes",
     "descricao": "Envidraçamento e portas de vidro em Mogi das Cruzes com a Vidraçaria Boreal. Serviços personalizados para deixar sua casa moderna e segura.",
-    "historia": "Mogi das Cruzes combina tradição histórica com crescimento urbano. A Vidraçaria Boreal contribui com soluções de vidro para imóveis residenciais e comerciais.",
+    "historia": "<div><h2>História de Mogi das Cruzes</h2><p><strong>Mogi das Cruzes</strong> é o maior município da região do Alto Tietê, distante menos de 50 quilômetros da capital paulista. Sua origem remonta a <time datetime='1611-08-17'>17 de agosto de 1611</time>, quando o desbravador <strong>Gaspar Vaz</strong> obteve do governo colonial a criação da <strong>Vila de Sant'Anna de Mogi Mirim</strong>. A solenidade oficial de instalação ocorreu em <time datetime='09-01'>1º de setembro</time> daquele ano, data que até hoje marca o aniversário da cidade.</p><p>O nome <em>Mogi</em> é uma alteração de <q>Boigy</q>, do tupi <q>M'Boigy</q>, que significa <q>Rio das Cobras</q>, em referência a um trecho do Rio Tietê. O complemento <q>das Cruzes</q> surgiu da prática dos antigos povoadores de marcar com cruzes os limites da vila. Cercada pela Serra do Itapeti e pela Serra do Mar, a cidade preserva mais de 65% de seu território em áreas de proteção ambiental, o que reforça sua vocação rural e paisagística.</p><p>Ao longo dos séculos XIX e XX, Mogi das Cruzes consolidou-se como polo econômico do Alto Tietê, dando origem a diversos municípios vizinhos que se emanciparam de seu território — entre eles Suzano, Guararema, Biritiba-Mirim e Itaquaquecetuba. Hoje a cidade combina um centro histórico preservado com bairros residenciais modernos, forte produção agrícola de hortaliças e flores, e um polo comercial e industrial em expansão.</p><div><h3>Vidraçaria Boreal em Mogi das Cruzes</h3><p>A <strong>Vidraçaria Boreal</strong> atende Mogi das Cruzes com soluções completas em <strong>vidros temperados</strong>, <strong>envidraçamento de sacadas</strong>, <strong>box de banheiro</strong> e <strong>esquadrias de alumínio</strong>, levando à cidade o mesmo padrão de qualidade e segurança que já é referência em Arujá e região. A equipe entende as particularidades de cada bairro mogiano, desde o centro histórico até os condomínios mais recentes, e oferece orçamento claro e instalação no prazo combinado.</p><p>Combinando tradição e crescimento urbano, Mogi das Cruzes encontra na Vidraçaria Boreal uma parceira para projetos residenciais e comerciais que pedem acabamento profissional e durabilidade — características que acompanham o ritmo de modernização da maior cidade do Alto Tietê.</p></div></div>",
     "estado": "SP",
     "regiao": "Sudeste",
     "aniversario": "01/09",
@@ -107,16 +107,16 @@
     "slug": "suzano",
     "nome": "Suzano",
     "descricao": "Vidraçaria Boreal em Suzano oferece soluções em vidro temperado, portas de vidro e envidraçamento de sacadas com qualidade premium.",
-    "historia": "Suzano possui grande crescimento residencial e comercial. A Vidraçaria Boreal atende clientes exigentes, garantindo beleza, conforto e segurança.",
+    "historia": "<div><h2>História de Suzano</h2><p><strong>Suzano</strong> nasceu como um pequeno povoado ligado à antiga Estrada Real do Guaió, recebendo diferentes nomes ao longo do tempo: primeiro <strong>Vila da Concórdia</strong>, em 1890, depois <strong>Vila da Piedade</strong> e, mais tarde, <strong>São Sebastião do Guaió</strong>. Em <time datetime='1908'>1908</time>, o local passou a se chamar <em>Suzano</em> em homenagem ao engenheiro <strong>Joaquim Augusto Suzano Brandão</strong>, responsável pela construção da estação ferroviária que impulsionou o crescimento da vila.</p><p>Em <time datetime='1919'>1919</time>, Suzano tornou-se distrito de Mogi das Cruzes, e sua <strong>emancipação político-administrativa</strong> só viria décadas depois, em <time datetime='1948-12-24'>24 de dezembro de 1948</time>. A posse dos primeiros vereadores e prefeito ocorreu em <time datetime='1949-04-02'>2 de abril de 1949</time>, data adotada como aniversário oficial da cidade.</p><p>A partir do século XX, a forte presença de imigrantes japoneses moldou a economia e a cultura local, fazendo da região um importante polo do chamado <q>Cinturão Verde</q> paulista, voltado à produção de hortaliças. Hoje, Suzano é referência também na indústria de papel e celulose, mantendo ainda espaços de lazer como o Parque Municipal Max Feffer e o Parque do Mirante, com vista privilegiada da cidade.</p><div><h3>Vidraçaria Boreal em Suzano</h3><p>A <strong>Vidraçaria Boreal</strong> leva a Suzano soluções modernas em <strong>vidros temperados</strong>, <strong>portas de vidro</strong> e <strong>envidraçamento de sacadas</strong>, atendendo residências e comércios em toda a cidade com o mesmo padrão de qualidade e segurança consolidado em Arujá. Seja em bairros tradicionais ou em novos empreendimentos, a equipe garante acabamento profissional e prazos cumpridos.</p><p>Com Suzano em constante crescimento industrial e residencial, a Vidraçaria Boreal acompanha esse ritmo oferecendo projetos sob medida que unem estética, durabilidade e segurança para quem busca valorizar seu imóvel na cidade.</p></div></div>",
     "estado": "SP",
     "regiao": "Sudeste",
-    "aniversario": "02/07",
+    "aniversario": "02/04",
     "servicos": {
       "nome": "Envidraçamento de Sacadas",
       "url": "/servicos/envidracamento-sacadas",
       "descricao": "Sacadas envidraçadas que aumentam o conforto e a estética do seu lar."
     },
-    "feriados": [{ "nome": "Aniversário de Suzano", "data": "02/07" }],
+    "feriados": [{ "nome": "Aniversário de Suzano", "data": "02/04" }],
     "imagens": [
       {
         "url": "/imagens/suzano-sacada.jpg",
@@ -131,16 +131,16 @@
     "slug": "itaquaquecetuba",
     "nome": "Itaquaquecetuba",
     "descricao": "Portas de vidro e envidraçamento em Itaquaquecetuba com a Vidraçaria Boreal. Soluções modernas para residências e comércios.",
-    "historia": "Itaquaquecetuba é um município em crescimento na região metropolitana de São Paulo. A Vidraçaria Boreal traz inovação e segurança para os projetos locais.",
+    "historia": "<div><h2>História de Itaquaquecetuba</h2><p><strong>Itaquaquecetuba</strong>, carinhosamente chamada de <em>Itaquá</em> pelos moradores, tem sua fundação tradicionalmente associada ao padre jesuíta <strong>José de Anchieta</strong>, em <time datetime='1560-09-08'>8 de setembro de 1560</time>, data celebrada até hoje como aniversário da cidade. O nome, de origem tupi, é a aglutinação dos termos <q>taquara</q>, <q>faca</q> e <q>lugar abundante</q>, numa referência ao grande taquaral de taquaras cortantes que existia às margens do Rio Tietê na época da fundação.</p><p>O território passou a integrar oficialmente o município de <strong>Mogi das Cruzes</strong> como freguesia em <time datetime='1838-02-28'>28 de fevereiro de 1838</time>. A chegada da Estrada de Ferro Central do Brasil, em <time datetime='1925'>1925</time>, impulsionou o crescimento da região, que conquistou sua <strong>emancipação político-administrativa</strong> em <time datetime='1953-12-30'>30 de dezembro de 1953</time>, desmembrando-se definitivamente de Mogi das Cruzes.</p><p>Atualmente, Itaquaquecetuba é um dos municípios mais populosos do Alto Tietê, com forte vocação industrial nos setores de metalurgia, plástico e química, além de um comércio em expansão que acompanha o crescimento constante da cidade.</p><div><h3>Vidraçaria Boreal em Itaquaquecetuba</h3><p>A <strong>Vidraçaria Boreal</strong> atende Itaquaquecetuba com <strong>portas de vidro</strong>, <strong>envidraçamento de sacadas</strong> e <strong>vidros temperados</strong> sob medida, levando à cidade soluções modernas e seguras para residências, condomínios e comércios. A equipe acompanha de perto o crescimento acelerado da região, oferecendo atendimento ágil e orçamento transparente.</p><p>Em uma cidade que combina forte presença industrial com bairros residenciais em constante expansão, a Vidraçaria Boreal se firma como parceira de confiança para quem busca qualidade e durabilidade em projetos de vidro.</p></div></div>",
     "estado": "SP",
     "regiao": "Sudeste",
-    "aniversario": "08/08",
+    "aniversario": "08/09",
     "servicos": {
       "nome": "Portas de Vidro",
       "url": "/servicos/portas-vidro",
       "descricao": "Portas de vidro modernas e resistentes para sua casa ou comércio."
     },
-    "feriados": [{ "nome": "Aniversário de Itaquaquecetuba", "data": "08/08" }],
+    "feriados": [{ "nome": "Aniversário de Itaquaquecetuba", "data": "08/09" }],
     "imagens": [
       {
         "url": "/imagens/itaquaquecetuba-vidro.jpg",
@@ -155,16 +155,16 @@
     "slug": "santa-isabel",
     "nome": "Santa Isabel",
     "descricao": "Vidraçaria Boreal em Santa Isabel oferece vidros, portas de vidro e envidraçamento de sacadas com atendimento personalizado.",
-    "historia": "Santa Isabel, famosa por áreas verdes e qualidade de vida, recebe serviços especializados de vidro com a Vidraçaria Boreal.",
+    "historia": "<div><h2>História de Santa Isabel</h2><p><strong>Santa Isabel</strong> tem suas raízes no século XVIII, quando a região servia de área de passagem para exploradores em busca de ouro rumo a Minas Gerais. Sua formação como povoado remonta a <time datetime='1770'>1770</time>, ligada indiretamente à conquista do ouro e à influência dos vale-paraibanos que circulavam pela região, então um dos primeiros núcleos a compor o Vale do Paraíba no caminho entre São Paulo e Rio de Janeiro.</p><p>O nome da cidade é uma homenagem a <strong>Santa Isabel de Aragão</strong>, rainha de Portugal canonizada em 1625. Em <time datetime='1812'>1812</time>, foi criada a freguesia local, e em <time datetime='1832'>1832</time> Santa Isabel conquistou sua <strong>emancipação política</strong>, tornando-se município autônomo após se desmembrar de Mogi das Cruzes — ainda durante o período Imperial, quando a cidade já demonstrava vocação para a autonomia administrativa.</p><p>Conhecida como a <q>terra da rainha</q>, Santa Isabel mantém até hoje forte vínculo com suas raízes rurais e suas áreas verdes preservadas, características que contribuem para a qualidade de vida valorizada por moradores e visitantes da região do Alto Tietê.</p><div><h3>Vidraçaria Boreal em Santa Isabel</h3><p>A <strong>Vidraçaria Boreal</strong> leva a Santa Isabel soluções em <strong>vidros temperados</strong>, <strong>portas de vidro</strong> e <strong>envidraçamento de sacadas</strong>, com o mesmo padrão de atendimento personalizado que é referência em toda a região. A equipe entende as necessidades específicas de uma cidade que valoriza tranquilidade e qualidade de vida, oferecendo projetos sob medida para residências e pequenos comércios.</p><p>Seja para renovar uma varanda, instalar um box de banheiro ou modernizar janelas, a Vidraçaria Boreal une segurança e elegância aos imóveis de Santa Isabel, reforçando seu compromisso com a excelência em toda a região do Alto Tietê.</p></div></div>",
     "estado": "SP",
     "regiao": "Sudeste",
-    "aniversario": "14/07",
+    "aniversario": "10/07",
     "servicos": {
       "nome": "Envidraçamento de Sacadas",
       "url": "/servicos/envidracamento-sacadas",
       "descricao": "Transforme sua varanda ou sacada com vidros seguros e elegantes."
     },
-    "feriados": [{ "nome": "Aniversário de Santa Isabel", "data": "14/07" }],
+    "feriados": [{ "nome": "Aniversário de Santa Isabel", "data": "10/07" }],
     "imagens": [
       {
         "url": "/imagens/santa-isabel-vidro.jpg",
@@ -179,17 +179,17 @@
     "slug": "ferraz-de-vasconcelos",
     "nome": "Ferraz de Vasconcelos",
     "descricao": "Vidraçaria Boreal em Ferraz de Vasconcelos oferece vidros temperados, portas de vidro e envidraçamento de sacadas com excelência.",
-    "historia": "Ferraz de Vasconcelos é conhecida por seu desenvolvimento residencial. Vidraçaria Boreal garante segurança e beleza em cada projeto.",
+    "historia": "<div><h2>História de Ferraz de Vasconcelos</h2><p><strong>Ferraz de Vasconcelos</strong> teve origem no bairro do Tanquinho, onde se fixaram os primeiros fruticultores da região, atraídos pela fertilidade da terra. A cidade já foi conhecida como <q>Terra da Uva Itália</q>, em razão do cultivo dessa fruta desde o início do século XX. O desenvolvimento local se acelerou com a chegada da <strong>Companhia Agrícola e Territorial Romanópolis</strong>, que deu origem à antiga Vila Romanópolis ao longo da via férrea.</p><p>O nome atual é uma homenagem póstuma ao engenheiro <strong>José Ferraz de Vasconcelos</strong>, da Estrada de Ferro Central do Brasil, falecido em 1924. O distrito foi criado em <time datetime='1948-12-24'>24 de dezembro de 1948</time>, subordinado ao município de Poá, e sua <strong>emancipação político-administrativa</strong> ocorreu em <time datetime='1953-12-14'>14 de outubro de 1953</time>, pela Lei Estadual nº 2456, desmembrando-se de Poá após um processo de negociação política intenso.</p><p>Hoje, Ferraz de Vasconcelos é um dos municípios mais densamente povoados do Alto Tietê, com economia voltada principalmente ao comércio e à prestação de serviços, mantendo forte vínculo com sua história ferroviária e agrícola.</p><div><h3>Vidraçaria Boreal em Ferraz de Vasconcelos</h3><p>A <strong>Vidraçaria Boreal</strong> atende Ferraz de Vasconcelos com <strong>vidros temperados</strong>, <strong>portas de vidro</strong> e <strong>envidraçamento de sacadas</strong> de alta qualidade, garantindo segurança e beleza para residências e comércios em toda a cidade. A equipe acompanha o crescimento urbano acelerado do município com atendimento próximo e soluções sob medida.</p><p>Em uma cidade marcada pela densidade populacional e pelo dinamismo comercial, a Vidraçaria Boreal se destaca pela qualidade dos materiais e pelo compromisso com prazos, consolidando-se como referência local em serviços de vidraçaria.</p></div></div>",
     "estado": "SP",
     "regiao": "Sudeste",
-    "aniversario": "28/04",
+    "aniversario": "14/10",
     "servicos": {
       "nome": "Vidros Temperados",
       "url": "/servicos/vidros-temperados",
       "descricao": "Vidros resistentes e elegantes para casas e comércios."
     },
     "feriados": [
-      { "nome": "Aniversário de Ferraz de Vasconcelos", "data": "28/04" }
+      { "nome": "Aniversário de Ferraz de Vasconcelos", "data": "14/10" }
     ],
     "imagens": [
       {
@@ -201,24 +201,24 @@
   },
   {
     "id": 8,
-    "imagem": "/imagens/itu.jpg",
-    "slug": "itambe",
-    "nome": "Itaimbé",
-    "descricao": "Vidraçaria Boreal em Itaimbé oferece soluções em vidro para residências e empresas, incluindo portas de vidro e envidraçamento de sacadas.",
-    "historia": "Itaimbé é um bairro em crescimento próximo a Arujá, recebendo serviços de vidraçaria de alta qualidade da Vidraçaria Boreal.",
+    "imagem": "/imagens/biritiba-mirim.jpg",
+    "slug": "biritiba-mirim",
+    "nome": "Biritiba-Mirim",
+    "descricao": "Vidraçaria Boreal em Biritiba-Mirim oferece soluções em vidro para residências e empresas, incluindo portas de vidro e envidraçamento de sacadas.",
+    "historia": "<div><h2>História de Biritiba-Mirim</h2><p><strong>Biritiba-Mirim</strong> é uma das dez cidades que compõem a região do Alto Tietê, conhecida por suas paisagens naturais preservadas — cerca de 85 km² do município são cobertos pela Mata Atlântica. Sua origem remonta a <time datetime='1873-05-05'>5 de maio de 1873</time>, quando <strong>Benedito Antônio do Espírito Santo</strong> fundou a Capela de São Benedito, núcleo que deu origem ao povoado local, então um desdobramento das terras de Mogi das Cruzes.</p><p>O nome <em>Biritiba-Mirim</em> vem do tupi-guarani: <q>biri</q> (flor que nasce em abundância em terrenos alagados), <q>tyba</q> (muito) e <q>mirim</q> (pequeno) — formando o significado de <q>pequeno lugar onde nascem muitos biris</q>. Em <time datetime='1924-11-13'>13 de novembro de 1924</time>, a vila passou à condição de distrito de Mogi das Cruzes, e sua <strong>emancipação político-administrativa</strong> só viria décadas depois, em <time datetime='1964-02-28'>28 de fevereiro de 1964</time>, data celebrada como aniversário da cidade.</p><p>Com economia historicamente voltada à produção hortifrutigranjeira, Biritiba-Mirim mantém até hoje sua vocação agrícola e suas tradições culturais, como a Festa do Fortunato e a Festa do Caqui, atraindo moradores e visitantes em busca de natureza exuberante e tranquilidade.</p><div><h3>Vidraçaria Boreal em Biritiba-Mirim</h3><p>A <strong>Vidraçaria Boreal</strong> leva a Biritiba-Mirim soluções modernas em <strong>portas de vidro</strong>, <strong>envidraçamento de sacadas</strong> e <strong>vidros temperados</strong>, adaptadas ao perfil mais residencial e tranquilo da cidade. A equipe valoriza o contato próximo com o cliente, oferecendo orçamento claro e instalação cuidadosa em cada projeto.</p><p>Em uma cidade que preserva suas raízes naturais e agrícolas, a Vidraçaria Boreal contribui com acabamentos que unem segurança e bom gosto, reforçando sua presença em toda a região do Alto Tietê.</p></div></div>",
     "estado": "SP",
     "regiao": "Sudeste",
-    "aniversario": "12/06",
+    "aniversario": "28/02",
     "servicos": {
       "nome": "Portas de Vidro",
       "url": "/servicos/portas-vidro",
       "descricao": "Portas de vidro sob medida, elegantes e resistentes."
     },
-    "feriados": [{ "nome": "Aniversário de Itaimbé", "data": "12/06" }],
+    "feriados": [{ "nome": "Aniversário de Biritiba-Mirim", "data": "28/02" }],
     "imagens": [
       {
-        "url": "/imagens/itaimbe-vidro.jpg",
-        "alt": "Portas de vidro em Itaimbé",
+        "url": "/imagens/biritiba-mirim-vidro.jpg",
+        "alt": "Portas de vidro em Biritiba-Mirim",
         "descricao": "Exemplo de instalação da Vidraçaria Boreal"
       }
     ]
@@ -229,16 +229,16 @@
     "slug": "guararema",
     "nome": "Guararema",
     "descricao": "Envidraçamento de sacadas, portas e vidros temperados em Guararema com a Vidraçaria Boreal. Transforme sua casa com segurança e beleza.",
-    "historia": "Guararema é um município turístico e cultural próximo a Arujá. Vidraçaria Boreal oferece serviços premium de vidraçaria para residências e empresas.",
+    "historia": "<div><h2>História de Guararema</h2><p><strong>Guararema</strong> nasceu de um gesto de generosidade: Dona Laurinda de Souza Leite doou um quinhão de terra às margens do Rio Paraíba à ex-escrava <strong>Maria Florência</strong>, que ali construiu a Capela de São Benedito. Aos poucos, outros moradores se estabeleceram ao redor da capela, formando o vilarejo que recebeu o nome de <em>Guararema</em>, do tupi-guarani <q>pau d'alho</q>, em referência à abundância dessa árvore na região.</p><p>O desenvolvimento da cidade se acelerou em <time datetime='1876-07'>julho de 1876</time>, com a inauguração do trecho da Estrada de Ferro Central do Brasil entre Mogi das Cruzes e Jacareí, que passava pela então Vila de Guararema. A <strong>emancipação política</strong> do município ocorreu em <time datetime='1898-06-03'>3 de junho de 1898</time>, desmembrando-se de Mogi das Cruzes, data que marca o aniversário da cidade.</p><p>Por suas belezas naturais e qualidade de vida, Guararema ficou conhecida entre os moradores mais antigos como a <q>Pérola do Vale</q>. Um marco da cidade é a centenária árvore de Pau D'Alho, ainda hoje um dos pontos turísticos mais visitados do município, símbolo vivo da origem de seu nome.</p><div><h3>Vidraçaria Boreal em Guararema</h3><p>A <strong>Vidraçaria Boreal</strong> oferece a Guararema serviços completos de <strong>envidraçamento de sacadas</strong>, <strong>portas de vidro</strong> e <strong>vidros temperados</strong>, com a mesma qualidade premium que é referência em Arujá e toda a região. A equipe entende o perfil turístico e residencial da cidade, oferecendo soluções que aliam segurança, beleza e durabilidade.</p><p>Em uma cidade reconhecida pela tranquilidade e pela natureza preservada, a Vidraçaria Boreal contribui para a valorização dos imóveis locais com projetos sob medida e atendimento próximo ao cliente.</p></div></div>",
     "estado": "SP",
     "regiao": "Sudeste",
-    "aniversario": "08/09",
+    "aniversario": "03/06",
     "servicos": {
       "nome": "Envidraçamento de Sacadas",
       "url": "/servicos/envidracamento-sacadas",
       "descricao": "Sacadas modernas e seguras com vidros de alta qualidade."
     },
-    "feriados": [{ "nome": "Aniversário de Guararema", "data": "08/09" }],
+    "feriados": [{ "nome": "Aniversário de Guararema", "data": "03/06" }],
     "imagens": [
       {
         "url": "/imagens/guararema-sacada.jpg",
@@ -253,16 +253,16 @@
     "slug": "poa",
     "nome": "Poá",
     "descricao": "Vidraçaria Boreal em Poá oferece portas de vidro, sacadas envidraçadas e soluções personalizadas em vidro para residências e comércios.",
-    "historia": "Poá é um município próximo a Arujá, conhecido pelo crescimento urbano e comércio local. A Vidraçaria Boreal garante qualidade e segurança em todos os serviços.",
+    "historia": "<div><h2>História de Poá</h2><p><strong>Poá</strong> tem registros que remontam a <time datetime='1621'>1621</time>, quando se formou em terras da Ordem dos Carmelitas o povoado conhecido como <q>Apoá</q>, cortado pela antiga Estrada São Paulo–Rio, hoje SP-66. O nome da cidade tem origem indígena e significa <q>bifurcação de caminhos</q>. O local serviu por séculos como ponto de parada de tropeiros e viajantes — entre eles, segundo registros históricos, o próprio Imperador Dom Pedro I.</p><p>Em <time datetime='1877'>1877</time>, moradores da região solicitaram a construção de uma parada de trem entre as estações de Lageado e Mogi das Cruzes, impulsionando o crescimento local em torno da ferrovia. A <strong>emancipação político-administrativa</strong> de Poá ocorreu em <time datetime='1949-03-26'>26 de março de 1949</time>, quando o distrito se desligou de Mogi das Cruzes, data que marca o aniversário da cidade.</p><p>Desde a década de 1970, Poá é reconhecida como <strong>Estância Hidromineral</strong>, abrigando uma das águas minerais mais conhecidas do Brasil — o que rendeu à cidade o apelido de <q>Cidade Jóia</q>. Vizinha de Itaquaquecetuba, Arujá e Santa Isabel, a cidade mantém forte vocação comercial e residencial.</p><div><h3>Vidraçaria Boreal em Poá</h3><p>A <strong>Vidraçaria Boreal</strong> atende Poá com <strong>portas de vidro</strong>, <strong>sacadas envidraçadas</strong> e soluções personalizadas em vidro, levando à <q>Cidade Jóia</q> o mesmo padrão de qualidade e segurança que já é referência em toda a região do Alto Tietê. A equipe conhece bem o crescimento urbano e comercial de Poá, oferecendo orçamento transparente e prazos cumpridos.</p><p>Seja para residências próximas à estação ferroviária ou comércios no centro da cidade, a Vidraçaria Boreal garante acabamento profissional e durabilidade em cada projeto realizado em Poá.</p></div></div>",
     "estado": "SP",
     "regiao": "Sudeste",
-    "aniversario": "09/08",
+    "aniversario": "26/03",
     "servicos": {
       "nome": "Portas de Vidro",
       "url": "/servicos/portas-vidro",
       "descricao": "Portas de vidro elegantes e resistentes para sua casa ou comércio."
     },
-    "feriados": [{ "nome": "Aniversário de Poá", "data": "09/08" }],
+    "feriados": [{ "nome": "Aniversário de Poá", "data": "26/03" }],
     "imagens": [
       {
         "url": "/imagens/poa-vidro.jpg",

@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "imagem": "/imagens/aruja.jpg",
+    "imagem": "/imagens/cidades/aruja/aruja.jpg",
     "slug": "aruja",
     "nome": "Arujá",
     "descricao": "Vidraçaria Boreal em Arujá oferece envidraçamento de sacadas, portas de vidro e soluções personalizadas para sua casa e empresa. Qualidade e segurança garantidas.",
@@ -14,25 +14,30 @@
       "url": "/servicos/envidracamento-sacadas",
       "descricao": "Transforme sua sacada com vidros de alta qualidade, garantindo beleza, conforto e segurança."
     },
-    "feriados": [{ "nome": "Aniversário de Arujá", "data": "02/02" }],
+    "feriados": [
+      {
+        "nome": "Aniversário de Arujá",
+        "data": "02/02"
+      }
+    ],
     "imagens": [
       {
-        "url": "/imagens/praca-de-alimentacao-vidracaria-boreal.jpeg",
+        "url": "/imagens/cidades/aruja/praca-de-alimentacao-vidracaria-boreal.jpeg",
         "alt": "Praça de Alimentação Perto de Vidraçaria Boreal",
         "descricao": "<div><p><strong>Praça de Alimentação de Arujá</strong> é um dos locais mais movimentados da cidade, reunindo o melhor da <strong>culinária local e internacional</strong> em um só espaço. Lá é possível encontrar desde pratos brasileiros tradicionais até opções de gastronomia japonesa, italiana, mexicana e árabe, tudo preparado com qualidade e sabor. O ambiente é moderno, familiar e perfeito para momentos de lazer e boas refeições.</p><p>A equipe da <strong>Vidraçaria Boreal</strong> é presença constante e recomenda as principais barracas e restaurantes pela excelente comida, bom atendimento e preços acessíveis. Os espaços bem iluminados e envidraçados da praça refletem o padrão de qualidade e o cuidado que também são marcas da <em>Vidraçaria Boreal Arujá</em>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>.</p><p>Se você está em busca de um lugar agradável para comer e relaxar, a <strong>Praça de Alimentação de Arujá</strong> é o destino certo. Fácil acesso, estacionamento amplo e um ambiente acolhedor fazem dela um ponto de encontro imperdível. Aproveite para conhecer a <strong>Vidraçaria Boreal</strong> e descubra porque Arujá é sinônimo de qualidade, sabor e bom atendimento.</p></div>"
       },
       {
-        "url": "/imagens/vidracaria-boreal-centro-aruja.jpg",
+        "url": "/imagens/cidades/aruja/vidracaria-boreal-centro-aruja.jpg",
         "alt": "Centro de Arujá Perto de Vidraçaria Boreal",
         "descricao": "<div><p><strong>Centro de Arujá</strong> é o coração pulsante da cidade, reunindo comércio variado, serviços, lazer e cultura em um só lugar. Suas ruas bem organizadas e arborizadas oferecem uma experiência agradável para quem deseja fazer compras, passear ou aproveitar a gastronomia local. No centro, é possível encontrar lojas de todos os tipos, cafés, restaurantes, bancos e pontos turísticos que representam o desenvolvimento e a hospitalidade arujaense.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, está presente na região e é reconhecida por sua excelência no atendimento. A equipe da Boreal conhece bem o <em>Centro de Arujá</em> e recomenda os principais pontos comerciais e gastronômicos, reforçando o orgulho de fazer parte de uma cidade que cresce com qualidade e bom gosto.</p><p>Visitar o <strong>Centro de Arujá</strong> é vivenciar o equilíbrio entre tradição e modernidade. Seja para compras, lazer ou negócios, o local oferece tudo o que o morador ou visitante precisa. E se o assunto for vidro, segurança e beleza nos acabamentos, a escolha certa continua sendo a <strong>Vidraçaria Boreal</strong>, símbolo de confiança e inovação em Arujá e região.</p></div>"
       },
       {
-        "url": "/imagens/rodoviaria-aruja-vidracaria-boreal.jpg",
+        "url": "/imagens/cidades/aruja/rodoviaria-aruja-vidracaria-boreal.jpg",
         "alt": "Rodoviária de Arujá Perto de Vidraçaria Boreal",
         "descricao": "<div><p><strong>Rodoviária de Arujá</strong> é um dos principais pontos de chegada e partida da cidade, conectando Arujá a diversas regiões do estado de São Paulo. Com localização estratégica e fácil acesso, a rodoviária oferece estrutura moderna, ambiente seguro e diversas opções de transporte, tanto intermunicipal quanto interestadual. O local conta com lanchonetes, lojas e áreas de espera confortáveis, garantindo praticidade e comodidade aos passageiros.</p><p>A <strong>Vidraçaria Boreal</strong>, reconhecida por sua qualidade em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, é frequentemente recomendada por quem circula pela região. O pessoal da Boreal destaca o bom atendimento e a organização da <em>Rodoviária de Arujá</em>, que reflete o desenvolvimento e a hospitalidade da cidade.</p><p>Se você está de passagem por Arujá, aproveite para conhecer a <strong>Vidraçaria Boreal</strong> e descobrir soluções modernas em vidro com o melhor custo-benefício. A <strong>Rodoviária de Arujá</strong> é mais do que um ponto de transporte — é um símbolo de movimento, crescimento e integração que conecta pessoas, histórias e oportunidades.</p></div>"
       },
       {
-        "url": "/imagens/hospital-aruja-vidracaria-boreal.jpg",
+        "url": "/imagens/cidades/aruja/hospital-aruja-vidracaria-boreal.jpg",
         "alt": "Hospital de Arujá Perto de Vidraçaria Boreal",
         "descricao": "<div><p><strong>Hospital de Arujá</strong> é uma das principais referências em saúde da região, com estrutura moderna, atendimento humanizado e equipe médica altamente capacitada. O hospital oferece pronto atendimento, exames, internações e diversas especialidades, sempre priorizando o conforto e a segurança dos pacientes.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, destaca o <em>Hospital de Arujá</em> como um símbolo de cuidado e dedicação à comunidade. Muitos clientes e colaboradores da Boreal reconhecem o hospital pela excelência no atendimento e pela importância que tem no desenvolvimento da cidade.</p><p>Assim como a <strong>Vidraçaria Boreal</strong> busca garantir segurança e beleza nos lares e comércios de Arujá, o <strong>Hospital de Arujá</strong> representa confiança, saúde e qualidade de vida. Duas instituições que refletem o compromisso com o bem-estar e o progresso da cidade.</p></div>"
       }
@@ -40,7 +45,7 @@
   },
   {
     "id": 2,
-    "imagem": "/imagens/guarulhos.jpg",
+    "imagem": "/imagens/cidades/guarulhos/guarulhos.jpg",
     "slug": "guarulhos",
     "nome": "Guarulhos",
     "descricao": "Vidraçaria Boreal em Guarulhos oferece vidros temperados, portas de vidro e serviços de envidraçamento para residências e empresas.",
@@ -53,25 +58,30 @@
       "url": "/servicos/portas-vidro",
       "descricao": "Portas de vidro sob medida para residências e comércios, unindo segurança e estética."
     },
-    "feriados": [{ "nome": "Aniversário de Guarulhos", "data": "08/12" }],
+    "feriados": [
+      {
+        "nome": "Aniversário de Guarulhos",
+        "data": "08/12"
+      }
+    ],
     "imagens": [
       {
-        "url": "/imagens/areoporto-guarulhos-vidracaria-boreal.jpg",
+        "url": "/imagens/cidades/guarulhos/areoporto-guarulhos-vidracaria-boreal.jpg",
         "alt": "Aeroporto de Guarulhos",
         "descricao": "<div><p><strong>Aeroporto Internacional de Guarulhos</strong> é um dos mais importantes do Brasil e da América Latina, reconhecido por sua infraestrutura moderna, eficiência operacional e pela capacidade de conectar pessoas e negócios de todo o mundo. O aeroporto é símbolo de desenvolvimento, mobilidade e orgulho para a cidade de Guarulhos.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, destaca o <em>Aeroporto de Guarulhos</em> como um marco de inovação e progresso. Muitos clientes e colaboradores da Boreal veem o aeroporto como um ponto de partida e chegada de grandes histórias e oportunidades.</p><p>Assim como a <strong>Vidraçaria Boreal</strong> busca proporcionar segurança, elegância e modernidade em cada projeto, o <strong>Aeroporto de Guarulhos</strong> representa tecnologia, acolhimento e o espírito cosmopolita da cidade. Duas referências que refletem o compromisso com a excelência e o crescimento de Guarulhos.</p></div>"
       },
       {
-        "url": "/imagens/centro-guarulhos-vidracaria-boreal.jpg",
+        "url": "/imagens/cidades/guarulhos/centro-guarulhos-vidracaria-boreal.jpg",
         "alt": "Centro de Guarulhos",
         "descricao": "<div><p><strong>Centro de Guarulhos</strong> é o coração pulsante da cidade, onde tradição e modernidade se encontram. Comércios, serviços, cultura e história se misturam em um ambiente dinâmico que reflete a força e a diversidade do povo guarulhense. É um espaço de convivência, trabalho e desenvolvimento constante.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, valoriza o <em>Centro de Guarulhos</em> como símbolo de crescimento e vitalidade urbana. Muitos clientes e parceiros da Boreal fazem parte dessa região que movimenta a economia e inspira inovação.</p><p>Assim como o <strong>Centro de Guarulhos</strong> conecta pessoas e oportunidades, a <strong>Vidraçaria Boreal</strong> busca unir segurança, beleza e qualidade em cada projeto. Duas forças que refletem o compromisso com o progresso e o orgulho de pertencer a Guarulhos.</p></div>"
       },
       {
-        "url": "/imagens/parque-bosque-maia-guarulhos-vidracaria-boreal.jpg",
+        "url": "/imagens/cidades/guarulhos/parque-bosque-maia-guarulhos-vidracaria-boreal.jpg",
         "alt": "Bosque Maia - Guarulhos",
         "descricao": "<div><p><strong>Parque Bosque Maia</strong> é um dos maiores e mais queridos espaços verdes de Guarulhos, oferecendo lazer, natureza e qualidade de vida para moradores e visitantes. Com trilhas, áreas de esporte e espaços de convivência, o parque representa um refúgio de tranquilidade em meio à cidade.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, destaca o <em>Parque Bosque Maia</em> como um símbolo de harmonia, equilíbrio e bem-estar. Muitos clientes e colaboradores da Boreal frequentam o parque e reconhecem sua importância para o lazer e a sustentabilidade de Guarulhos.</p><p>Assim como o <strong>Parque Bosque Maia</strong> oferece beleza e segurança natural, a <strong>Vidraçaria Boreal</strong> busca levar elegância, proteção e conforto aos lares e comércios da cidade. Duas referências que refletem o cuidado com o meio ambiente e o amor por Guarulhos.</p></div>"
       },
       {
-        "url": "/imagens/shopping-internacional-guarulhos-vidracaria-boreal.jpg",
+        "url": "/imagens/cidades/guarulhos/shopping-internacional-guarulhos-vidracaria-boreal.jpg",
         "alt": "Shopping Internacional de Guarulhos",
         "descricao": "<div><p><strong>Shopping Internacional de Guarulhos</strong> é um dos maiores e mais completos centros de compras e lazer da região metropolitana, reunindo lojas, gastronomia, cinema e entretenimento em um só lugar. É um ponto de encontro para famílias, amigos e visitantes que buscam conforto, praticidade e diversão.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, destaca o <em>Shopping Internacional de Guarulhos</em> como símbolo de modernidade e desenvolvimento urbano. Muitos clientes e colaboradores da Boreal frequentam o shopping e reconhecem seu papel importante na economia e no cotidiano da cidade.</p><p>Assim como o <strong>Shopping Internacional de Guarulhos</strong> oferece beleza, segurança e conveniência, a <strong>Vidraçaria Boreal</strong> busca levar elegância, inovação e qualidade para os lares e comércios da região. Duas marcas que refletem o espírito dinâmico e acolhedor de Guarulhos.</p></div>"
       }
@@ -79,7 +89,7 @@
   },
   {
     "id": 3,
-    "imagem": "/imagens/mogi-das-cruzes.jpg",
+    "imagem": "/imagens/cidades/mogi-das-cruzes/mogi-das-cruzes.jpg",
     "slug": "mogi-das-cruzes",
     "nome": "Mogi das Cruzes",
     "descricao": "Envidraçamento e portas de vidro em Mogi das Cruzes com a Vidraçaria Boreal. Serviços personalizados para deixar sua casa moderna e segura.",
@@ -92,10 +102,15 @@
       "url": "/servicos/vidros-temperados",
       "descricao": "Vidros temperados de alta resistência, ideais para portas, janelas e sacadas."
     },
-    "feriados": [{ "nome": "Aniversário de Mogi das Cruzes", "data": "01/09" }],
+    "feriados": [
+      {
+        "nome": "Aniversário de Mogi das Cruzes",
+        "data": "01/09"
+      }
+    ],
     "imagens": [
       {
-        "url": "/imagens/mogi-vidro.jpg",
+        "url": "/imagens/cidades/mogi-das-cruzes/mogi-vidro.jpg",
         "alt": "Vidros temperados em Mogi das Cruzes",
         "descricao": "Exemplo de instalação da Vidraçaria Boreal em Mogi"
       }
@@ -103,7 +118,7 @@
   },
   {
     "id": 4,
-    "imagem": "/imagens/suzano.jpg",
+    "imagem": "/imagens/cidade/suzano/suzano-centro.jpg",
     "slug": "suzano",
     "nome": "Suzano",
     "descricao": "Vidraçaria Boreal em Suzano oferece soluções em vidro temperado, portas de vidro e envidraçamento de sacadas com qualidade premium.",
@@ -116,18 +131,38 @@
       "url": "/servicos/envidracamento-sacadas",
       "descricao": "Sacadas envidraçadas que aumentam o conforto e a estética do seu lar."
     },
-    "feriados": [{ "nome": "Aniversário de Suzano", "data": "02/04" }],
+    "feriados": [
+      {
+        "nome": "Aniversário de Suzano",
+        "data": "02/04"
+      }
+    ],
     "imagens": [
       {
-        "url": "/imagens/suzano-sacada.jpg",
-        "alt": "Sacada envidraçada em Suzano",
-        "descricao": "Trabalho da Vidraçaria Boreal em Suzano"
+        "url": "/imagens/cidades/suzano/estacao-cptm-suzano.jpg",
+        "alt": "Foto da Estação CPTM de Suzano",
+        "descricao": "A Estação Suzano da CPTM é um importante ponto de mobilidade da cidade, conectando os moradores à capital paulista e a diversos municípios da Região Metropolitana de São Paulo."
+      },
+      {
+        "url": "/imagens/cidades/suzano/bunkyo.jpeg",
+        "alt": "Foto do Bunkyo Centro de Cultura Japonesa de Suzano",
+        "descricao": "O Bunkyo de Suzano é um importante centro de preservação e divulgação da cultura japonesa, promovendo eventos, atividades culturais e o fortalecimento dos laços da comunidade nipo-brasileira na região."
+      },
+      {
+        "url": "/imagens/cidades/suzano/mirante-suzano.jpg",
+        "alt": "Foto do Mirante de Suzano",
+        "descricao": "O Mirante de Suzano oferece uma vista privilegiada da cidade e da região, sendo um dos pontos de contemplação e lazer mais conhecidos do município."
+      },
+      {
+        "url": "/imagens/cidades/suzano/shopping-suzano.jpg",
+        "alt": "Foto do Suzano Shopping",
+        "descricao": "O Suzano Shopping é um dos principais centros de compras, lazer e entretenimento da cidade, reunindo lojas, restaurantes, serviços e opções de diversão para toda a família."
       }
     ]
   },
   {
     "id": 5,
-    "imagem": "/imagens/itaquaquecetuba.jpg",
+    "imagem": "/imagens/cidades/itaquaquecetuba/itaquaquecetuba.jpg",
     "slug": "itaquaquecetuba",
     "nome": "Itaquaquecetuba",
     "descricao": "Portas de vidro e envidraçamento em Itaquaquecetuba com a Vidraçaria Boreal. Soluções modernas para residências e comércios.",
@@ -140,10 +175,15 @@
       "url": "/servicos/portas-vidro",
       "descricao": "Portas de vidro modernas e resistentes para sua casa ou comércio."
     },
-    "feriados": [{ "nome": "Aniversário de Itaquaquecetuba", "data": "08/09" }],
+    "feriados": [
+      {
+        "nome": "Aniversário de Itaquaquecetuba",
+        "data": "08/09"
+      }
+    ],
     "imagens": [
       {
-        "url": "/imagens/itaquaquecetuba-vidro.jpg",
+        "url": "/imagens/cidades/itaququecetuba/itaquaquecetuba-vidro.jpg",
         "alt": "Portas de vidro em Itaquaquecetuba",
         "descricao": "Vidraçaria Boreal atendendo em Itaquaquecetuba"
       }
@@ -151,7 +191,7 @@
   },
   {
     "id": 6,
-    "imagem": "/imagens/poa.jpg",
+    "imagem": "/imagens/cidades/santa-isabel/poa.jpg",
     "slug": "santa-isabel",
     "nome": "Santa Isabel",
     "descricao": "Vidraçaria Boreal em Santa Isabel oferece vidros, portas de vidro e envidraçamento de sacadas com atendimento personalizado.",
@@ -164,10 +204,15 @@
       "url": "/servicos/envidracamento-sacadas",
       "descricao": "Transforme sua varanda ou sacada com vidros seguros e elegantes."
     },
-    "feriados": [{ "nome": "Aniversário de Santa Isabel", "data": "10/07" }],
+    "feriados": [
+      {
+        "nome": "Aniversário de Santa Isabel",
+        "data": "10/07"
+      }
+    ],
     "imagens": [
       {
-        "url": "/imagens/santa-isabel-vidro.jpg",
+        "url": "/imagens/cidades/santa-isabel/santa-isabel-vidro.jpg",
         "alt": "Sacada envidraçada em Santa Isabel",
         "descricao": "Exemplo de serviço da Vidraçaria Boreal"
       }
@@ -175,7 +220,7 @@
   },
   {
     "id": 7,
-    "imagem": "/imagens/ferraz.jpg",
+    "imagem": "/imagens/cidades/ferraz-de-vasconcelos/ferraz.jpg",
     "slug": "ferraz-de-vasconcelos",
     "nome": "Ferraz de Vasconcelos",
     "descricao": "Vidraçaria Boreal em Ferraz de Vasconcelos oferece vidros temperados, portas de vidro e envidraçamento de sacadas com excelência.",
@@ -189,11 +234,14 @@
       "descricao": "Vidros resistentes e elegantes para casas e comércios."
     },
     "feriados": [
-      { "nome": "Aniversário de Ferraz de Vasconcelos", "data": "14/10" }
+      {
+        "nome": "Aniversário de Ferraz de Vasconcelos",
+        "data": "14/10"
+      }
     ],
     "imagens": [
       {
-        "url": "/imagens/ferraz-vidro.jpg",
+        "url": "/imagens/cidades/ferraz-de-vasconcelos/ferraz-vidro.jpg",
         "alt": "Vidros temperados em Ferraz",
         "descricao": "Instalação da Vidraçaria Boreal"
       }
@@ -201,7 +249,7 @@
   },
   {
     "id": 8,
-    "imagem": "/imagens/biritiba-mirim.jpg",
+    "imagem": "/imagens/cidades/biritiba-mirim/biritiba-mirim.jpg",
     "slug": "biritiba-mirim",
     "nome": "Biritiba-Mirim",
     "descricao": "Vidraçaria Boreal em Biritiba-Mirim oferece soluções em vidro para residências e empresas, incluindo portas de vidro e envidraçamento de sacadas.",
@@ -214,10 +262,15 @@
       "url": "/servicos/portas-vidro",
       "descricao": "Portas de vidro sob medida, elegantes e resistentes."
     },
-    "feriados": [{ "nome": "Aniversário de Biritiba-Mirim", "data": "28/02" }],
+    "feriados": [
+      {
+        "nome": "Aniversário de Biritiba-Mirim",
+        "data": "28/02"
+      }
+    ],
     "imagens": [
       {
-        "url": "/imagens/biritiba-mirim-vidro.jpg",
+        "url": "/imagens/cidades/biritiba-mirim/biritiba-mirim-vidro.jpg",
         "alt": "Portas de vidro em Biritiba-Mirim",
         "descricao": "Exemplo de instalação da Vidraçaria Boreal"
       }
@@ -225,7 +278,7 @@
   },
   {
     "id": 9,
-    "imagem": "/imagens/guararema.jpg",
+    "imagem": "/imagens/cidades/guararema/guararema.jpg",
     "slug": "guararema",
     "nome": "Guararema",
     "descricao": "Envidraçamento de sacadas, portas e vidros temperados em Guararema com a Vidraçaria Boreal. Transforme sua casa com segurança e beleza.",
@@ -238,10 +291,15 @@
       "url": "/servicos/envidracamento-sacadas",
       "descricao": "Sacadas modernas e seguras com vidros de alta qualidade."
     },
-    "feriados": [{ "nome": "Aniversário de Guararema", "data": "03/06" }],
+    "feriados": [
+      {
+        "nome": "Aniversário de Guararema",
+        "data": "03/06"
+      }
+    ],
     "imagens": [
       {
-        "url": "/imagens/guararema-sacada.jpg",
+        "url": "/imagens/cidades/guararema/guararema-sacada.jpg",
         "alt": "Sacada envidraçada em Guararema",
         "descricao": "Serviço da Vidraçaria Boreal"
       }
@@ -249,7 +307,7 @@
   },
   {
     "id": 10,
-    "imagem": "/imagens/poa2.jpg",
+    "imagem": "/imagens/cidades/poa/poa2.jpg",
     "slug": "poa",
     "nome": "Poá",
     "descricao": "Vidraçaria Boreal em Poá oferece portas de vidro, sacadas envidraçadas e soluções personalizadas em vidro para residências e comércios.",
@@ -262,10 +320,15 @@
       "url": "/servicos/portas-vidro",
       "descricao": "Portas de vidro elegantes e resistentes para sua casa ou comércio."
     },
-    "feriados": [{ "nome": "Aniversário de Poá", "data": "26/03" }],
+    "feriados": [
+      {
+        "nome": "Aniversário de Poá",
+        "data": "26/03"
+      }
+    ],
     "imagens": [
       {
-        "url": "/imagens/poa-vidro.jpg",
+        "url": "/imagens/cidades/poa/poa-vidro.jpg",
         "alt": "Porta de vidro em Poá",
         "descricao": "Instalação da Vidraçaria Boreal"
       }

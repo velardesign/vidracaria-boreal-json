@@ -118,7 +118,7 @@
   },
   {
     "id": 4,
-    "imagem": "/imagens/cidade/suzano/suzano-centro.jpg",
+    "imagem": "/imagens/cidades/suzano/suzano-centro.jpg",
     "slug": "suzano",
     "nome": "Suzano",
     "descricao": "Vidraçaria Boreal em Suzano oferece soluções em vidro temperado, portas de vidro e envidraçamento de sacadas com qualidade premium.",
@@ -139,7 +139,7 @@
     ],
     "imagens": [
       {
-        "url": "/imagens/cidades/suzano/estacao-cptm-suzano.jpg",
+        "url": "/imagens/cidades/suzano/estacao-cptm-suzano.webp",
         "alt": "Foto da Estação CPTM de Suzano",
         "descricao": "A Estação Suzano da CPTM é um importante ponto de mobilidade da cidade, conectando os moradores à capital paulista e a diversos municípios da Região Metropolitana de São Paulo."
       },
@@ -149,7 +149,7 @@
         "descricao": "O Bunkyo de Suzano é um importante centro de preservação e divulgação da cultura japonesa, promovendo eventos, atividades culturais e o fortalecimento dos laços da comunidade nipo-brasileira na região."
       },
       {
-        "url": "/imagens/cidades/suzano/mirante-suzano.jpg",
+        "url": "/imagens/cidades/suzano/mirante-suzano.jpeg",
         "alt": "Foto do Mirante de Suzano",
         "descricao": "O Mirante de Suzano oferece uma vista privilegiada da cidade e da região, sendo um dos pontos de contemplação e lazer mais conhecidos do município."
       },

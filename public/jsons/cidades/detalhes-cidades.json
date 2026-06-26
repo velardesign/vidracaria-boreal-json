@@ -397,7 +397,7 @@
   },
   {
     "id": 10,
-    "imagem": "/imagens/cidades/poa/poa2.jpg",
+    "imagem": "/imagens/cidades/poa/centro-poa-vidracaria-boreal.webp",
     "slug": "poa",
     "nome": "Poá",
     "descricao": "Vidraçaria Boreal em Poá oferece portas de vidro, sacadas envidraçadas e soluções personalizadas em vidro para residências e comércios.",
@@ -418,12 +418,12 @@
     ],
     "imagens": [
       {
-        "url": "/imagens/cidades/poa/poa-vidro.jpg",
+        "url": "/imagens/cidades/poa/poa-vidro-vidracaria-boreal.webp",
         "alt": "Porta de vidro em Poá",
         "descricao": "<div><p><strong>Poá</strong>, a <q>Cidade Jóia</q>, é uma das mais tradicionais e acolhedoras do Alto Tietê, reconhecida pela sua água mineral de qualidade e por uma vida comercial e residencial intensa. Localizada em um ponto estratégico entre os grandes municípios da região, Poá é uma cidade que cuida bem dos seus moradores — e da qualidade dos seus imóveis.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, atende Poá com soluções personalizadas que valorizam cada detalhe do seu lar ou comércio. A equipe conhece a cidade e seus bairros, entregando projetos com pontualidade, transparência e acabamento de alto nível.</p><p>Assim como a água de Poá é reconhecida pela sua pureza e qualidade, a <strong>Vidraçaria Boreal</strong> é reconhecida pela clareza no atendimento e pela excelência em cada projeto. <strong>Vidros temperados</strong>, <strong>portas elegantes</strong> e <strong>sacadas envidraçadas</strong> que brilham tanto quanto a joia que dá nome à cidade.</p></div>"
       },
       {
-        "url": "/imagens/cidades/poa/centro-poa-vidracaria-boreal.jpg",
+        "url": "/imagens/cidades/poa/historico-centro-poa-vidracaria-boreal.jpg",
         "alt": "Centro de Poá Perto de Vidraçaria Boreal",
         "descricao": "<div><p><strong>Centro de Poá</strong> é o núcleo comercial e de serviços da <q>Cidade Jóia</q>, onde o movimento intenso das lojas, restaurantes e estabelecimentos reflete a vocação comercial de uma cidade estrategicamente posicionada entre os grandes municípios do Alto Tietê. O centro é ponto de encontro de moradores e visitantes que descobrem em Poá uma cidade acolhedora e cheia de vida.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, atende comerciantes e moradores do <em>Centro de Poá</em> com soluções em vidro que modernizam fachadas e valorizam espaços internos. A equipe da Boreal conhece bem a dinâmica da cidade e oferece atendimento ágil e orçamento sem surpresas.</p><p>Assim como o <strong>Centro de Poá</strong> brilha pelo movimento e pela diversidade, a <strong>Vidraçaria Boreal</strong> faz brilhar cada projeto com acabamentos que unem transparência, segurança e elegância — porque a <q>Cidade Jóia</q> merece soluções que estejam à altura do seu nome.</p></div>"
       },

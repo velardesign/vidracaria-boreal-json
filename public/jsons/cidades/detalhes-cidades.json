@@ -41,402 +41,6 @@
         "alt": "Hospital de Arujá Perto de Vidraçaria Boreal",
         "descricao": "<div><p><strong>Hospital de Arujá</strong> é uma das principais referências em saúde da região, com estrutura moderna, atendimento humanizado e equipe médica altamente capacitada. O hospital oferece pronto atendimento, exames, internações e diversas especialidades, sempre priorizando o conforto e a segurança dos pacientes.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, destaca o <em>Hospital de Arujá</em> como um símbolo de cuidado e dedicação à comunidade. Muitos clientes e colaboradores da Boreal reconhecem o hospital pela excelência no atendimento e pela importância que tem no desenvolvimento da cidade.</p><p>Assim como a <strong>Vidraçaria Boreal</strong> busca garantir segurança e beleza nos lares e comércios de Arujá, o <strong>Hospital de Arujá</strong> representa confiança, saúde e qualidade de vida. Duas instituições que refletem o compromisso com o bem-estar e o progresso da cidade.</p></div>"
       }
-    ]
-  },
-  {
-    "id": 2,
-    "imagem": "/imagens/cidades/guarulhos/guarulhos.jpg",
-    "slug": "guarulhos",
-    "nome": "Guarulhos",
-    "descricao": "Vidraçaria Boreal em Guarulhos oferece vidros temperados, portas de vidro e serviços de envidraçamento para residências e empresas.",
-    "historia": "<div><h2>História de Guarulhos</h2><p><strong>Guarulhos</strong> é o maior município da Região Metropolitana de São Paulo em população, sendo a segunda cidade mais populosa do estado e uma das mais ricas do Brasil. Sua fundação remonta a <time datetime='1560-12-08'>8 de dezembro de 1560</time>, quando o padre jesuíta <strong>Manuel de Paiva</strong> estabeleceu o povoado com a denominação de <em>Nossa Senhora da Conceição de Guarulhos</em>. Sua origem está ligada à defesa do núcleo de São Paulo dos Campos de Piratininga contra possíveis ataques dos Tamoios.</p><p>Ao longo dos séculos, Guarulhos cresceu de forma acelerada, impulsionada pela industrialização e pela chegada de imigrantes de diversas partes do mundo. Em <time datetime='2020'>2020</time>, a cidade registrou um PIB de 77,3 bilhões de reais, consolidando-se como a 10.ª cidade mais rica do Brasil. Hoje, Guarulhos é reconhecida mundialmente por sediar o <strong>Aeroporto Internacional André Franco Montoro</strong>, o principal aeroporto do país, que movimenta milhões de passageiros por ano.</p><p>Com mais de 1,3 milhão de habitantes, Guarulhos combina tradição histórica com modernidade, contando com bairros residenciais planejados, centros comerciais de grande porte, parques urbanos e uma infraestrutura robusta que a posiciona como uma das cidades mais estratégicas do Sudeste brasileiro.</p><div><h3>Vidraçaria Boreal em Guarulhos</h3><p>A <strong>Vidraçaria Boreal</strong> atende Guarulhos com soluções completas em <strong>vidros temperados</strong>, <strong>portas de vidro</strong>, <strong>envidraçamento de sacadas</strong> e <strong>box de banheiro</strong>, levando à maior cidade do entorno metropolitano o mesmo padrão de qualidade e segurança que é referência em Arujá e região. A equipe conhece a dinâmica de uma cidade de grande porte e oferece atendimento ágil, orçamento claro e instalação no prazo combinado.</p><p>Em uma cidade que nunca para, a Vidraçaria Boreal acompanha o ritmo acelerado de Guarulhos com projetos sob medida para residências, condomínios e estabelecimentos comerciais — sempre com materiais de alta qualidade e acabamento profissional.</p></div></div>",
-    "estado": "SP",
-    "regiao": "Sudeste",
-    "aniversario": "08/12",
-    "servicos": {
-      "nome": "Portas de Vidro",
-      "url": "/servicos/portas-vidro",
-      "descricao": "Portas de vidro sob medida para residências e comércios, unindo segurança e estética."
-    },
-    "feriados": [
-      {
-        "nome": "Aniversário de Guarulhos",
-        "data": "08/12"
-      }
-    ],
-    "imagens": [
-      {
-        "url": "/imagens/cidades/guarulhos/areoporto-guarulhos-vidracaria-boreal.jpg",
-        "alt": "Aeroporto de Guarulhos",
-        "descricao": "<div><p><strong>Aeroporto Internacional de Guarulhos</strong> é um dos mais importantes do Brasil e da América Latina, reconhecido por sua infraestrutura moderna, eficiência operacional e pela capacidade de conectar pessoas e negócios de todo o mundo. O aeroporto é símbolo de desenvolvimento, mobilidade e orgulho para a cidade de Guarulhos.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, destaca o <em>Aeroporto de Guarulhos</em> como um marco de inovação e progresso. Muitos clientes e colaboradores da Boreal veem o aeroporto como um ponto de partida e chegada de grandes histórias e oportunidades.</p><p>Assim como a <strong>Vidraçaria Boreal</strong> busca proporcionar segurança, elegância e modernidade em cada projeto, o <strong>Aeroporto de Guarulhos</strong> representa tecnologia, acolhimento e o espírito cosmopolita da cidade. Duas referências que refletem o compromisso com a excelência e o crescimento de Guarulhos.</p></div>"
-      },
-      {
-        "url": "/imagens/cidades/guarulhos/centro-guarulhos-vidracaria-boreal.jpg",
-        "alt": "Centro de Guarulhos",
-        "descricao": "<div><p><strong>Centro de Guarulhos</strong> é o coração pulsante da cidade, onde tradição e modernidade se encontram. Comércios, serviços, cultura e história se misturam em um ambiente dinâmico que reflete a força e a diversidade do povo guarulhense. É um espaço de convivência, trabalho e desenvolvimento constante.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, valoriza o <em>Centro de Guarulhos</em> como símbolo de crescimento e vitalidade urbana. Muitos clientes e parceiros da Boreal fazem parte dessa região que movimenta a economia e inspira inovação.</p><p>Assim como o <strong>Centro de Guarulhos</strong> conecta pessoas e oportunidades, a <strong>Vidraçaria Boreal</strong> busca unir segurança, beleza e qualidade em cada projeto. Duas forças que refletem o compromisso com o progresso e o orgulho de pertencer a Guarulhos.</p></div>"
-      },
-      {
-        "url": "/imagens/cidades/guarulhos/parque-bosque-maia-guarulhos-vidracaria-boreal.jpg",
-        "alt": "Bosque Maia - Guarulhos",
-        "descricao": "<div><p><strong>Parque Bosque Maia</strong> é um dos maiores e mais queridos espaços verdes de Guarulhos, oferecendo lazer, natureza e qualidade de vida para moradores e visitantes. Com trilhas, áreas de esporte e espaços de convivência, o parque representa um refúgio de tranquilidade em meio à cidade.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, destaca o <em>Parque Bosque Maia</em> como um símbolo de harmonia, equilíbrio e bem-estar. Muitos clientes e colaboradores da Boreal frequentam o parque e reconhecem sua importância para o lazer e a sustentabilidade de Guarulhos.</p><p>Assim como o <strong>Parque Bosque Maia</strong> oferece beleza e segurança natural, a <strong>Vidraçaria Boreal</strong> busca levar elegância, proteção e conforto aos lares e comércios da cidade. Duas referências que refletem o cuidado com o meio ambiente e o amor por Guarulhos.</p></div>"
-      },
-      {
-        "url": "/imagens/cidades/guarulhos/shopping-internacional-guarulhos-vidracaria-boreal.jpg",
-        "alt": "Shopping Internacional de Guarulhos",
-        "descricao": "<div><p><strong>Shopping Internacional de Guarulhos</strong> é um dos maiores e mais completos centros de compras e lazer da região metropolitana, reunindo lojas, gastronomia, cinema e entretenimento em um só lugar. É um ponto de encontro para famílias, amigos e visitantes que buscam conforto, praticidade e diversão.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, destaca o <em>Shopping Internacional de Guarulhos</em> como símbolo de modernidade e desenvolvimento urbano. Muitos clientes e colaboradores da Boreal frequentam o shopping e reconhecem seu papel importante na economia e no cotidiano da cidade.</p><p>Assim como o <strong>Shopping Internacional de Guarulhos</strong> oferece beleza, segurança e conveniência, a <strong>Vidraçaria Boreal</strong> busca levar elegância, inovação e qualidade para os lares e comércios da região. Duas marcas que refletem o espírito dinâmico e acolhedor de Guarulhos.</p></div>"
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "imagem": "/imagens/cidades/mogi-das-cruzes/mogi-das-cruzes.jpeg",
-    "slug": "mogi-das-cruzes",
-    "nome": "Mogi das Cruzes",
-    "descricao": "Envidraçamento e portas de vidro em Mogi das Cruzes com a Vidraçaria Boreal. Serviços personalizados para deixar sua casa moderna e segura.",
-    "historia": "<div><h2>História de Mogi das Cruzes</h2><p><strong>Mogi das Cruzes</strong> é o maior município da região do Alto Tietê, distante menos de 50 quilômetros da capital paulista. Sua origem remonta a <time datetime='1611-08-17'>17 de agosto de 1611</time>, quando o desbravador <strong>Gaspar Vaz</strong> obteve do governo colonial a criação da <strong>Vila de Sant'Anna de Mogi Mirim</strong>. A solenidade oficial de instalação ocorreu em <time datetime='09-01'>1º de setembro</time> daquele ano, data que até hoje marca o aniversário da cidade.</p><p>O nome <em>Mogi</em> é uma alteração de <q>Boigy</q>, do tupi <q>M'Boigy</q>, que significa <q>Rio das Cobras</q>, em referência a um trecho do Rio Tietê. O complemento <q>das Cruzes</q> surgiu da prática dos antigos povoadores de marcar com cruzes os limites da vila. Cercada pela Serra do Itapeti e pela Serra do Mar, a cidade preserva mais de 65% de seu território em áreas de proteção ambiental, o que reforça sua vocação rural e paisagística.</p><p>Ao longo dos séculos XIX e XX, Mogi das Cruzes consolidou-se como polo econômico do Alto Tietê, dando origem a diversos municípios vizinhos que se emanciparam de seu território — entre eles Suzano, Guararema, Biritiba-Mirim e Itaquaquecetuba. Hoje a cidade combina um centro histórico preservado com bairros residenciais modernos, forte produção agrícola de hortaliças e flores, e um polo comercial e industrial em expansão.</p><div><h3>Vidraçaria Boreal em Mogi das Cruzes</h3><p>A <strong>Vidraçaria Boreal</strong> atende Mogi das Cruzes com soluções completas em <strong>vidros temperados</strong>, <strong>envidraçamento de sacadas</strong>, <strong>box de banheiro</strong> e <strong>esquadrias de alumínio</strong>, levando à cidade o mesmo padrão de qualidade e segurança que já é referência em Arujá e região. A equipe entende as particularidades de cada bairro mogiano, desde o centro histórico até os condomínios mais recentes, e oferece orçamento claro e instalação no prazo combinado.</p><p>Combinando tradição e crescimento urbano, Mogi das Cruzes encontra na Vidraçaria Boreal uma parceira para projetos residenciais e comerciais que pedem acabamento profissional e durabilidade — características que acompanham o ritmo de modernização da maior cidade do Alto Tietê.</p></div></div>",
-    "estado": "SP",
-    "regiao": "Sudeste",
-    "aniversario": "01/09",
-    "servicos": {
-      "nome": "Vidros Temperados",
-      "url": "/servicos/vidros-temperados",
-      "descricao": "Vidros temperados de alta resistência, ideais para portas, janelas e sacadas."
-    },
-    "feriados": [
-      {
-        "nome": "Aniversário de Mogi das Cruzes",
-        "data": "01/09"
-      }
-    ],
-    "imagens": [
-      {
-        "url": "/imagens/cidades/mogi-das-cruzes/mogi-vidro.jpg",
-        "alt": "Vidros temperados em Mogi das Cruzes",
-        "descricao": "<div><p><strong>Mogi das Cruzes</strong> é o maior e mais tradicional município do Alto Tietê, com um centro histórico rico e bairros residenciais em constante crescimento. A cidade é referência regional em comércio, serviços e agricultura, sendo conhecida especialmente pela produção de flores e hortaliças que abastecem a Grande São Paulo.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, atende moradores e empresas em toda Mogi das Cruzes com projetos sob medida e instalação profissional. A equipe conhece cada bairro da cidade e leva soluções em vidro que unem segurança, modernidade e bom gosto.</p><p>Seja para reformar um imóvel no centro histórico ou equipar um condomínio nos novos loteamentos, a <strong>Vidraçaria Boreal</strong> é a parceira certa em Mogi das Cruzes. Qualidade, pontualidade e atendimento personalizado fazem da Boreal a escolha de quem valoriza o melhor para sua casa ou comércio.</p></div>"
-      },
-      {
-        "url": "/imagens/cidades/mogi-das-cruzes/centro-mogi-das-cruzes-vidracaria-boreal.jpg",
-        "alt": "Centro de Mogi das Cruzes Perto de Vidraçaria Boreal",
-        "descricao": "<div><p><strong>Centro de Mogi das Cruzes</strong> é o coração histórico e comercial da maior cidade do Alto Tietê, reunindo igrejas centenárias, comércio diversificado, serviços, gastronomia e uma arquitetura que mistura o patrimônio colonial com a modernidade de uma cidade em constante crescimento. Suas ruas movimentadas são o ponto de encontro de moradores de toda a região.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, faz parte do cotidiano do <em>Centro de Mogi das Cruzes</em>, atendendo comerciantes e moradores que buscam qualidade e durabilidade nos acabamentos dos seus imóveis. A equipe da Boreal conhece cada rua e cada necessidade da cidade.</p><p>Visitar o <strong>Centro de Mogi das Cruzes</strong> é mergulhar em séculos de história paulista enquanto se descobre uma cidade vibrante e cheia de oportunidades. E quando o assunto é vidro, segurança e sofisticação, a <strong>Vidraçaria Boreal</strong> é a referência que Mogi das Cruzes merece.</p></div>"
-      },
-      {
-        "url": "/imagens/cidades/mogi-das-cruzes/parque-ecologico-mogi-das-cruzes-vidracaria-boreal.jpg",
-        "alt": "Parque Ecológico de Mogi das Cruzes Perto de Vidraçaria Boreal",
-        "descricao": "<div><p><strong>Parque Ecológico de Mogi das Cruzes</strong> é um dos maiores e mais preservados espaços verdes urbanos do Alto Tietê, oferecendo trilhas, lagos, área de piquenique e contato direto com a natureza a poucos minutos do centro da cidade. O parque é símbolo do compromisso de Mogi das Cruzes com a preservação ambiental e a qualidade de vida dos seus moradores.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, valoriza o <em>Parque Ecológico de Mogi das Cruzes</em> como um espaço de bem-estar e convivência que reflete o cuidado da cidade com o meio ambiente. Muitos clientes e colaboradores da Boreal frequentam o parque e reconhecem sua importância para a comunidade mogiana.</p><p>Assim como o <strong>Parque Ecológico</strong> preserva a natureza e oferece tranquilidade, a <strong>Vidraçaria Boreal</strong> preserva a segurança e a beleza dos lares de Mogi das Cruzes com soluções em vidro que unem elegância e funcionalidade em cada projeto.</p></div>"
-      },
-      {
-        "url": "/imagens/cidades/mogi-das-cruzes/feira-do-produtor-mogi-das-cruzes-vidracaria-boreal.webp",
-        "alt": "Feira do Produtor de Mogi das Cruzes Perto de Vidraçaria Boreal",
-        "descricao": "<div><p><strong>Feira do Produtor de Mogi das Cruzes</strong> é uma das mais tradicionais e queridas da região, reunindo agricultores locais que trazem diretamente ao consumidor as flores, hortaliças e frutas cultivadas no chamado <q>Cinturão Verde</q> da cidade. É um espaço de sabor, frescor e identidade cultural que celebra a vocação agrícola mogiana.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, reconhece na <em>Feira do Produtor</em> os mesmos valores que guiam seu trabalho: qualidade, proximidade com o cliente e orgulho de fazer parte da história de Mogi das Cruzes. Muitos clientes da Boreal são frequentadores assíduos da feira.</p><p>Assim como a <strong>Feira do Produtor</strong> entrega o melhor direto de quem produz, a <strong>Vidraçaria Boreal</strong> entrega o melhor em vidro direto de quem instala — com cuidado, pontualidade e o compromisso de sempre superar as expectativas de cada morador de Mogi das Cruzes.</p></div>"
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "imagem": "/imagens/cidades/suzano/suzano-centro.jpg",
-    "slug": "suzano",
-    "nome": "Suzano",
-    "descricao": "Vidraçaria Boreal em Suzano oferece soluções em vidro temperado, portas de vidro e envidraçamento de sacadas com qualidade premium.",
-    "historia": "<div><h2>História de Suzano</h2><p><strong>Suzano</strong> nasceu como um pequeno povoado ligado à antiga Estrada Real do Guaió, recebendo diferentes nomes ao longo do tempo: primeiro <strong>Vila da Concórdia</strong>, em 1890, depois <strong>Vila da Piedade</strong> e, mais tarde, <strong>São Sebastião do Guaió</strong>. Em <time datetime='1908'>1908</time>, o local passou a se chamar <em>Suzano</em> em homenagem ao engenheiro <strong>Joaquim Augusto Suzano Brandão</strong>, responsável pela construção da estação ferroviária que impulsionou o crescimento da vila.</p><p>Em <time datetime='1919'>1919</time>, Suzano tornou-se distrito de Mogi das Cruzes, e sua <strong>emancipação político-administrativa</strong> só viria décadas depois, em <time datetime='1948-12-24'>24 de dezembro de 1948</time>. A posse dos primeiros vereadores e prefeito ocorreu em <time datetime='1949-04-02'>2 de abril de 1949</time>, data adotada como aniversário oficial da cidade.</p><p>A partir do século XX, a forte presença de imigrantes japoneses moldou a economia e a cultura local, fazendo da região um importante polo do chamado <q>Cinturão Verde</q> paulista, voltado à produção de hortaliças. Hoje, Suzano é referência também na indústria de papel e celulose, mantendo ainda espaços de lazer como o Parque Municipal Max Feffer e o Parque do Mirante, com vista privilegiada da cidade.</p><div><h3>Vidraçaria Boreal em Suzano</h3><p>A <strong>Vidraçaria Boreal</strong> leva a Suzano soluções modernas em <strong>vidros temperados</strong>, <strong>portas de vidro</strong> e <strong>envidraçamento de sacadas</strong>, atendendo residências e comércios em toda a cidade com o mesmo padrão de qualidade e segurança consolidado em Arujá. Seja em bairros tradicionais ou em novos empreendimentos, a equipe garante acabamento profissional e prazos cumpridos.</p><p>Com Suzano em constante crescimento industrial e residencial, a Vidraçaria Boreal acompanha esse ritmo oferecendo projetos sob medida que unem estética, durabilidade e segurança para quem busca valorizar seu imóvel na cidade.</p></div></div>",
-    "estado": "SP",
-    "regiao": "Sudeste",
-    "aniversario": "02/04",
-    "servicos": {
-      "nome": "Envidraçamento de Sacadas",
-      "url": "/servicos/envidracamento-sacadas",
-      "descricao": "Sacadas envidraçadas que aumentam o conforto e a estética do seu lar."
-    },
-    "feriados": [
-      {
-        "nome": "Aniversário de Suzano",
-        "data": "02/04"
-      }
-    ],
-    "imagens": [
-      {
-        "url": "/imagens/cidades/suzano/estacao-cptm-suzano.webp",
-        "alt": "Foto da Estação CPTM de Suzano",
-        "descricao": "<div><p><strong>Estação Suzano da CPTM</strong> é um dos principais pontos de mobilidade urbana da cidade, conectando diariamente milhares de moradores à capital paulista e aos demais municípios da Região Metropolitana de São Paulo. Com fluxo intenso de passageiros, a estação representa o dinamismo e a integração de Suzano ao grande eixo metropolitano.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, reconhece a <em>Estação CPTM de Suzano</em> como símbolo do crescimento e da conectividade da cidade. Muitos clientes da Boreal utilizam o trem diariamente e conhecem a empresa pela qualidade dos serviços prestados em toda a região.</p><p>Assim como a <strong>Estação Suzano</strong> conecta pessoas e destinos, a <strong>Vidraçaria Boreal</strong> conecta projetos e sonhos, levando segurança, modernidade e beleza aos lares e comércios de Suzano. Uma cidade em movimento merece soluções em vidro à altura do seu ritmo.</p></div>"
-      },
-      {
-        "url": "/imagens/cidades/suzano/bunkyo.jpeg",
-        "alt": "Foto do Bunkyo Centro de Cultura Japonesa de Suzano",
-        "descricao": "<div><p><strong>Bunkyo de Suzano</strong> é um dos mais importantes centros de preservação e divulgação da cultura japonesa do interior paulista, promovendo eventos, festivais, atividades culturais e o fortalecimento dos laços da comunidade nipo-brasileira na região. O espaço é um marco da influência japonesa que moldou a identidade e a economia de Suzano ao longo do século XX.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, valoriza o <em>Bunkyo de Suzano</em> como símbolo de diversidade cultural e orgulho comunitário. A empresa respeita e celebra as raízes que tornaram Suzano a cidade plural e acolhedora que é hoje.</p><p>Assim como o <strong>Bunkyo</strong> preserva a tradição e projeta Suzano para o futuro, a <strong>Vidraçaria Boreal</strong> une o cuidado com cada detalhe à busca constante por inovação — valores que refletem o espírito único da cidade.</p></div>"
-      },
-      {
-        "url": "/imagens/cidades/suzano/mirante-suzano.jpeg",
-        "alt": "Foto do Mirante de Suzano",
-        "descricao": "<div><p><strong>Mirante de Suzano</strong> oferece uma das vistas mais privilegiadas da cidade e da região, sendo um dos pontos de contemplação e lazer mais conhecidos e queridos pelos moradores. Do alto, é possível admirar a paisagem urbana de Suzano e a extensão das áreas verdes que cercam o município, revelando toda a sua beleza natural.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, destaca o <em>Mirante de Suzano</em> como um símbolo de perspectiva, leveza e contato com a natureza. Muitos clientes da Boreal frequentam o local e reconhecem nele o mesmo prazer que uma sacada bem envidraçada proporciona: a sensação de amplitude e liberdade.</p><p>Assim como o <strong>Mirante</strong> convida a olhar além do horizonte, a <strong>Vidraçaria Boreal</strong> convida você a enxergar novas possibilidades para o seu lar. Qualidade, segurança e uma vista privilegiada — isso é o que a Boreal oferece a cada cliente em Suzano.</p></div>"
-      },
-      {
-        "url": "/imagens/cidades/suzano/shopping-suzano.jpg",
-        "alt": "Foto do Suzano Shopping",
-        "descricao": "<div><p><strong>Suzano Shopping</strong> é um dos principais centros de compras, lazer e entretenimento da cidade, reunindo lojas das mais variadas marcas, restaurantes, praça de alimentação, cinema e opções de diversão para toda a família. Com ambiente moderno e amplo estacionamento, o shopping é ponto de encontro obrigatório para moradores e visitantes.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, destaca o <em>Suzano Shopping</em> como símbolo do desenvolvimento comercial e da qualidade de vida que a cidade oferece. Muitos clientes e colaboradores da Boreal frequentam o shopping e reconhecem sua importância para a economia local.</p><p>Assim como o <strong>Suzano Shopping</strong> reúne o melhor em um só lugar, a <strong>Vidraçaria Boreal</strong> oferece soluções completas em vidro sob um mesmo teto — desde o primeiro contato até a entrega final. Praticidade, qualidade e bom atendimento: valores que Suzano conhece bem.</p></div>"
-      }
-    ]
-  },
-  {
-    "id": 5,
-    "imagem": "/imagens/cidades/itaquaquecetuba/itaquaquecetuba.jpg",
-    "slug": "itaquaquecetuba",
-    "nome": "Itaquaquecetuba",
-    "descricao": "Portas de vidro e envidraçamento em Itaquaquecetuba com a Vidraçaria Boreal. Soluções modernas para residências e comércios.",
-    "historia": "<div><h2>História de Itaquaquecetuba</h2><p><strong>Itaquaquecetuba</strong>, carinhosamente chamada de <em>Itaquá</em> pelos moradores, tem sua fundação tradicionalmente associada ao padre jesuíta <strong>José de Anchieta</strong>, em <time datetime='1560-09-08'>8 de setembro de 1560</time>, data celebrada até hoje como aniversário da cidade. O nome, de origem tupi, é a aglutinação dos termos <q>taquara</q>, <q>faca</q> e <q>lugar abundante</q>, numa referência ao grande taquaral de taquaras cortantes que existia às margens do Rio Tietê na época da fundação.</p><p>O território passou a integrar oficialmente o município de <strong>Mogi das Cruzes</strong> como freguesia em <time datetime='1838-02-28'>28 de fevereiro de 1838</time>. A chegada da Estrada de Ferro Central do Brasil, em <time datetime='1925'>1925</time>, impulsionou o crescimento da região, que conquistou sua <strong>emancipação político-administrativa</strong> em <time datetime='1953-12-30'>30 de dezembro de 1953</time>, desmembrando-se definitivamente de Mogi das Cruzes.</p><p>Atualmente, Itaquaquecetuba é um dos municípios mais populosos do Alto Tietê, com forte vocação industrial nos setores de metalurgia, plástico e química, além de um comércio em expansão que acompanha o crescimento constante da cidade.</p><div><h3>Vidraçaria Boreal em Itaquaquecetuba</h3><p>A <strong>Vidraçaria Boreal</strong> atende Itaquaquecetuba com <strong>portas de vidro</strong>, <strong>envidraçamento de sacadas</strong> e <strong>vidros temperados</strong> sob medida, levando à cidade soluções modernas e seguras para residências, condomínios e comércios. A equipe acompanha de perto o crescimento acelerado da região, oferecendo atendimento ágil e orçamento transparente.</p><p>Em uma cidade que combina forte presença industrial com bairros residenciais em constante expansão, a Vidraçaria Boreal se firma como parceira de confiança para quem busca qualidade e durabilidade em projetos de vidro.</p></div></div>",
-    "estado": "SP",
-    "regiao": "Sudeste",
-    "aniversario": "08/09",
-    "servicos": {
-      "nome": "Portas de Vidro",
-      "url": "/servicos/portas-vidro",
-      "descricao": "Portas de vidro modernas e resistentes para sua casa ou comércio."
-    },
-    "feriados": [
-      {
-        "nome": "Aniversário de Itaquaquecetuba",
-        "data": "08/09"
-      }
-    ],
-    "imagens": [
-      {
-        "url": "/imagens/cidades/itaquaquecetuba/itaquaquecetuba-vidro.jpg",
-        "alt": "Portas de vidro em Itaquaquecetuba",
-        "descricao": "<div><p><strong>Itaquaquecetuba</strong>, a <em>Itaquá</em> do coração dos moradores, é uma cidade em plena expansão, com bairros residenciais em crescimento acelerado e uma economia industrial robusta. Sua população jovem e dinâmica busca cada vez mais qualidade nos acabamentos e na segurança dos imóveis — e é exatamente isso que a <strong>Vidraçaria Boreal</strong> oferece.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, atende toda Itaquaquecetuba com projetos personalizados e instalação profissional. A equipe conhece a realidade dos bairros e condomínios da cidade, entregando soluções que unem modernidade, segurança e preço justo.</p><p>De <strong>portas de vidro</strong> a <strong>sacadas envidraçadas</strong>, a Vidraçaria Boreal transforma ambientes em Itaquaquecetuba com o cuidado e a excelência que cada projeto merece. Porque a sua casa merece o melhor — e a Boreal está aqui para isso.</p></div>"
-      },
-      {
-        "url": "/imagens/cidades/itaquaquecetuba/centro-itaquaquecetuba-vidracaria-boreal.jpg",
-        "alt": "Centro de Itaquaquecetuba Perto de Vidraçaria Boreal",
-        "descricao": "<div><p><strong>Centro de Itaquaquecetuba</strong> é o eixo comercial e de serviços da cidade, um local em constante movimento onde moradores e visitantes encontram lojas, restaurantes, bancos e a agitação típica de uma das cidades mais populosas do Alto Tietê. O centro reflete o crescimento acelerado de Itaquá e o dinamismo do seu povo.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, está presente no <em>Centro de Itaquaquecetuba</em> atendendo comerciantes e moradores com soluções em vidro que aliam modernidade e segurança. A equipe da Boreal conhece a realidade do centro e oferece atendimento ágil e orçamento transparente.</p><p>O <strong>Centro de Itaquaquecetuba</strong> é o coração de uma cidade que não para de crescer — e a <strong>Vidraçaria Boreal</strong> cresce junto com ela, levando qualidade e inovação em vidro para cada esquina, cada comércio e cada lar de Itaquá.</p></div>"
-      },
-      {
-        "url": "/imagens/cidades/itaquaquecetuba/estacao-cptm-itaquaquecetuba-vidracaria-boreal.jpg",
-        "alt": "Estação CPTM de Itaquaquecetuba Perto de Vidraçaria Boreal",
-        "descricao": "<div><p><strong>Estação CPTM de Itaquaquecetuba</strong> é um dos principais pontos de mobilidade urbana da cidade, conectando diariamente milhares de moradores à capital paulista e a toda a Região Metropolitana de São Paulo. A estação representa a integração de Itaquá ao grande eixo metropolitano e é símbolo do desenvolvimento da cidade.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, reconhece a <em>Estação CPTM</em> como um ponto de convergência da vida cotidiana de Itaquaquecetuba. Muitos clientes da Boreal passam pela estação diariamente e conhecem a empresa pela qualidade dos serviços prestados na região.</p><p>Assim como a <strong>Estação CPTM de Itaquaquecetuba</strong> conecta pessoas e destinos, a <strong>Vidraçaria Boreal</strong> conecta projetos e sonhos — levando segurança, modernidade e beleza aos lares e comércios de uma cidade que avança a cada dia.</p></div>"
-      },
-      {
-        "url": "/imagens/cidades/itaquaquecetuba/shopping-itaquaquecetuba-vidracaria-boreal.jpg",
-        "alt": "Shopping de Itaquaquecetuba Perto de Vidraçaria Boreal",
-        "descricao": "<div><p><strong>Shopping de Itaquaquecetuba</strong> é um dos principais centros de compras e entretenimento da cidade, reunindo lojas, praça de alimentação, cinema e opções de lazer para toda a família. Com ambiente moderno e fácil acesso, o shopping é ponto de encontro dos moradores e reflexo do crescimento comercial de Itaquá.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, destaca o shopping como símbolo do desenvolvimento urbano de Itaquaquecetuba. Muitos clientes e colaboradores da Boreal frequentam o espaço e reconhecem sua importância para a qualidade de vida da cidade.</p><p>Assim como o <strong>Shopping de Itaquaquecetuba</strong> reúne o melhor em um só lugar, a <strong>Vidraçaria Boreal</strong> oferece soluções completas em vidro com atendimento próximo e resultado que supera expectativas. Porque Itaquá merece o melhor — e a Boreal está aqui para isso.</p></div>"
-      }
-    ]
-  },
-  {
-    "id": 6,
-    "imagem": "/imagens/cidades/santa-isabel/santa-isabel-vidracaria-boreal.jpeg",
-    "slug": "santa-isabel",
-    "nome": "Santa Isabel",
-    "descricao": "Vidraçaria Boreal em Santa Isabel oferece vidros, portas de vidro e envidraçamento de sacadas com atendimento personalizado.",
-    "historia": "<div><h2>História de Santa Isabel</h2><p><strong>Santa Isabel</strong> tem suas raízes no século XVIII, quando a região servia de área de passagem para exploradores em busca de ouro rumo a Minas Gerais. Sua formação como povoado remonta a <time datetime='1770'>1770</time>, ligada indiretamente à conquista do ouro e à influência dos vale-paraibanos que circulavam pela região, então um dos primeiros núcleos a compor o Vale do Paraíba no caminho entre São Paulo e Rio de Janeiro.</p><p>O nome da cidade é uma homenagem a <strong>Santa Isabel de Aragão</strong>, rainha de Portugal canonizada em 1625. Em <time datetime='1812'>1812</time>, foi criada a freguesia local, e em <time datetime='1832'>1832</time> Santa Isabel conquistou sua <strong>emancipação política</strong>, tornando-se município autônomo após se desmembrar de Mogi das Cruzes — ainda durante o período Imperial, quando a cidade já demonstrava vocação para a autonomia administrativa.</p><p>Conhecida como a <q>terra da rainha</q>, Santa Isabel mantém até hoje forte vínculo com suas raízes rurais e suas áreas verdes preservadas, características que contribuem para a qualidade de vida valorizada por moradores e visitantes da região do Alto Tietê.</p><div><h3>Vidraçaria Boreal em Santa Isabel</h3><p>A <strong>Vidraçaria Boreal</strong> leva a Santa Isabel soluções em <strong>vidros temperados</strong>, <strong>portas de vidro</strong> e <strong>envidraçamento de sacadas</strong>, com o mesmo padrão de atendimento personalizado que é referência em toda a região. A equipe entende as necessidades específicas de uma cidade que valoriza tranquilidade e qualidade de vida, oferecendo projetos sob medida para residências e pequenos comércios.</p><p>Seja para renovar uma varanda, instalar um box de banheiro ou modernizar janelas, a Vidraçaria Boreal une segurança e elegância aos imóveis de Santa Isabel, reforçando seu compromisso com a excelência em toda a região do Alto Tietê.</p></div></div>",
-    "estado": "SP",
-    "regiao": "Sudeste",
-    "aniversario": "10/07",
-    "servicos": {
-      "nome": "Envidraçamento de Sacadas",
-      "url": "/servicos/envidracamento-sacadas",
-      "descricao": "Transforme sua varanda ou sacada com vidros seguros e elegantes."
-    },
-    "feriados": [
-      {
-        "nome": "Aniversário de Santa Isabel",
-        "data": "10/07"
-      }
-    ],
-    "imagens": [
-      {
-        "url": "/imagens/cidades/santa-isabel/portal-santa-isabel-vidracaria-boreal.jpg",
-        "alt": "Sacada envidraçada em Santa Isabel",
-        "descricao": "<div><p><strong>Santa Isabel</strong>, a <q>terra da rainha</q>, é uma cidade que encanta pela tranquilidade, pelas áreas verdes preservadas e pelo estilo de vida que combina o melhor do interior com a praticidade de estar próxima à capital. Seus imóveis residenciais e chácaras refletem o cuidado e o bom gosto dos moradores — e merecem acabamentos à altura.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, atende Santa Isabel com projetos personalizados que valorizam cada detalhe do imóvel. A equipe entende o perfil tranquilo e exigente da cidade, entregando soluções com elegância, segurança e durabilidade.</p><p>De <strong>sacadas envidraçadas</strong> com vista para a natureza a <strong>portas de vidro</strong> que renovam a fachada do seu lar, a <strong>Vidraçaria Boreal</strong> está pronta para transformar os ambientes de Santa Isabel com o cuidado que a cidade da rainha merece.</p></div>"
-      },
-      {
-        "url": "/imagens/cidades/santa-isabel/centro-santa-isabel-vidracaria-boreal.jpg",
-        "alt": "Centro de Santa Isabel Perto de Vidraçaria Boreal",
-        "descricao": "<div><p><strong>Centro de Santa Isabel</strong> é o ponto de encontro da cidade, onde o comércio local, os serviços e a história se misturam em uma atmosfera tranquila e acolhedora. Suas ruas arborizadas e bem cuidadas refletem o orgulho dos moradores por uma cidade que mantém a qualidade de vida como prioridade, mesmo em pleno crescimento.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, atende moradores e comerciantes do <em>Centro de Santa Isabel</em> com projetos que respeitam o perfil elegante e tranquilo da cidade. A equipe da Boreal conhece a realidade local e oferece soluções personalizadas com atendimento próximo e cordial.</p><p>Seja para reformar um estabelecimento no centro ou modernizar a entrada de uma residência, a <strong>Vidraçaria Boreal</strong> entrega qualidade e sofisticação que combinam com o espírito de Santa Isabel — a cidade que cuida dos seus espaços com o carinho de quem tem orgulho de onde vive.</p></div>"
-      },
-      {
-        "url": "/imagens/cidades/santa-isabel/represa-santa-isabel-vidracaria-boreal.jpg",
-        "alt": "Represa de Santa Isabel Perto de Vidraçaria Boreal",
-        "descricao": "<div><p><strong>Represa de Santa Isabel</strong> é um dos pontos naturais mais belos e visitados da cidade, oferecendo paisagens deslumbrantes, pesca esportiva e um ambiente de lazer que atrai moradores e turistas de toda a região. A represa é parte da identidade de Santa Isabel e um dos motivos pelos quais a cidade é tão apreciada por quem busca contato com a natureza.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, destaca a <em>Represa de Santa Isabel</em> como símbolo da beleza natural que caracteriza a <q>terra da rainha</q>. Muitos clientes da Boreal residem próximos à represa e escolhem soluções em vidro que valorizam a vista e o ambiente ao redor.</p><p>Uma sacada envidraçada com vista para a represa é um dos projetos mais especiais que a <strong>Vidraçaria Boreal</strong> realiza em Santa Isabel — unindo a beleza da natureza local com a segurança e a elegância que cada imóvel merece.</p></div>"
-      },
-      {
-        "url": "/imagens/cidades/santa-isabel/igreja-santa-isabel-vidracaria-boreal.jpeg",
-        "alt": "Igreja Matriz de Santa Isabel Perto de Vidraçaria Boreal",
-        "descricao": "<div><p><strong>Igreja Matriz de Santa Isabel</strong> é o monumento mais simbólico da cidade, um marco arquitetônico e espiritual que reúne a comunidade e guarda séculos de história. Dedicada à padroeira que dá nome à cidade, a igreja é um ponto de referência para moradores e visitantes, representando a fé, a tradição e a identidade cultural de Santa Isabel.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, respeita e valoriza a <em>Igreja Matriz</em> como patrimônio vivo da cidade. Muitos clientes da Boreal passam em frente à igreja no cotidiano e reconhecem na empresa o mesmo compromisso com a preservação e o cuidado que o templo representa.</p><p>Assim como a <strong>Igreja Matriz de Santa Isabel</strong> é um símbolo de solidez e beleza que atravessa gerações, a <strong>Vidraçaria Boreal</strong> oferece soluções em vidro duráveis e elegantes que valorizam os imóveis de Santa Isabel hoje e por muitos anos.</p></div>"
-      }
-    ]
-  },
-  {
-    "id": 7,
-    "imagem": "/imagens/cidades/ferraz-de-vasconcelos/ferraz.jpg",
-    "slug": "ferraz-de-vasconcelos",
-    "nome": "Ferraz de Vasconcelos",
-    "descricao": "Vidraçaria Boreal em Ferraz de Vasconcelos oferece vidros temperados, portas de vidro e envidraçamento de sacadas com excelência.",
-    "historia": "<div><h2>História de Ferraz de Vasconcelos</h2><p><strong>Ferraz de Vasconcelos</strong> teve origem no bairro do Tanquinho, onde se fixaram os primeiros fruticultores da região, atraídos pela fertilidade da terra. A cidade já foi conhecida como <q>Terra da Uva Itália</q>, em razão do cultivo dessa fruta desde o início do século XX. O desenvolvimento local se acelerou com a chegada da <strong>Companhia Agrícola e Territorial Romanópolis</strong>, que deu origem à antiga Vila Romanópolis ao longo da via férrea.</p><p>O nome atual é uma homenagem póstuma ao engenheiro <strong>José Ferraz de Vasconcelos</strong>, da Estrada de Ferro Central do Brasil, falecido em 1924. O distrito foi criado em <time datetime='1948-12-24'>24 de dezembro de 1948</time>, subordinado ao município de Poá, e sua <strong>emancipação político-administrativa</strong> ocorreu em <time datetime='1953-10-14'>14 de outubro de 1953</time>, pela Lei Estadual nº 2456, desmembrando-se de Poá após um processo de negociação política intenso.</p><p>Hoje, Ferraz de Vasconcelos é um dos municípios mais densamente povoados do Alto Tietê, com economia voltada principalmente ao comércio e à prestação de serviços, mantendo forte vínculo com sua história ferroviária e agrícola.</p><div><h3>Vidraçaria Boreal em Ferraz de Vasconcelos</h3><p>A <strong>Vidraçaria Boreal</strong> atende Ferraz de Vasconcelos com <strong>vidros temperados</strong>, <strong>portas de vidro</strong> e <strong>envidraçamento de sacadas</strong> de alta qualidade, garantindo segurança e beleza para residências e comércios em toda a cidade. A equipe acompanha o crescimento urbano acelerado do município com atendimento próximo e soluções sob medida.</p><p>Em uma cidade marcada pela densidade populacional e pelo dinamismo comercial, a Vidraçaria Boreal se destaca pela qualidade dos materiais e pelo compromisso com prazos, consolidando-se como referência local em serviços de vidraçaria.</p></div></div>",
-    "estado": "SP",
-    "regiao": "Sudeste",
-    "aniversario": "14/10",
-    "servicos": {
-      "nome": "Vidros Temperados",
-      "url": "/servicos/vidros-temperados",
-      "descricao": "Vidros resistentes e elegantes para casas e comércios."
-    },
-    "feriados": [
-      {
-        "nome": "Aniversário de Ferraz de Vasconcelos",
-        "data": "14/10"
-      }
-    ],
-    "imagens": [
-      {
-        "url": "/imagens/cidades/ferraz-de-vasconcelos/ferraz-vidro.jpg",
-        "alt": "Vidros temperados em Ferraz de Vasconcelos",
-        "descricao": "<div><p><strong>Ferraz de Vasconcelos</strong>, a antiga <q>Terra da Uva Itália</q>, é hoje uma das cidades mais populosas do Alto Tietê, com um comércio vibrante e bairros residenciais em constante crescimento. A cidade tem orgulho de suas raízes ferroviárias e agrícolas, mas olha para o futuro com a energia de quem não para de crescer.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, acompanha o desenvolvimento de Ferraz de Vasconcelos oferecendo soluções modernas e seguras para cada tipo de imóvel. A equipe atende tanto residências tradicionais quanto os novos empreendimentos da cidade com agilidade e excelência.</p><p>Com a <strong>Vidraçaria Boreal</strong>, Ferraz de Vasconcelos ganha mais beleza, segurança e sofisticação em cada projeto. Afinal, uma cidade que não para merece soluções em vidro que estejam sempre à altura do seu crescimento.</p></div>"
-      },
-      {
-        "url": "/imagens/cidades/ferraz-de-vasconcelos/centro-ferraz-vidracaria-boreal.jpg",
-        "alt": "Centro de Ferraz de Vasconcelos Perto de Vidraçaria Boreal",
-        "descricao": "<div><p><strong>Centro de Ferraz de Vasconcelos</strong> é o núcleo comercial e de serviços da cidade, um espaço vibrante onde o comércio popular se mistura com restaurantes, bancos e o movimento intenso de uma das cidades mais densamente povoadas do Alto Tietê. O centro reflete a energia e o dinamismo de Ferraz, que nunca para.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, atende comerciantes e moradores do <em>Centro de Ferraz de Vasconcelos</em> com projetos sob medida e instalação profissional. A equipe da Boreal conhece o ritmo acelerado da cidade e garante agilidade no atendimento e cumprimento de prazos.</p><p>O <strong>Centro de Ferraz de Vasconcelos</strong> é o coração de uma cidade que cresce sem parar — e a <strong>Vidraçaria Boreal</strong> acompanha esse ritmo, oferecendo qualidade, segurança e modernidade em vidro para cada projeto, do menor ao maior.</p></div>"
-      },
-      {
-        "url": "/imagens/cidades/ferraz-de-vasconcelos/estacao-cptm-ferraz-vidracaria-boreal.jpg",
-        "alt": "Estação CPTM de Ferraz de Vasconcelos Perto de Vidraçaria Boreal",
-        "descricao": "<div><p><strong>Estação CPTM de Ferraz de Vasconcelos</strong> é um dos pontos mais movimentados da cidade, conectando diariamente a população à capital paulista e aos municípios vizinhos do Alto Tietê. A estação é símbolo da integração de Ferraz à grande malha metropolitana e do cotidiano de uma cidade onde o movimento nunca cessa.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, reconhece a <em>Estação CPTM de Ferraz</em> como parte fundamental da rotina dos moradores e clientes que confiam na Boreal para cuidar dos seus imóveis. A proximidade com o transporte público facilita o acesso aos serviços da empresa em toda a cidade.</p><p>Assim como a <strong>Estação CPTM</strong> conecta Ferraz de Vasconcelos ao mundo, a <strong>Vidraçaria Boreal</strong> conecta projetos à realidade, entregando soluções em vidro com pontualidade, qualidade e o compromisso de superar as expectativas de cada cliente.</p></div>"
-      },
-      {
-        "url": "/imagens/cidades/ferraz-de-vasconcelos/parque-ferraz-vidracaria-boreal.jpg",
-        "alt": "Parque Municipal de Ferraz de Vasconcelos Perto de Vidraçaria Boreal",
-        "descricao": "<div><p><strong>Parque Municipal de Ferraz de Vasconcelos</strong> é um dos principais espaços de lazer e convivência da cidade, oferecendo áreas verdes, pistas de caminhada e espaços de descanso para moradores de todas as idades. O parque é um respiro de natureza em meio à densidade urbana de Ferraz, representando o cuidado da cidade com o bem-estar da sua população.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, valoriza o <em>Parque Municipal de Ferraz</em> como espaço de qualidade de vida que complementa os lares que a Boreal ajuda a construir. Uma casa bonita e segura por dentro merece uma cidade com espaços verdes igualmente cuidados.</p><p>Assim como o <strong>Parque Municipal</strong> oferece um ambiente de beleza e tranquilidade para os moradores de Ferraz de Vasconcelos, a <strong>Vidraçaria Boreal</strong> oferece acabamentos em vidro que trazem leveza, claridade e elegância para dentro de cada lar da cidade.</p></div>"
-      }
-    ]
-  },
-  {
-    "id": 8,
-    "imagem": "/imagens/cidades/biritiba-mirim/biritiba-mirim.jpg",
-    "slug": "biritiba-mirim",
-    "nome": "Biritiba-Mirim",
-    "descricao": "Vidraçaria Boreal em Biritiba-Mirim oferece soluções em vidro para residências e empresas, incluindo portas de vidro e envidraçamento de sacadas.",
-    "historia": "<div><h2>História de Biritiba-Mirim</h2><p><strong>Biritiba-Mirim</strong> é uma das dez cidades que compõem a região do Alto Tietê, conhecida por suas paisagens naturais preservadas — cerca de 85 km² do município são cobertos pela Mata Atlântica. Sua origem remonta a <time datetime='1873-05-05'>5 de maio de 1873</time>, quando <strong>Benedito Antônio do Espírito Santo</strong> fundou a Capela de São Benedito, núcleo que deu origem ao povoado local, então um desdobramento das terras de Mogi das Cruzes.</p><p>O nome <em>Biritiba-Mirim</em> vem do tupi-guarani: <q>biri</q> (flor que nasce em abundância em terrenos alagados), <q>tyba</q> (muito) e <q>mirim</q> (pequeno) — formando o significado de <q>pequeno lugar onde nascem muitos biris</q>. Em <time datetime='1924-11-13'>13 de novembro de 1924</time>, a vila passou à condição de distrito de Mogi das Cruzes, e sua <strong>emancipação político-administrativa</strong> só viria décadas depois, em <time datetime='1964-02-28'>28 de fevereiro de 1964</time>, data celebrada como aniversário da cidade.</p><p>Com economia historicamente voltada à produção hortifrutigranjeira, Biritiba-Mirim mantém até hoje sua vocação agrícola e suas tradições culturais, como a Festa do Fortunato e a Festa do Caqui, atraindo moradores e visitantes em busca de natureza exuberante e tranquilidade.</p><div><h3>Vidraçaria Boreal em Biritiba-Mirim</h3><p>A <strong>Vidraçaria Boreal</strong> leva a Biritiba-Mirim soluções modernas em <strong>portas de vidro</strong>, <strong>envidraçamento de sacadas</strong> e <strong>vidros temperados</strong>, adaptadas ao perfil mais residencial e tranquilo da cidade. A equipe valoriza o contato próximo com o cliente, oferecendo orçamento claro e instalação cuidadosa em cada projeto.</p><p>Em uma cidade que preserva suas raízes naturais e agrícolas, a Vidraçaria Boreal contribui com acabamentos que unem segurança e bom gosto, reforçando sua presença em toda a região do Alto Tietê.</p></div></div>",
-    "estado": "SP",
-    "regiao": "Sudeste",
-    "aniversario": "28/02",
-    "servicos": {
-      "nome": "Portas de Vidro",
-      "url": "/servicos/portas-vidro",
-      "descricao": "Portas de vidro sob medida, elegantes e resistentes."
-    },
-    "feriados": [
-      {
-        "nome": "Aniversário de Biritiba-Mirim",
-        "data": "28/02"
-      }
-    ],
-    "imagens": [
-      {
-        "url": "/imagens/cidades/biritiba-mirim/biritiba-mirim-vidro.jpg",
-        "alt": "Portas de vidro em Biritiba-Mirim",
-        "descricao": "<div><p><strong>Biritiba-Mirim</strong> é uma das cidades mais verdes do Alto Tietê, com extensas áreas de Mata Atlântica preservada, produção agrícola tradicional e um estilo de vida tranquilo que conquista quem a visita. Suas chácaras, sítios e residências refletem o cuidado dos moradores com a natureza — e merecem acabamentos que estejam à altura dessa beleza.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, atende Biritiba-Mirim com projetos personalizados que respeitam o perfil residencial e tranquilo da cidade. A equipe oferece atendimento próximo, orçamento sem surpresas e instalação cuidadosa em cada detalhe.</p><p>De <strong>portas de vidro</strong> que iluminam ambientes a <strong>sacadas envidraçadas</strong> que ampliam a vista para a natureza, a <strong>Vidraçaria Boreal</strong> transforma os espaços de Biritiba-Mirim com segurança, elegância e o cuidado que essa cidade tão especial merece.</p></div>"
-      },
-      {
-        "url": "/imagens/cidades/biritiba-mirim/centro-biritiba-mirim-vidracaria-boreal.jpg",
-        "alt": "Centro de Biritiba-Mirim Perto de Vidraçaria Boreal",
-        "descricao": "<div><p><strong>Centro de Biritiba-Mirim</strong> é o coração da cidade, onde o comércio local, os serviços e a vida comunitária se encontram em um ambiente tranquilo e acolhedor. Com ruas bem cuidadas e moradores que prezam pelo bom convívio, o centro reflete o ritmo sereno e a qualidade de vida que tornam Biritiba-Mirim uma cidade tão especial no Alto Tietê.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, atende moradores e comerciantes do <em>Centro de Biritiba-Mirim</em> com projetos personalizados e instalação cuidadosa. A equipe da Boreal respeita o ritmo e o perfil da cidade, oferecendo atendimento próximo e soluções que valorizam cada imóvel.</p><p>Em uma cidade que cuida tão bem dos seus espaços públicos, a <strong>Vidraçaria Boreal</strong> cuida com o mesmo esmero dos espaços privados — levando <strong>vidros temperados</strong>, <strong>portas elegantes</strong> e <strong>sacadas envidraçadas</strong> que transformam lares e comércios de Biritiba-Mirim.</p></div>"
-      },
-      {
-        "url": "/imagens/cidades/biritiba-mirim/represa-biritiba-mirim-vidracaria-boreal.jpg",
-        "alt": "Represa de Biritiba-Mirim Perto de Vidraçaria Boreal",
-        "descricao": "<div><p><strong>Represa de Biritiba-Mirim</strong> é um dos pontos mais belos e importantes da cidade, integrando o sistema de abastecimento da Região Metropolitana de São Paulo e oferecendo uma paisagem natural de tirar o fôlego. Com suas águas tranquilas cercadas por Mata Atlântica, a represa é símbolo da riqueza ambiental que faz de Biritiba-Mirim uma cidade única.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, destaca a <em>Represa de Biritiba-Mirim</em> como um dos grandes patrimônios naturais da região. Muitos clientes da Boreal residem próximos à represa e escolhem soluções em vidro que aproveitam ao máximo a vista privilegiada que o local oferece.</p><p>Uma <strong>sacada envidraçada</strong> com vista para as águas da represa é um dos projetos mais especiais que a <strong>Vidraçaria Boreal</strong> realiza em Biritiba-Mirim — unindo natureza, segurança e elegância em um ambiente que representa o melhor desta cidade tão preservada.</p></div>"
-      },
-      {
-        "url": "/imagens/cidades/biritiba-mirim/festa-caqui-biritiba-mirim-vidracaria-boreal.jpg",
-        "alt": "Festa do Caqui de Biritiba-Mirim Perto de Vidraçaria Boreal",
-        "descricao": "<div><p><strong>Festa do Caqui de Biritiba-Mirim</strong> é uma das celebrações mais tradicionais e queridas da cidade, reunindo produtores rurais, visitantes e moradores em torno da fruta que é símbolo da vocação agrícola do município. O evento celebra a identidade cultural de Biritiba-Mirim e reforça os laços entre a comunidade e suas raízes no campo.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, valoriza a <em>Festa do Caqui</em> como expressão da tradição e do orgulho que os moradores de Biritiba-Mirim têm de sua cidade. A empresa compartilha esses valores ao oferecer serviços com o mesmo cuidado e dedicação que os produtores locais colocam em cada colheita.</p><p>Assim como a <strong>Festa do Caqui</strong> celebra o que há de melhor em Biritiba-Mirim, a <strong>Vidraçaria Boreal</strong> celebra a qualidade em cada projeto — entregando soluções em vidro que são, assim como o caqui da cidade, referência de excelência na região.</p></div>"
-      }
-    ]
-  },
-  {
-    "id": 9,
-    "imagem": "/imagens/cidades/guararema/guararema.jpg",
-    "slug": "guararema",
-    "nome": "Guararema",
-    "descricao": "Envidraçamento de sacadas, portas e vidros temperados em Guararema com a Vidraçaria Boreal. Transforme sua casa com segurança e beleza.",
-    "historia": "<div><h2>História de Guararema</h2><p><strong>Guararema</strong> nasceu de um gesto de generosidade: Dona Laurinda de Souza Leite doou um quinhão de terra às margens do Rio Paraíba à ex-escrava <strong>Maria Florência</strong>, que ali construiu a Capela de São Benedito. Aos poucos, outros moradores se estabeleceram ao redor da capela, formando o vilarejo que recebeu o nome de <em>Guararema</em>, do tupi-guarani <q>pau d'alho</q>, em referência à abundância dessa árvore na região.</p><p>O desenvolvimento da cidade se acelerou em <time datetime='1876-07'>julho de 1876</time>, com a inauguração do trecho da Estrada de Ferro Central do Brasil entre Mogi das Cruzes e Jacareí, que passava pela então Vila de Guararema. A <strong>emancipação política</strong> do município ocorreu em <time datetime='1898-06-03'>3 de junho de 1898</time>, desmembrando-se de Mogi das Cruzes, data que marca o aniversário da cidade.</p><p>Por suas belezas naturais e qualidade de vida, Guararema ficou conhecida entre os moradores mais antigos como a <q>Pérola do Vale</q>. Um marco da cidade é a centenária árvore de Pau D'Alho, ainda hoje um dos pontos turísticos mais visitados do município, símbolo vivo da origem de seu nome.</p><div><h3>Vidraçaria Boreal em Guararema</h3><p>A <strong>Vidraçaria Boreal</strong> oferece a Guararema serviços completos de <strong>envidraçamento de sacadas</strong>, <strong>portas de vidro</strong> e <strong>vidros temperados</strong>, com a mesma qualidade premium que é referência em Arujá e toda a região. A equipe entende o perfil turístico e residencial da cidade, oferecendo soluções que aliam segurança, beleza e durabilidade.</p><p>Em uma cidade reconhecida pela tranquilidade e pela natureza preservada, a Vidraçaria Boreal contribui para a valorização dos imóveis locais com projetos sob medida e atendimento próximo ao cliente.</p></div></div>",
-    "estado": "SP",
-    "regiao": "Sudeste",
-    "aniversario": "03/06",
-    "servicos": {
-      "nome": "Envidraçamento de Sacadas",
-      "url": "/servicos/envidracamento-sacadas",
-      "descricao": "Sacadas modernas e seguras com vidros de alta qualidade."
-    },
-    "feriados": [
-      {
-        "nome": "Aniversário de Guararema",
-        "data": "03/06"
-      }
-    ],
-    "imagens": [
-      {
-        "url": "/imagens/cidades/guararema/guararema-sacada.jpg",
-        "alt": "Sacada envidraçada em Guararema",
-        "descricao": "<div><p><strong>Guararema</strong>, a <q>Pérola do Vale</q>, é uma das cidades mais charmosas e preservadas do Alto Tietê, conhecida por suas belezas naturais, pelo turismo rural e por uma qualidade de vida que atrai moradores e visitantes de toda a Grande São Paulo. Suas residências e pousadas refletem o cuidado de quem valoriza o conforto e a elegância em harmonia com a natureza.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, atende Guararema com projetos que respeitam a beleza e o perfil da cidade. Uma sacada envidraçada com vista para os morros e o Rio Paraíba é exatamente o tipo de solução que a Boreal entrega com qualidade e precisão.</p><p>Em uma cidade que cuida tão bem de suas paisagens, a <strong>Vidraçaria Boreal</strong> cuida com o mesmo esmero dos seus espaços internos — com <strong>vidros temperados</strong>, <strong>portas elegantes</strong> e acabamentos que valorizam cada metro quadrado do seu imóvel em Guararema.</p></div>"
-      },
-      {
-        "url": "/imagens/cidades/guararema/centro-guararema-vidracaria-boreal.jpg",
-        "alt": "Centro de Guararema Perto de Vidraçaria Boreal",
-        "descricao": "<div><p><strong>Centro de Guararema</strong> é o coração histórico e comercial da <q>Pérola do Vale</q>, onde o charme do interior paulista se manifesta em cada rua calma, cada fachada preservada e cada estabelecimento que recebe os moradores e turistas com a hospitalidade típica da cidade. O centro é a porta de entrada para quem quer descobrir a essência de Guararema.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, atende moradores e comerciantes do <em>Centro de Guararema</em> com projetos sob medida que respeitam a arquitetura e o perfil elegante da cidade. A equipe da Boreal entende que em Guararema cada detalhe importa.</p><p>Seja para modernizar a vitrine de um comércio no centro ou instalar uma <strong>porta de vidro</strong> que valorize a fachada de uma residência histórica, a <strong>Vidraçaria Boreal</strong> entrega o acabamento perfeito para quem sabe que a <q>Pérola do Vale</q> merece o melhor.</p></div>"
-      },
-      {
-        "url": "/imagens/cidades/guararema/rio-paraiba-guararema-vidracaria-boreal.jpg",
-        "alt": "Rio Paraíba em Guararema Perto de Vidraçaria Boreal",
-        "descricao": "<div><p><strong>Rio Paraíba do Sul em Guararema</strong> é um dos grandes cartões-postais naturais da cidade, oferecendo paisagens de rara beleza, pesca, canoagem e lazer às margens de um dos rios mais importantes do estado de São Paulo. O rio é parte da alma de Guararema e um dos motivos pelos quais a cidade atrai tantos visitantes em busca de natureza e tranquilidade.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, destaca o <em>Rio Paraíba</em> como símbolo da beleza natural que torna Guararema única no Alto Tietê. Muitos clientes da Boreal residem em chácaras e residências com vista para o rio e escolhem sacadas envidraçadas para aproveitar ao máximo essa paisagem privilegiada.</p><p>Uma <strong>sacada envidraçada</strong> com vista para o <strong>Rio Paraíba</strong> é um dos projetos que a <strong>Vidraçaria Boreal</strong> realiza com mais prazer em Guararema — porque unir a beleza da natureza com segurança e elegância é exatamente o que a Boreal faz de melhor.</p></div>"
-      },
-      {
-        "url": "/imagens/cidades/guararema/pau-dalho-guararema-vidracaria-boreal.jpg",
-        "alt": "Árvore do Pau D'Alho em Guararema Perto de Vidraçaria Boreal",
-        "descricao": "<div><p><strong>Árvore Centenária do Pau D'Alho de Guararema</strong> é um dos pontos turísticos mais visitados e simbólicos da cidade, representando a própria origem do nome <em>Guararema</em> e a conexão da cidade com suas raízes históricas e naturais. A imponente árvore é um testemunho vivo de séculos de história e atrai visitantes de toda a região que vêm contemplar essa raridade.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, respeita e celebra a <em>Árvore do Pau D'Alho</em> como patrimônio natural e cultural de Guararema. Assim como a árvore atravessa gerações com solidez e beleza, a Boreal entrega soluções em vidro que duram e valorizam os imóveis da cidade por muitos anos.</p><p>Em uma cidade que preserva suas raízes com tanto cuidado, a <strong>Vidraçaria Boreal</strong> cuida com o mesmo esmero de cada projeto — entregando <strong>vidros temperados</strong>, <strong>sacadas envidraçadas</strong> e <strong>portas de vidro</strong> que são tão duráveis e elegantes quanto a centenária árvore que dá nome a Guararema.</p></div>"
-      }
-    ]
-  },
-  {
-    "id": 10,
-    "imagem": "/imagens/cidades/poa/centro-poa-vidracaria-boreal.webp",
-    "slug": "poa",
-    "nome": "Poá",
-    "descricao": "Vidraçaria Boreal em Poá oferece portas de vidro, sacadas envidraçadas e soluções personalizadas em vidro para residências e comércios.",
-    "historia": "<div><h2>História de Poá</h2><p><strong>Poá</strong> tem registros que remontam a <time datetime='1621'>1621</time>, quando se formou em terras da Ordem dos Carmelitas o povoado conhecido como <q>Apoá</q>, cortado pela antiga Estrada São Paulo–Rio, hoje SP-66. O nome da cidade tem origem indígena e significa <q>bifurcação de caminhos</q>. O local serviu por séculos como ponto de parada de tropeiros e viajantes — entre eles, segundo registros históricos, o próprio Imperador Dom Pedro I.</p><p>Em <time datetime='1877'>1877</time>, moradores da região solicitaram a construção de uma parada de trem entre as estações de Lageado e Mogi das Cruzes, impulsionando o crescimento local em torno da ferrovia. A <strong>emancipação político-administrativa</strong> de Poá ocorreu em <time datetime='1949-03-26'>26 de março de 1949</time>, quando o distrito se desligou de Mogi das Cruzes, data que marca o aniversário da cidade.</p><p>Desde a década de 1970, Poá é reconhecida como <strong>Estância Hidromineral</strong>, abrigando uma das águas minerais mais conhecidas do Brasil — o que rendeu à cidade o apelido de <q>Cidade Jóia</q>. Vizinha de Itaquaquecetuba, Arujá e Santa Isabel, a cidade mantém forte vocação comercial e residencial.</p><div><h3>Vidraçaria Boreal em Poá</h3><p>A <strong>Vidraçaria Boreal</strong> atende Poá com <strong>portas de vidro</strong>, <strong>sacadas envidraçadas</strong> e soluções personalizadas em vidro, levando à <q>Cidade Jóia</q> o mesmo padrão de qualidade e segurança que já é referência em toda a região do Alto Tietê. A equipe conhece bem o crescimento urbano e comercial de Poá, oferecendo orçamento transparente e prazos cumpridos.</p><p>Seja para residências próximas à estação ferroviária ou comércios no centro da cidade, a Vidraçaria Boreal garante acabamento profissional e durabilidade em cada projeto realizado em Poá.</p></div></div>",
-    "estado": "SP",
-    "regiao": "Sudeste",
-    "aniversario": "26/03",
-    "servicos": {
-      "nome": "Portas de Vidro",
-      "url": "/servicos/portas-vidro",
-      "descricao": "Portas de vidro elegantes e resistentes para sua casa ou comércio."
-    },
-    "feriados": [
-      {
-        "nome": "Aniversário de Poá",
-        "data": "26/03"
-      }
-    ],
-    "imagens": [
-      {
-        "url": "/imagens/cidades/poa/poa-vidro-vidracaria-boreal.webp",
-        "alt": "Porta de vidro em Poá",
-        "descricao": "<div><p><strong>Poá</strong>, a <q>Cidade Jóia</q>, é uma das mais tradicionais e acolhedoras do Alto Tietê, reconhecida pela sua água mineral de qualidade e por uma vida comercial e residencial intensa. Localizada em um ponto estratégico entre os grandes municípios da região, Poá é uma cidade que cuida bem dos seus moradores — e da qualidade dos seus imóveis.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, atende Poá com soluções personalizadas que valorizam cada detalhe do seu lar ou comércio. A equipe conhece a cidade e seus bairros, entregando projetos com pontualidade, transparência e acabamento de alto nível.</p><p>Assim como a água de Poá é reconhecida pela sua pureza e qualidade, a <strong>Vidraçaria Boreal</strong> é reconhecida pela clareza no atendimento e pela excelência em cada projeto. <strong>Vidros temperados</strong>, <strong>portas elegantes</strong> e <strong>sacadas envidraçadas</strong> que brilham tanto quanto a joia que dá nome à cidade.</p></div>"
-      },
-      {
-        "url": "/imagens/cidades/poa/historico-centro-poa-vidracaria-boreal.jpg",
-        "alt": "Centro de Poá Perto de Vidraçaria Boreal",
-        "descricao": "<div><p><strong>Centro de Poá</strong> é o núcleo comercial e de serviços da <q>Cidade Jóia</q>, onde o movimento intenso das lojas, restaurantes e estabelecimentos reflete a vocação comercial de uma cidade estrategicamente posicionada entre os grandes municípios do Alto Tietê. O centro é ponto de encontro de moradores e visitantes que descobrem em Poá uma cidade acolhedora e cheia de vida.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, atende comerciantes e moradores do <em>Centro de Poá</em> com soluções em vidro que modernizam fachadas e valorizam espaços internos. A equipe da Boreal conhece bem a dinâmica da cidade e oferece atendimento ágil e orçamento sem surpresas.</p><p>Assim como o <strong>Centro de Poá</strong> brilha pelo movimento e pela diversidade, a <strong>Vidraçaria Boreal</strong> faz brilhar cada projeto com acabamentos que unem transparência, segurança e elegância — porque a <q>Cidade Jóia</q> merece soluções que estejam à altura do seu nome.</p></div>"
-      },
-      {
-        "url": "/imagens/cidades/poa/estacao-cptm-poa-vidracaria-boreal.jpg",
-        "alt": "Estação CPTM de Poá Perto de Vidraçaria Boreal",
-        "descricao": "<div><p><strong>Estação CPTM de Poá</strong> é o principal ponto de mobilidade da cidade, conectando diariamente moradores à capital paulista e a toda a Região Metropolitana de São Paulo. Localizada no coração da cidade, a estação é referência de passagem e chegada para quem circula pelo Alto Tietê, sendo testemunha do crescimento de Poá ao longo das décadas.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, reconhece a <em>Estação CPTM de Poá</em> como um símbolo da conectividade e do dinamismo da cidade. Muitos clientes da Boreal passam pela estação diariamente e conhecem a empresa pela excelência dos serviços prestados em toda a região.</p><p>Assim como a <strong>Estação CPTM</strong> é o ponto de partida para novas jornadas, a <strong>Vidraçaria Boreal</strong> é o ponto de partida para a transformação do seu imóvel em Poá — com <strong>vidros temperados</strong>, <strong>sacadas envidraçadas</strong> e <strong>portas de vidro</strong> que fazem toda a diferença.</p></div>"
-      },
-      {
-        "url": "/imagens/cidades/poa/fonte-hidromineral-poa-vidracaria-boreal.jpg",
-        "alt": "Fonte Hidromineral de Poá Perto de Vidraçaria Boreal",
-        "descricao": "<div><p><strong>Fonte Hidromineral de Poá</strong> é o símbolo mais emblemático da <q>Cidade Jóia</q>, responsável pelo título de <strong>Estância Hidromineral</strong> que a cidade carrega com orgulho desde a década de 1970. A água mineral de Poá é reconhecida em todo o Brasil pela sua qualidade e pureza, sendo um patrimônio natural que orgulha moradores e atrai visitantes de toda a Grande São Paulo.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, associa a <em>Fonte Hidromineral de Poá</em> aos mesmos valores que guiam seu trabalho: pureza, qualidade e transparência. Assim como a água de Poá é símbolo de excelência, a Boreal é símbolo de excelência em vidro na região.</p><p>Em uma cidade conhecida pela qualidade do que brota do seu solo, a <strong>Vidraçaria Boreal</strong> entrega a qualidade que brota de cada projeto — com clareza, precisão e o compromisso de oferecer sempre o melhor para os moradores e comerciantes de Poá.</p></div>"
-      }
     ],
     "servicosRealizados": [
       {
@@ -524,5 +128,1175 @@
         "cliente": "Família Nascimento"
       }
     ]
+  },
+  {
+    "id": 2,
+    "imagem": "/imagens/cidades/guarulhos/guarulhos.jpg",
+    "slug": "guarulhos",
+    "nome": "Guarulhos",
+    "descricao": "Vidraçaria Boreal em Guarulhos oferece vidros temperados, portas de vidro e serviços de envidraçamento para residências e empresas.",
+    "historia": "<div><h2>História de Guarulhos</h2><p><strong>Guarulhos</strong> é o maior município da Região Metropolitana de São Paulo em população, sendo a segunda cidade mais populosa do estado e uma das mais ricas do Brasil. Sua fundação remonta a <time datetime='1560-12-08'>8 de dezembro de 1560</time>, quando o padre jesuíta <strong>Manuel de Paiva</strong> estabeleceu o povoado com a denominação de <em>Nossa Senhora da Conceição de Guarulhos</em>. Sua origem está ligada à defesa do núcleo de São Paulo dos Campos de Piratininga contra possíveis ataques dos Tamoios.</p><p>Ao longo dos séculos, Guarulhos cresceu de forma acelerada, impulsionada pela industrialização e pela chegada de imigrantes de diversas partes do mundo. Em <time datetime='2020'>2020</time>, a cidade registrou um PIB de 77,3 bilhões de reais, consolidando-se como a 10.ª cidade mais rica do Brasil. Hoje, Guarulhos é reconhecida mundialmente por sediar o <strong>Aeroporto Internacional André Franco Montoro</strong>, o principal aeroporto do país, que movimenta milhões de passageiros por ano.</p><p>Com mais de 1,3 milhão de habitantes, Guarulhos combina tradição histórica com modernidade, contando com bairros residenciais planejados, centros comerciais de grande porte, parques urbanos e uma infraestrutura robusta que a posiciona como uma das cidades mais estratégicas do Sudeste brasileiro.</p><div><h3>Vidraçaria Boreal em Guarulhos</h3><p>A <strong>Vidraçaria Boreal</strong> atende Guarulhos com soluções completas em <strong>vidros temperados</strong>, <strong>portas de vidro</strong>, <strong>envidraçamento de sacadas</strong> e <strong>box de banheiro</strong>, levando à maior cidade do entorno metropolitano o mesmo padrão de qualidade e segurança que é referência em Arujá e região. A equipe conhece a dinâmica de uma cidade de grande porte e oferece atendimento ágil, orçamento claro e instalação no prazo combinado.</p><p>Em uma cidade que nunca para, a Vidraçaria Boreal acompanha o ritmo acelerado de Guarulhos com projetos sob medida para residências, condomínios e estabelecimentos comerciais — sempre com materiais de alta qualidade e acabamento profissional.</p></div></div>",
+    "estado": "SP",
+    "regiao": "Sudeste",
+    "aniversario": "08/12",
+    "servicos": {
+      "nome": "Portas de Vidro",
+      "url": "/servicos/portas-vidro",
+      "descricao": "Portas de vidro sob medida para residências e comércios, unindo segurança e estética."
+    },
+    "feriados": [
+      {
+        "nome": "Aniversário de Guarulhos",
+        "data": "08/12"
+      }
+    ],
+    "imagens": [
+      {
+        "url": "/imagens/cidades/guarulhos/areoporto-guarulhos-vidracaria-boreal.jpg",
+        "alt": "Aeroporto de Guarulhos",
+        "descricao": "<div><p><strong>Aeroporto Internacional de Guarulhos</strong> é um dos mais importantes do Brasil e da América Latina, reconhecido por sua infraestrutura moderna, eficiência operacional e pela capacidade de conectar pessoas e negócios de todo o mundo. O aeroporto é símbolo de desenvolvimento, mobilidade e orgulho para a cidade de Guarulhos.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, destaca o <em>Aeroporto de Guarulhos</em> como um marco de inovação e progresso. Muitos clientes e colaboradores da Boreal veem o aeroporto como um ponto de partida e chegada de grandes histórias e oportunidades.</p><p>Assim como a <strong>Vidraçaria Boreal</strong> busca proporcionar segurança, elegância e modernidade em cada projeto, o <strong>Aeroporto de Guarulhos</strong> representa tecnologia, acolhimento e o espírito cosmopolita da cidade. Duas referências que refletem o compromisso com a excelência e o crescimento de Guarulhos.</p></div>"
+      },
+      {
+        "url": "/imagens/cidades/guarulhos/centro-guarulhos-vidracaria-boreal.jpg",
+        "alt": "Centro de Guarulhos",
+        "descricao": "<div><p><strong>Centro de Guarulhos</strong> é o coração pulsante da cidade, onde tradição e modernidade se encontram. Comércios, serviços, cultura e história se misturam em um ambiente dinâmico que reflete a força e a diversidade do povo guarulhense. É um espaço de convivência, trabalho e desenvolvimento constante.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, valoriza o <em>Centro de Guarulhos</em> como símbolo de crescimento e vitalidade urbana. Muitos clientes e parceiros da Boreal fazem parte dessa região que movimenta a economia e inspira inovação.</p><p>Assim como o <strong>Centro de Guarulhos</strong> conecta pessoas e oportunidades, a <strong>Vidraçaria Boreal</strong> busca unir segurança, beleza e qualidade em cada projeto. Duas forças que refletem o compromisso com o progresso e o orgulho de pertencer a Guarulhos.</p></div>"
+      },
+      {
+        "url": "/imagens/cidades/guarulhos/parque-bosque-maia-guarulhos-vidracaria-boreal.jpg",
+        "alt": "Bosque Maia - Guarulhos",
+        "descricao": "<div><p><strong>Parque Bosque Maia</strong> é um dos maiores e mais queridos espaços verdes de Guarulhos, oferecendo lazer, natureza e qualidade de vida para moradores e visitantes. Com trilhas, áreas de esporte e espaços de convivência, o parque representa um refúgio de tranquilidade em meio à cidade.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, destaca o <em>Parque Bosque Maia</em> como um símbolo de harmonia, equilíbrio e bem-estar. Muitos clientes e colaboradores da Boreal frequentam o parque e reconhecem sua importância para o lazer e a sustentabilidade de Guarulhos.</p><p>Assim como o <strong>Parque Bosque Maia</strong> oferece beleza e segurança natural, a <strong>Vidraçaria Boreal</strong> busca levar elegância, proteção e conforto aos lares e comércios da cidade. Duas referências que refletem o cuidado com o meio ambiente e o amor por Guarulhos.</p></div>"
+      },
+      {
+        "url": "/imagens/cidades/guarulhos/shopping-internacional-guarulhos-vidracaria-boreal.jpg",
+        "alt": "Shopping Internacional de Guarulhos",
+        "descricao": "<div><p><strong>Shopping Internacional de Guarulhos</strong> é um dos maiores e mais completos centros de compras e lazer da região metropolitana, reunindo lojas, gastronomia, cinema e entretenimento em um só lugar. É um ponto de encontro para famílias, amigos e visitantes que buscam conforto, praticidade e diversão.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, destaca o <em>Shopping Internacional de Guarulhos</em> como símbolo de modernidade e desenvolvimento urbano. Muitos clientes e colaboradores da Boreal frequentam o shopping e reconhecem seu papel importante na economia e no cotidiano da cidade.</p><p>Assim como o <strong>Shopping Internacional de Guarulhos</strong> oferece beleza, segurança e conveniência, a <strong>Vidraçaria Boreal</strong> busca levar elegância, inovação e qualidade para os lares e comércios da região. Duas marcas que refletem o espírito dinâmico e acolhedor de Guarulhos.</p></div>"
+      }
+    ],
+    "servicosRealizados": [
+      {
+        "imagem": "/imagens/cidades/guarulhos/servicos/box-centro.jpg",
+        "servico": "Box de banheiro",
+        "material": "Vidro temperado 8mm com perfil de alumínio escovado",
+        "bairro": "Centro",
+        "cliente": "Família Oliveira"
+      },
+      {
+        "imagem": "/imagens/cidades/guarulhos/servicos/sacada-gopouva.jpg",
+        "servico": "Envidraçamento de sacada",
+        "material": "Vidro laminado 6mm sistema retrátil",
+        "bairro": "Gopouva",
+        "cliente": "Família Souza"
+      },
+      {
+        "imagem": "/imagens/cidades/guarulhos/servicos/espelho-cidade-industrial.jpg",
+        "servico": "Espelho sob medida",
+        "material": "Espelho cristal 4mm com bisotê",
+        "bairro": "Cidade Industrial Satélite",
+        "cliente": "Família Santos"
+      },
+      {
+        "imagem": "/imagens/cidades/guarulhos/servicos/porta-picanhas.jpg",
+        "servico": "Porta de vidro",
+        "material": "Vidro temperado 10mm com puxador inox",
+        "bairro": "Jardim Pinhal",
+        "cliente": "Família Lima"
+      },
+      {
+        "imagem": "/imagens/cidades/guarulhos/servicos/janela-macedo.jpg",
+        "servico": "Janela de vidro",
+        "material": "Esquadria de alumínio com vidro 4mm",
+        "bairro": "Macedo",
+        "cliente": "Família Costa"
+      },
+      {
+        "imagem": "/imagens/cidades/guarulhos/servicos/vidro-vila-galvao.jpg",
+        "servico": "Vidro temperado",
+        "material": "Vidro temperado 6mm incolor",
+        "bairro": "Vila Galvão",
+        "cliente": "Família Ferreira"
+      },
+      {
+        "imagem": "/imagens/cidades/guarulhos/servicos/box-jardim-santa-mena.jpg",
+        "servico": "Box de banheiro",
+        "material": "Vidro temperado 6mm com perfil branco",
+        "bairro": "Jardim Santa Mena",
+        "cliente": "Família Pereira"
+      },
+      {
+        "imagem": "/imagens/cidades/guarulhos/servicos/sacada-cocaia.jpg",
+        "servico": "Envidraçamento de sacada",
+        "material": "Vidro temperado 8mm sistema fixo",
+        "bairro": "Cocaia",
+        "cliente": "Família Alves"
+      },
+      {
+        "imagem": "/imagens/cidades/guarulhos/servicos/porta-bonsucesso.jpg",
+        "servico": "Porta de vidro",
+        "material": "Vidro temperado 8mm fumê com dobradiça inox",
+        "bairro": "Bonsucesso",
+        "cliente": "Família Rodrigues"
+      },
+      {
+        "imagem": "/imagens/cidades/guarulhos/servicos/espelho-ponte-grande.jpg",
+        "servico": "Espelho sob medida",
+        "material": "Espelho cristal 6mm com moldura MDF",
+        "bairro": "Ponte Grande",
+        "cliente": "Família Carvalho"
+      },
+      {
+        "imagem": "/imagens/cidades/guarulhos/servicos/janela-jardim-amanda.jpg",
+        "servico": "Janela de vidro",
+        "material": "Vidro temperado 6mm com perfil de alumínio natural",
+        "bairro": "Jardim Amanda",
+        "cliente": "Família Martins"
+      },
+      {
+        "imagem": "/imagens/cidades/guarulhos/servicos/vidro-cumbica.jpg",
+        "servico": "Vidro temperado",
+        "material": "Vidro temperado 10mm extra-claro",
+        "bairro": "Cumbica",
+        "cliente": "Família Nascimento"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "imagem": "/imagens/cidades/mogi-das-cruzes/mogi-das-cruzes.jpeg",
+    "slug": "mogi-das-cruzes",
+    "nome": "Mogi das Cruzes",
+    "descricao": "Envidraçamento e portas de vidro em Mogi das Cruzes com a Vidraçaria Boreal. Serviços personalizados para deixar sua casa moderna e segura.",
+    "historia": "<div><h2>História de Mogi das Cruzes</h2><p><strong>Mogi das Cruzes</strong> é o maior município da região do Alto Tietê, distante menos de 50 quilômetros da capital paulista. Sua origem remonta a <time datetime='1611-08-17'>17 de agosto de 1611</time>, quando o desbravador <strong>Gaspar Vaz</strong> obteve do governo colonial a criação da <strong>Vila de Sant'Anna de Mogi Mirim</strong>. A solenidade oficial de instalação ocorreu em <time datetime='09-01'>1º de setembro</time> daquele ano, data que até hoje marca o aniversário da cidade.</p><p>O nome <em>Mogi</em> é uma alteração de <q>Boigy</q>, do tupi <q>M'Boigy</q>, que significa <q>Rio das Cobras</q>, em referência a um trecho do Rio Tietê. O complemento <q>das Cruzes</q> surgiu da prática dos antigos povoadores de marcar com cruzes os limites da vila. Cercada pela Serra do Itapeti e pela Serra do Mar, a cidade preserva mais de 65% de seu território em áreas de proteção ambiental, o que reforça sua vocação rural e paisagística.</p><p>Ao longo dos séculos XIX e XX, Mogi das Cruzes consolidou-se como polo econômico do Alto Tietê, dando origem a diversos municípios vizinhos que se emanciparam de seu território — entre eles Suzano, Guararema, Biritiba-Mirim e Itaquaquecetuba. Hoje a cidade combina um centro histórico preservado com bairros residenciais modernos, forte produção agrícola de hortaliças e flores, e um polo comercial e industrial em expansão.</p><div><h3>Vidraçaria Boreal em Mogi das Cruzes</h3><p>A <strong>Vidraçaria Boreal</strong> atende Mogi das Cruzes com soluções completas em <strong>vidros temperados</strong>, <strong>envidraçamento de sacadas</strong>, <strong>box de banheiro</strong> e <strong>esquadrias de alumínio</strong>, levando à cidade o mesmo padrão de qualidade e segurança que já é referência em Arujá e região. A equipe entende as particularidades de cada bairro mogiano, desde o centro histórico até os condomínios mais recentes, e oferece orçamento claro e instalação no prazo combinado.</p><p>Combinando tradição e crescimento urbano, Mogi das Cruzes encontra na Vidraçaria Boreal uma parceira para projetos residenciais e comerciais que pedem acabamento profissional e durabilidade — características que acompanham o ritmo de modernização da maior cidade do Alto Tietê.</p></div></div>",
+    "estado": "SP",
+    "regiao": "Sudeste",
+    "aniversario": "01/09",
+    "servicos": {
+      "nome": "Vidros Temperados",
+      "url": "/servicos/vidros-temperados",
+      "descricao": "Vidros temperados de alta resistência, ideais para portas, janelas e sacadas."
+    },
+    "feriados": [
+      {
+        "nome": "Aniversário de Mogi das Cruzes",
+        "data": "01/09"
+      }
+    ],
+    "imagens": [
+      {
+        "url": "/imagens/cidades/mogi-das-cruzes/mogi-vidro.jpg",
+        "alt": "Vidros temperados em Mogi das Cruzes",
+        "descricao": "<div><p><strong>Mogi das Cruzes</strong> é o maior e mais tradicional município do Alto Tietê, com um centro histórico rico e bairros residenciais em constante crescimento. A cidade é referência regional em comércio, serviços e agricultura, sendo conhecida especialmente pela produção de flores e hortaliças que abastecem a Grande São Paulo.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, atende moradores e empresas em toda Mogi das Cruzes com projetos sob medida e instalação profissional. A equipe conhece cada bairro da cidade e leva soluções em vidro que unem segurança, modernidade e bom gosto.</p><p>Seja para reformar um imóvel no centro histórico ou equipar um condomínio nos novos loteamentos, a <strong>Vidraçaria Boreal</strong> é a parceira certa em Mogi das Cruzes. Qualidade, pontualidade e atendimento personalizado fazem da Boreal a escolha de quem valoriza o melhor para sua casa ou comércio.</p></div>"
+      },
+      {
+        "url": "/imagens/cidades/mogi-das-cruzes/centro-mogi-das-cruzes-vidracaria-boreal.jpg",
+        "alt": "Centro de Mogi das Cruzes Perto de Vidraçaria Boreal",
+        "descricao": "<div><p><strong>Centro de Mogi das Cruzes</strong> é o coração histórico e comercial da maior cidade do Alto Tietê, reunindo igrejas centenárias, comércio diversificado, serviços, gastronomia e uma arquitetura que mistura o patrimônio colonial com a modernidade de uma cidade em constante crescimento. Suas ruas movimentadas são o ponto de encontro de moradores de toda a região.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, faz parte do cotidiano do <em>Centro de Mogi das Cruzes</em>, atendendo comerciantes e moradores que buscam qualidade e durabilidade nos acabamentos dos seus imóveis. A equipe da Boreal conhece cada rua e cada necessidade da cidade.</p><p>Visitar o <strong>Centro de Mogi das Cruzes</strong> é mergulhar em séculos de história paulista enquanto se descobre uma cidade vibrante e cheia de oportunidades. E quando o assunto é vidro, segurança e sofisticação, a <strong>Vidraçaria Boreal</strong> é a referência que Mogi das Cruzes merece.</p></div>"
+      },
+      {
+        "url": "/imagens/cidades/mogi-das-cruzes/parque-ecologico-mogi-das-cruzes-vidracaria-boreal.jpg",
+        "alt": "Parque Ecológico de Mogi das Cruzes Perto de Vidraçaria Boreal",
+        "descricao": "<div><p><strong>Parque Ecológico de Mogi das Cruzes</strong> é um dos maiores e mais preservados espaços verdes urbanos do Alto Tietê, oferecendo trilhas, lagos, área de piquenique e contato direto com a natureza a poucos minutos do centro da cidade. O parque é símbolo do compromisso de Mogi das Cruzes com a preservação ambiental e a qualidade de vida dos seus moradores.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, valoriza o <em>Parque Ecológico de Mogi das Cruzes</em> como um espaço de bem-estar e convivência que reflete o cuidado da cidade com o meio ambiente. Muitos clientes e colaboradores da Boreal frequentam o parque e reconhecem sua importância para a comunidade mogiana.</p><p>Assim como o <strong>Parque Ecológico</strong> preserva a natureza e oferece tranquilidade, a <strong>Vidraçaria Boreal</strong> preserva a segurança e a beleza dos lares de Mogi das Cruzes com soluções em vidro que unem elegância e funcionalidade em cada projeto.</p></div>"
+      },
+      {
+        "url": "/imagens/cidades/mogi-das-cruzes/feira-do-produtor-mogi-das-cruzes-vidracaria-boreal.webp",
+        "alt": "Feira do Produtor de Mogi das Cruzes Perto de Vidraçaria Boreal",
+        "descricao": "<div><p><strong>Feira do Produtor de Mogi das Cruzes</strong> é uma das mais tradicionais e queridas da região, reunindo agricultores locais que trazem diretamente ao consumidor as flores, hortaliças e frutas cultivadas no chamado <q>Cinturão Verde</q> da cidade. É um espaço de sabor, frescor e identidade cultural que celebra a vocação agrícola mogiana.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, reconhece na <em>Feira do Produtor</em> os mesmos valores que guiam seu trabalho: qualidade, proximidade com o cliente e orgulho de fazer parte da história de Mogi das Cruzes. Muitos clientes da Boreal são frequentadores assíduos da feira.</p><p>Assim como a <strong>Feira do Produtor</strong> entrega o melhor direto de quem produz, a <strong>Vidraçaria Boreal</strong> entrega o melhor em vidro direto de quem instala — com cuidado, pontualidade e o compromisso de sempre superar as expectativas de cada morador de Mogi das Cruzes.</p></div>"
+      }
+    ],
+    "servicosRealizados": [
+      {
+        "imagem": "/imagens/cidades/mogi-das-cruzes/servicos/box-centro.jpg",
+        "servico": "Box de banheiro",
+        "material": "Vidro temperado 8mm com perfil de alumínio escovado",
+        "bairro": "Centro",
+        "cliente": "Família Oliveira"
+      },
+      {
+        "imagem": "/imagens/cidades/mogi-das-cruzes/servicos/sacada-jd-armando.jpg",
+        "servico": "Envidraçamento de sacada",
+        "material": "Vidro laminado 6mm sistema retrátil",
+        "bairro": "Jardim Armando",
+        "cliente": "Família Souza"
+      },
+      {
+        "imagem": "/imagens/cidades/mogi-das-cruzes/servicos/espelho-alto-ipiranga.jpg",
+        "servico": "Espelho sob medida",
+        "material": "Espelho cristal 4mm com bisotê",
+        "bairro": "Alto Ipiranga",
+        "cliente": "Família Santos"
+      },
+      {
+        "imagem": "/imagens/cidades/mogi-das-cruzes/servicos/porta-vila-mogilar.jpg",
+        "servico": "Porta de vidro",
+        "material": "Vidro temperado 10mm com puxador inox",
+        "bairro": "Vila Mogilar",
+        "cliente": "Família Lima"
+      },
+      {
+        "imagem": "/imagens/cidades/mogi-das-cruzes/servicos/janela-cesar-de-souza.jpg",
+        "servico": "Janela de vidro",
+        "material": "Esquadria de alumínio com vidro 4mm",
+        "bairro": "César de Souza",
+        "cliente": "Família Costa"
+      },
+      {
+        "imagem": "/imagens/cidades/mogi-das-cruzes/servicos/vidro-jundiapeba.jpg",
+        "servico": "Vidro temperado",
+        "material": "Vidro temperado 6mm incolor",
+        "bairro": "Jundiapeba",
+        "cliente": "Família Ferreira"
+      },
+      {
+        "imagem": "/imagens/cidades/mogi-das-cruzes/servicos/box-vila-suissa.jpg",
+        "servico": "Box de banheiro",
+        "material": "Vidro temperado 6mm com perfil branco",
+        "bairro": "Vila Suíssa",
+        "cliente": "Família Pereira"
+      },
+      {
+        "imagem": "/imagens/cidades/mogi-das-cruzes/servicos/sacada-brás-cubas.jpg",
+        "servico": "Envidraçamento de sacada",
+        "material": "Vidro temperado 8mm sistema fixo",
+        "bairro": "Brás Cubas",
+        "cliente": "Família Alves"
+      },
+      {
+        "imagem": "/imagens/cidades/mogi-das-cruzes/servicos/porta-vila-oliveira.jpg",
+        "servico": "Porta de vidro",
+        "material": "Vidro temperado 8mm fumê com dobradiça inox",
+        "bairro": "Vila Oliveira",
+        "cliente": "Família Rodrigues"
+      },
+      {
+        "imagem": "/imagens/cidades/mogi-das-cruzes/servicos/espelho-jd-california.jpg",
+        "servico": "Espelho sob medida",
+        "material": "Espelho cristal 6mm com moldura MDF",
+        "bairro": "Jardim Califórnia",
+        "cliente": "Família Carvalho"
+      },
+      {
+        "imagem": "/imagens/cidades/mogi-das-cruzes/servicos/janela-sabauna.jpg",
+        "servico": "Janela de vidro",
+        "material": "Vidro temperado 6mm com perfil de alumínio natural",
+        "bairro": "Sabaúna",
+        "cliente": "Família Martins"
+      },
+      {
+        "imagem": "/imagens/cidades/mogi-das-cruzes/servicos/vidro-taiacu.jpg",
+        "servico": "Vidro temperado",
+        "material": "Vidro temperado 10mm extra-claro",
+        "bairro": "Taiaçupeba",
+        "cliente": "Família Nascimento"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "imagem": "/imagens/cidades/suzano/suzano-centro.jpg",
+    "slug": "suzano",
+    "nome": "Suzano",
+    "descricao": "Vidraçaria Boreal em Suzano oferece soluções em vidro temperado, portas de vidro e envidraçamento de sacadas com qualidade premium.",
+    "historia": "<div><h2>História de Suzano</h2><p><strong>Suzano</strong> nasceu como um pequeno povoado ligado à antiga Estrada Real do Guaió, recebendo diferentes nomes ao longo do tempo: primeiro <strong>Vila da Concórdia</strong>, em 1890, depois <strong>Vila da Piedade</strong> e, mais tarde, <strong>São Sebastião do Guaió</strong>. Em <time datetime='1908'>1908</time>, o local passou a se chamar <em>Suzano</em> em homenagem ao engenheiro <strong>Joaquim Augusto Suzano Brandão</strong>, responsável pela construção da estação ferroviária que impulsionou o crescimento da vila.</p><p>Em <time datetime='1919'>1919</time>, Suzano tornou-se distrito de Mogi das Cruzes, e sua <strong>emancipação político-administrativa</strong> só viria décadas depois, em <time datetime='1948-12-24'>24 de dezembro de 1948</time>. A posse dos primeiros vereadores e prefeito ocorreu em <time datetime='1949-04-02'>2 de abril de 1949</time>, data adotada como aniversário oficial da cidade.</p><p>A partir do século XX, a forte presença de imigrantes japoneses moldou a economia e a cultura local, fazendo da região um importante polo do chamado <q>Cinturão Verde</q> paulista, voltado à produção de hortaliças. Hoje, Suzano é referência também na indústria de papel e celulose, mantendo ainda espaços de lazer como o Parque Municipal Max Feffer e o Parque do Mirante, com vista privilegiada da cidade.</p><div><h3>Vidraçaria Boreal em Suzano</h3><p>A <strong>Vidraçaria Boreal</strong> leva a Suzano soluções modernas em <strong>vidros temperados</strong>, <strong>portas de vidro</strong> e <strong>envidraçamento de sacadas</strong>, atendendo residências e comércios em toda a cidade com o mesmo padrão de qualidade e segurança consolidado em Arujá. Seja em bairros tradicionais ou em novos empreendimentos, a equipe garante acabamento profissional e prazos cumpridos.</p><p>Com Suzano em constante crescimento industrial e residencial, a Vidraçaria Boreal acompanha esse ritmo oferecendo projetos sob medida que unem estética, durabilidade e segurança para quem busca valorizar seu imóvel na cidade.</p></div></div>",
+    "estado": "SP",
+    "regiao": "Sudeste",
+    "aniversario": "02/04",
+    "servicos": {
+      "nome": "Envidraçamento de Sacadas",
+      "url": "/servicos/envidracamento-sacadas",
+      "descricao": "Sacadas envidraçadas que aumentam o conforto e a estética do seu lar."
+    },
+    "feriados": [
+      {
+        "nome": "Aniversário de Suzano",
+        "data": "02/04"
+      }
+    ],
+    "imagens": [
+      {
+        "url": "/imagens/cidades/suzano/estacao-cptm-suzano.webp",
+        "alt": "Foto da Estação CPTM de Suzano",
+        "descricao": "<div><p><strong>Estação Suzano da CPTM</strong> é um dos principais pontos de mobilidade urbana da cidade, conectando diariamente milhares de moradores à capital paulista e aos demais municípios da Região Metropolitana de São Paulo. Com fluxo intenso de passageiros, a estação representa o dinamismo e a integração de Suzano ao grande eixo metropolitano.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, reconhece a <em>Estação CPTM de Suzano</em> como símbolo do crescimento e da conectividade da cidade. Muitos clientes da Boreal utilizam o trem diariamente e conhecem a empresa pela qualidade dos serviços prestados em toda a região.</p><p>Assim como a <strong>Estação Suzano</strong> conecta pessoas e destinos, a <strong>Vidraçaria Boreal</strong> conecta projetos e sonhos, levando segurança, modernidade e beleza aos lares e comércios de Suzano. Uma cidade em movimento merece soluções em vidro à altura do seu ritmo.</p></div>"
+      },
+      {
+        "url": "/imagens/cidades/suzano/bunkyo.jpeg",
+        "alt": "Foto do Bunkyo Centro de Cultura Japonesa de Suzano",
+        "descricao": "<div><p><strong>Bunkyo de Suzano</strong> é um dos mais importantes centros de preservação e divulgação da cultura japonesa do interior paulista, promovendo eventos, festivais, atividades culturais e o fortalecimento dos laços da comunidade nipo-brasileira na região. O espaço é um marco da influência japonesa que moldou a identidade e a economia de Suzano ao longo do século XX.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, valoriza o <em>Bunkyo de Suzano</em> como símbolo de diversidade cultural e orgulho comunitário. A empresa respeita e celebra as raízes que tornaram Suzano a cidade plural e acolhedora que é hoje.</p><p>Assim como o <strong>Bunkyo</strong> preserva a tradição e projeta Suzano para o futuro, a <strong>Vidraçaria Boreal</strong> une o cuidado com cada detalhe à busca constante por inovação — valores que refletem o espírito único da cidade.</p></div>"
+      },
+      {
+        "url": "/imagens/cidades/suzano/mirante-suzano.jpeg",
+        "alt": "Foto do Mirante de Suzano",
+        "descricao": "<div><p><strong>Mirante de Suzano</strong> oferece uma das vistas mais privilegiadas da cidade e da região, sendo um dos pontos de contemplação e lazer mais conhecidos e queridos pelos moradores. Do alto, é possível admirar a paisagem urbana de Suzano e a extensão das áreas verdes que cercam o município, revelando toda a sua beleza natural.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, destaca o <em>Mirante de Suzano</em> como um símbolo de perspectiva, leveza e contato com a natureza. Muitos clientes da Boreal frequentam o local e reconhecem nele o mesmo prazer que uma sacada bem envidraçada proporciona: a sensação de amplitude e liberdade.</p><p>Assim como o <strong>Mirante</strong> convida a olhar além do horizonte, a <strong>Vidraçaria Boreal</strong> convida você a enxergar novas possibilidades para o seu lar. Qualidade, segurança e uma vista privilegiada — isso é o que a Boreal oferece a cada cliente em Suzano.</p></div>"
+      },
+      {
+        "url": "/imagens/cidades/suzano/shopping-suzano.jpg",
+        "alt": "Foto do Suzano Shopping",
+        "descricao": "<div><p><strong>Suzano Shopping</strong> é um dos principais centros de compras, lazer e entretenimento da cidade, reunindo lojas das mais variadas marcas, restaurantes, praça de alimentação, cinema e opções de diversão para toda a família. Com ambiente moderno e amplo estacionamento, o shopping é ponto de encontro obrigatório para moradores e visitantes.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, destaca o <em>Suzano Shopping</em> como símbolo do desenvolvimento comercial e da qualidade de vida que a cidade oferece. Muitos clientes e colaboradores da Boreal frequentam o shopping e reconhecem sua importância para a economia local.</p><p>Assim como o <strong>Suzano Shopping</strong> reúne o melhor em um só lugar, a <strong>Vidraçaria Boreal</strong> oferece soluções completas em vidro sob um mesmo teto — desde o primeiro contato até a entrega final. Praticidade, qualidade e bom atendimento: valores que Suzano conhece bem.</p></div>"
+      }
+    ],
+    "servicosRealizados": [
+      {
+        "imagem": "/imagens/cidades/suzano/servicos/box-centro.jpg",
+        "servico": "Box de banheiro",
+        "material": "Vidro temperado 8mm com perfil de alumínio escovado",
+        "bairro": "Centro",
+        "cliente": "Família Oliveira"
+      },
+      {
+        "imagem": "/imagens/cidades/suzano/servicos/sacada-jd-santa-helena.jpg",
+        "servico": "Envidraçamento de sacada",
+        "material": "Vidro laminado 6mm sistema retrátil",
+        "bairro": "Jardim Santa Helena",
+        "cliente": "Família Souza"
+      },
+      {
+        "imagem": "/imagens/cidades/suzano/servicos/espelho-vila-urupas.jpg",
+        "servico": "Espelho sob medida",
+        "material": "Espelho cristal 4mm com bisotê",
+        "bairro": "Vila Urupês",
+        "cliente": "Família Santos"
+      },
+      {
+        "imagem": "/imagens/cidades/suzano/servicos/porta-jd-imperador.jpg",
+        "servico": "Porta de vidro",
+        "material": "Vidro temperado 10mm com puxador inox",
+        "bairro": "Jardim Imperador",
+        "cliente": "Família Lima"
+      },
+      {
+        "imagem": "/imagens/cidades/suzano/servicos/janela-miguel-badra.jpg",
+        "servico": "Janela de vidro",
+        "material": "Esquadria de alumínio com vidro 4mm",
+        "bairro": "Miguel Badra",
+        "cliente": "Família Costa"
+      },
+      {
+        "imagem": "/imagens/cidades/suzano/servicos/vidro-palmeiras.jpg",
+        "servico": "Vidro temperado",
+        "material": "Vidro temperado 6mm incolor",
+        "bairro": "Palmeiras",
+        "cliente": "Família Ferreira"
+      },
+      {
+        "imagem": "/imagens/cidades/suzano/servicos/box-jd-nova-america.jpg",
+        "servico": "Box de banheiro",
+        "material": "Vidro temperado 6mm com perfil branco",
+        "bairro": "Jardim Nova América",
+        "cliente": "Família Pereira"
+      },
+      {
+        "imagem": "/imagens/cidades/suzano/servicos/sacada-estancia-salesiana.jpg",
+        "servico": "Envidraçamento de sacada",
+        "material": "Vidro temperado 8mm sistema fixo",
+        "bairro": "Estância Salesiana",
+        "cliente": "Família Alves"
+      },
+      {
+        "imagem": "/imagens/cidades/suzano/servicos/porta-jd-casa-branca.jpg",
+        "servico": "Porta de vidro",
+        "material": "Vidro temperado 8mm fumê com dobradiça inox",
+        "bairro": "Jardim Casa Branca",
+        "cliente": "Família Rodrigues"
+      },
+      {
+        "imagem": "/imagens/cidades/suzano/servicos/espelho-vila-maluf.jpg",
+        "servico": "Espelho sob medida",
+        "material": "Espelho cristal 6mm com moldura MDF",
+        "bairro": "Vila Maluf",
+        "cliente": "Família Carvalho"
+      },
+      {
+        "imagem": "/imagens/cidades/suzano/servicos/janela-jd-bela-vista.jpg",
+        "servico": "Janela de vidro",
+        "material": "Vidro temperado 6mm com perfil de alumínio natural",
+        "bairro": "Jardim Bela Vista",
+        "cliente": "Família Martins"
+      },
+      {
+        "imagem": "/imagens/cidades/suzano/servicos/vidro-jd-brasilia.jpg",
+        "servico": "Vidro temperado",
+        "material": "Vidro temperado 10mm extra-claro",
+        "bairro": "Jardim Brasília",
+        "cliente": "Família Nascimento"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "imagem": "/imagens/cidades/itaquaquecetuba/itaquaquecetuba.jpg",
+    "slug": "itaquaquecetuba",
+    "nome": "Itaquaquecetuba",
+    "descricao": "Portas de vidro e envidraçamento em Itaquaquecetuba com a Vidraçaria Boreal. Soluções modernas para residências e comércios.",
+    "historia": "<div><h2>História de Itaquaquecetuba</h2><p><strong>Itaquaquecetuba</strong>, carinhosamente chamada de <em>Itaquá</em> pelos moradores, tem sua fundação tradicionalmente associada ao padre jesuíta <strong>José de Anchieta</strong>, em <time datetime='1560-09-08'>8 de setembro de 1560</time>, data celebrada até hoje como aniversário da cidade. O nome, de origem tupi, é a aglutinação dos termos <q>taquara</q>, <q>faca</q> e <q>lugar abundante</q>, numa referência ao grande taquaral de taquaras cortantes que existia às margens do Rio Tietê na época da fundação.</p><p>O território passou a integrar oficialmente o município de <strong>Mogi das Cruzes</strong> como freguesia em <time datetime='1838-02-28'>28 de fevereiro de 1838</time>. A chegada da Estrada de Ferro Central do Brasil, em <time datetime='1925'>1925</time>, impulsionou o crescimento da região, que conquistou sua <strong>emancipação político-administrativa</strong> em <time datetime='1953-12-30'>30 de dezembro de 1953</time>, desmembrando-se definitivamente de Mogi das Cruzes.</p><p>Atualmente, Itaquaquecetuba é um dos municípios mais populosos do Alto Tietê, com forte vocação industrial nos setores de metalurgia, plástico e química, além de um comércio em expansão que acompanha o crescimento constante da cidade.</p><div><h3>Vidraçaria Boreal em Itaquaquecetuba</h3><p>A <strong>Vidraçaria Boreal</strong> atende Itaquaquecetuba com <strong>portas de vidro</strong>, <strong>envidraçamento de sacadas</strong> e <strong>vidros temperados</strong> sob medida, levando à cidade soluções modernas e seguras para residências, condomínios e comércios. A equipe acompanha de perto o crescimento acelerado da região, oferecendo atendimento ágil e orçamento transparente.</p><p>Em uma cidade que combina forte presença industrial com bairros residenciais em constante expansão, a Vidraçaria Boreal se firma como parceira de confiança para quem busca qualidade e durabilidade em projetos de vidro.</p></div></div>",
+    "estado": "SP",
+    "regiao": "Sudeste",
+    "aniversario": "08/09",
+    "servicos": {
+      "nome": "Portas de Vidro",
+      "url": "/servicos/portas-vidro",
+      "descricao": "Portas de vidro modernas e resistentes para sua casa ou comércio."
+    },
+    "feriados": [
+      {
+        "nome": "Aniversário de Itaquaquecetuba",
+        "data": "08/09"
+      }
+    ],
+    "imagens": [
+      {
+        "url": "/imagens/cidades/itaquaquecetuba/itaquaquecetuba-vidro.jpg",
+        "alt": "Portas de vidro em Itaquaquecetuba",
+        "descricao": "<div><p><strong>Itaquaquecetuba</strong>, a <em>Itaquá</em> do coração dos moradores, é uma cidade em plena expansão, com bairros residenciais em crescimento acelerado e uma economia industrial robusta. Sua população jovem e dinâmica busca cada vez mais qualidade nos acabamentos e na segurança dos imóveis — e é exatamente isso que a <strong>Vidraçaria Boreal</strong> oferece.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, atende toda Itaquaquecetuba com projetos personalizados e instalação profissional. A equipe conhece a realidade dos bairros e condomínios da cidade, entregando soluções que unem modernidade, segurança e preço justo.</p><p>De <strong>portas de vidro</strong> a <strong>sacadas envidraçadas</strong>, a Vidraçaria Boreal transforma ambientes em Itaquaquecetuba com o cuidado e a excelência que cada projeto merece. Porque a sua casa merece o melhor — e a Boreal está aqui para isso.</p></div>"
+      },
+      {
+        "url": "/imagens/cidades/itaquaquecetuba/centro-itaquaquecetuba-vidracaria-boreal.jpg",
+        "alt": "Centro de Itaquaquecetuba Perto de Vidraçaria Boreal",
+        "descricao": "<div><p><strong>Centro de Itaquaquecetuba</strong> é o eixo comercial e de serviços da cidade, um local em constante movimento onde moradores e visitantes encontram lojas, restaurantes, bancos e a agitação típica de uma das cidades mais populosas do Alto Tietê. O centro reflete o crescimento acelerado de Itaquá e o dinamismo do seu povo.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, está presente no <em>Centro de Itaquaquecetuba</em> atendendo comerciantes e moradores com soluções em vidro que aliam modernidade e segurança. A equipe da Boreal conhece a realidade do centro e oferece atendimento ágil e orçamento transparente.</p><p>O <strong>Centro de Itaquaquecetuba</strong> é o coração de uma cidade que não para de crescer — e a <strong>Vidraçaria Boreal</strong> cresce junto com ela, levando qualidade e inovação em vidro para cada esquina, cada comércio e cada lar de Itaquá.</p></div>"
+      },
+      {
+        "url": "/imagens/cidades/itaquaquecetuba/estacao-cptm-itaquaquecetuba-vidracaria-boreal.jpg",
+        "alt": "Estação CPTM de Itaquaquecetuba Perto de Vidraçaria Boreal",
+        "descricao": "<div><p><strong>Estação CPTM de Itaquaquecetuba</strong> é um dos principais pontos de mobilidade urbana da cidade, conectando diariamente milhares de moradores à capital paulista e a toda a Região Metropolitana de São Paulo. A estação representa a integração de Itaquá ao grande eixo metropolitano e é símbolo do desenvolvimento da cidade.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, reconhece a <em>Estação CPTM</em> como um ponto de convergência da vida cotidiana de Itaquaquecetuba. Muitos clientes da Boreal passam pela estação diariamente e conhecem a empresa pela qualidade dos serviços prestados na região.</p><p>Assim como a <strong>Estação CPTM de Itaquaquecetuba</strong> conecta pessoas e destinos, a <strong>Vidraçaria Boreal</strong> conecta projetos e sonhos — levando segurança, modernidade e beleza aos lares e comércios de uma cidade que avança a cada dia.</p></div>"
+      },
+      {
+        "url": "/imagens/cidades/itaquaquecetuba/shopping-itaquaquecetuba-vidracaria-boreal.jpg",
+        "alt": "Shopping de Itaquaquecetuba Perto de Vidraçaria Boreal",
+        "descricao": "<div><p><strong>Shopping de Itaquaquecetuba</strong> é um dos principais centros de compras e entretenimento da cidade, reunindo lojas, praça de alimentação, cinema e opções de lazer para toda a família. Com ambiente moderno e fácil acesso, o shopping é ponto de encontro dos moradores e reflexo do crescimento comercial de Itaquá.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, destaca o shopping como símbolo do desenvolvimento urbano de Itaquaquecetuba. Muitos clientes e colaboradores da Boreal frequentam o espaço e reconhecem sua importância para a qualidade de vida da cidade.</p><p>Assim como o <strong>Shopping de Itaquaquecetuba</strong> reúne o melhor em um só lugar, a <strong>Vidraçaria Boreal</strong> oferece soluções completas em vidro com atendimento próximo e resultado que supera expectativas. Porque Itaquá merece o melhor — e a Boreal está aqui para isso.</p></div>"
+      }
+    ],
+    "servicosRealizados": [
+      {
+        "imagem": "/imagens/cidades/itaquaquecetuba/servicos/box-centro.jpg",
+        "servico": "Box de banheiro",
+        "material": "Vidro temperado 8mm com perfil de alumínio escovado",
+        "bairro": "Centro",
+        "cliente": "Família Oliveira"
+      },
+      {
+        "imagem": "/imagens/cidades/itaquaquecetuba/servicos/sacada-jd-pinheirinho.jpg",
+        "servico": "Envidraçamento de sacada",
+        "material": "Vidro laminado 6mm sistema retrátil",
+        "bairro": "Jardim Pinheirinho",
+        "cliente": "Família Souza"
+      },
+      {
+        "imagem": "/imagens/cidades/itaquaquecetuba/servicos/espelho-pos-queda.jpg",
+        "servico": "Espelho sob medida",
+        "material": "Espelho cristal 4mm com bisotê",
+        "bairro": "Pós Queda",
+        "cliente": "Família Santos"
+      },
+      {
+        "imagem": "/imagens/cidades/itaquaquecetuba/servicos/porta-jd-santa-paula.jpg",
+        "servico": "Porta de vidro",
+        "material": "Vidro temperado 10mm com puxador inox",
+        "bairro": "Jardim Santa Paula",
+        "cliente": "Família Lima"
+      },
+      {
+        "imagem": "/imagens/cidades/itaquaquecetuba/servicos/janela-morro-grande.jpg",
+        "servico": "Janela de vidro",
+        "material": "Esquadria de alumínio com vidro 4mm",
+        "bairro": "Morro Grande",
+        "cliente": "Família Costa"
+      },
+      {
+        "imagem": "/imagens/cidades/itaquaquecetuba/servicos/vidro-jd-nova-itaquá.jpg",
+        "servico": "Vidro temperado",
+        "material": "Vidro temperado 6mm incolor",
+        "bairro": "Jardim Nova Itaquá",
+        "cliente": "Família Ferreira"
+      },
+      {
+        "imagem": "/imagens/cidades/itaquaquecetuba/servicos/box-jd-briquet.jpg",
+        "servico": "Box de banheiro",
+        "material": "Vidro temperado 6mm com perfil branco",
+        "bairro": "Jardim Briquet",
+        "cliente": "Família Pereira"
+      },
+      {
+        "imagem": "/imagens/cidades/itaquaquecetuba/servicos/sacada-vila-rio-branco.jpg",
+        "servico": "Envidraçamento de sacada",
+        "material": "Vidro temperado 8mm sistema fixo",
+        "bairro": "Vila Rio Branco",
+        "cliente": "Família Alves"
+      },
+      {
+        "imagem": "/imagens/cidades/itaquaquecetuba/servicos/porta-jd-oratorio.jpg",
+        "servico": "Porta de vidro",
+        "material": "Vidro temperado 8mm fumê com dobradiça inox",
+        "bairro": "Jardim Oratório",
+        "cliente": "Família Rodrigues"
+      },
+      {
+        "imagem": "/imagens/cidades/itaquaquecetuba/servicos/espelho-jd-silvania.jpg",
+        "servico": "Espelho sob medida",
+        "material": "Espelho cristal 6mm com moldura MDF",
+        "bairro": "Jardim Silvânia",
+        "cliente": "Família Carvalho"
+      },
+      {
+        "imagem": "/imagens/cidades/itaquaquecetuba/servicos/janela-jd-virginia.jpg",
+        "servico": "Janela de vidro",
+        "material": "Vidro temperado 6mm com perfil de alumínio natural",
+        "bairro": "Jardim Virgínia",
+        "cliente": "Família Martins"
+      },
+      {
+        "imagem": "/imagens/cidades/itaquaquecetuba/servicos/vidro-jardim-caiuby.jpg",
+        "servico": "Vidro temperado",
+        "material": "Vidro temperado 10mm extra-claro",
+        "bairro": "Jardim Caiuby",
+        "cliente": "Família Nascimento"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "imagem": "/imagens/cidades/santa-isabel/santa-isabel-vidracaria-boreal.jpeg",
+    "slug": "santa-isabel",
+    "nome": "Santa Isabel",
+    "descricao": "Vidraçaria Boreal em Santa Isabel oferece vidros, portas de vidro e envidraçamento de sacadas com atendimento personalizado.",
+    "historia": "<div><h2>História de Santa Isabel</h2><p><strong>Santa Isabel</strong> tem suas raízes no século XVIII, quando a região servia de área de passagem para exploradores em busca de ouro rumo a Minas Gerais. Sua formação como povoado remonta a <time datetime='1770'>1770</time>, ligada indiretamente à conquista do ouro e à influência dos vale-paraibanos que circulavam pela região, então um dos primeiros núcleos a compor o Vale do Paraíba no caminho entre São Paulo e Rio de Janeiro.</p><p>O nome da cidade é uma homenagem a <strong>Santa Isabel de Aragão</strong>, rainha de Portugal canonizada em 1625. Em <time datetime='1812'>1812</time>, foi criada a freguesia local, e em <time datetime='1832'>1832</time> Santa Isabel conquistou sua <strong>emancipação política</strong>, tornando-se município autônomo após se desmembrar de Mogi das Cruzes — ainda durante o período Imperial, quando a cidade já demonstrava vocação para a autonomia administrativa.</p><p>Conhecida como a <q>terra da rainha</q>, Santa Isabel mantém até hoje forte vínculo com suas raízes rurais e suas áreas verdes preservadas, características que contribuem para a qualidade de vida valorizada por moradores e visitantes da região do Alto Tietê.</p><div><h3>Vidraçaria Boreal em Santa Isabel</h3><p>A <strong>Vidraçaria Boreal</strong> leva a Santa Isabel soluções em <strong>vidros temperados</strong>, <strong>portas de vidro</strong> e <strong>envidraçamento de sacadas</strong>, com o mesmo padrão de atendimento personalizado que é referência em toda a região. A equipe entende as necessidades específicas de uma cidade que valoriza tranquilidade e qualidade de vida, oferecendo projetos sob medida para residências e pequenos comércios.</p><p>Seja para renovar uma varanda, instalar um box de banheiro ou modernizar janelas, a Vidraçaria Boreal une segurança e elegância aos imóveis de Santa Isabel, reforçando seu compromisso com a excelência em toda a região do Alto Tietê.</p></div></div>",
+    "estado": "SP",
+    "regiao": "Sudeste",
+    "aniversario": "10/07",
+    "servicos": {
+      "nome": "Envidraçamento de Sacadas",
+      "url": "/servicos/envidracamento-sacadas",
+      "descricao": "Transforme sua varanda ou sacada com vidros seguros e elegantes."
+    },
+    "feriados": [
+      {
+        "nome": "Aniversário de Santa Isabel",
+        "data": "10/07"
+      }
+    ],
+    "imagens": [
+      {
+        "url": "/imagens/cidades/santa-isabel/portal-santa-isabel-vidracaria-boreal.jpg",
+        "alt": "Sacada envidraçada em Santa Isabel",
+        "descricao": "<div><p><strong>Santa Isabel</strong>, a <q>terra da rainha</q>, é uma cidade que encanta pela tranquilidade, pelas áreas verdes preservadas e pelo estilo de vida que combina o melhor do interior com a praticidade de estar próxima à capital. Seus imóveis residenciais e chácaras refletem o cuidado e o bom gosto dos moradores — e merecem acabamentos à altura.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, atende Santa Isabel com projetos personalizados que valorizam cada detalhe do imóvel. A equipe entende o perfil tranquilo e exigente da cidade, entregando soluções com elegância, segurança e durabilidade.</p><p>De <strong>sacadas envidraçadas</strong> com vista para a natureza a <strong>portas de vidro</strong> que renovam a fachada do seu lar, a <strong>Vidraçaria Boreal</strong> está pronta para transformar os ambientes de Santa Isabel com o cuidado que a cidade da rainha merece.</p></div>"
+      },
+      {
+        "url": "/imagens/cidades/santa-isabel/centro-santa-isabel-vidracaria-boreal.jpg",
+        "alt": "Centro de Santa Isabel Perto de Vidraçaria Boreal",
+        "descricao": "<div><p><strong>Centro de Santa Isabel</strong> é o ponto de encontro da cidade, onde o comércio local, os serviços e a história se misturam em uma atmosfera tranquila e acolhedora. Suas ruas arborizadas e bem cuidadas refletem o orgulho dos moradores por uma cidade que mantém a qualidade de vida como prioridade, mesmo em pleno crescimento.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, atende moradores e comerciantes do <em>Centro de Santa Isabel</em> com projetos que respeitam o perfil elegante e tranquilo da cidade. A equipe da Boreal conhece a realidade local e oferece soluções personalizadas com atendimento próximo e cordial.</p><p>Seja para reformar um estabelecimento no centro ou modernizar a entrada de uma residência, a <strong>Vidraçaria Boreal</strong> entrega qualidade e sofisticação que combinam com o espírito de Santa Isabel — a cidade que cuida dos seus espaços com o carinho de quem tem orgulho de onde vive.</p></div>"
+      },
+      {
+        "url": "/imagens/cidades/santa-isabel/represa-santa-isabel-vidracaria-boreal.jpg",
+        "alt": "Represa de Santa Isabel Perto de Vidraçaria Boreal",
+        "descricao": "<div><p><strong>Represa de Santa Isabel</strong> é um dos pontos naturais mais belos e visitados da cidade, oferecendo paisagens deslumbrantes, pesca esportiva e um ambiente de lazer que atrai moradores e turistas de toda a região. A represa é parte da identidade de Santa Isabel e um dos motivos pelos quais a cidade é tão apreciada por quem busca contato com a natureza.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, destaca a <em>Represa de Santa Isabel</em> como símbolo da beleza natural que caracteriza a <q>terra da rainha</q>. Muitos clientes da Boreal residem próximos à represa e escolhem soluções em vidro que valorizam a vista e o ambiente ao redor.</p><p>Uma sacada envidraçada com vista para a represa é um dos projetos mais especiais que a <strong>Vidraçaria Boreal</strong> realiza em Santa Isabel — unindo a beleza da natureza local com a segurança e a elegância que cada imóvel merece.</p></div>"
+      },
+      {
+        "url": "/imagens/cidades/santa-isabel/igreja-santa-isabel-vidracaria-boreal.jpeg",
+        "alt": "Igreja Matriz de Santa Isabel Perto de Vidraçaria Boreal",
+        "descricao": "<div><p><strong>Igreja Matriz de Santa Isabel</strong> é o monumento mais simbólico da cidade, um marco arquitetônico e espiritual que reúne a comunidade e guarda séculos de história. Dedicada à padroeira que dá nome à cidade, a igreja é um ponto de referência para moradores e visitantes, representando a fé, a tradição e a identidade cultural de Santa Isabel.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, respeita e valoriza a <em>Igreja Matriz</em> como patrimônio vivo da cidade. Muitos clientes da Boreal passam em frente à igreja no cotidiano e reconhecem na empresa o mesmo compromisso com a preservação e o cuidado que o templo representa.</p><p>Assim como a <strong>Igreja Matriz de Santa Isabel</strong> é um símbolo de solidez e beleza que atravessa gerações, a <strong>Vidraçaria Boreal</strong> oferece soluções em vidro duráveis e elegantes que valorizam os imóveis de Santa Isabel hoje e por muitos anos.</p></div>"
+      }
+    ],
+    "servicosRealizados": [
+      {
+        "imagem": "/imagens/cidades/santa-isabel/servicos/box-centro.jpg",
+        "servico": "Box de banheiro",
+        "material": "Vidro temperado 8mm com perfil de alumínio escovado",
+        "bairro": "Centro",
+        "cliente": "Família Oliveira"
+      },
+      {
+        "imagem": "/imagens/cidades/santa-isabel/servicos/sacada-jd-california.jpg",
+        "servico": "Envidraçamento de sacada",
+        "material": "Vidro laminado 6mm sistema retrátil",
+        "bairro": "Jardim Califórnia",
+        "cliente": "Família Souza"
+      },
+      {
+        "imagem": "/imagens/cidades/santa-isabel/servicos/espelho-vila-isabel.jpg",
+        "servico": "Espelho sob medida",
+        "material": "Espelho cristal 4mm com bisotê",
+        "bairro": "Vila Isabel",
+        "cliente": "Família Santos"
+      },
+      {
+        "imagem": "/imagens/cidades/santa-isabel/servicos/porta-jd-primavera.jpg",
+        "servico": "Porta de vidro",
+        "material": "Vidro temperado 10mm com puxador inox",
+        "bairro": "Jardim Primavera",
+        "cliente": "Família Lima"
+      },
+      {
+        "imagem": "/imagens/cidades/santa-isabel/servicos/janela-alto-da-bela-vista.jpg",
+        "servico": "Janela de vidro",
+        "material": "Esquadria de alumínio com vidro 4mm",
+        "bairro": "Alto da Bela Vista",
+        "cliente": "Família Costa"
+      },
+      {
+        "imagem": "/imagens/cidades/santa-isabel/servicos/vidro-jd-santa-luzia.jpg",
+        "servico": "Vidro temperado",
+        "material": "Vidro temperado 6mm incolor",
+        "bairro": "Jardim Santa Luzia",
+        "cliente": "Família Ferreira"
+      },
+      {
+        "imagem": "/imagens/cidades/santa-isabel/servicos/box-colinas-do-mosteiro.jpg",
+        "servico": "Box de banheiro",
+        "material": "Vidro temperado 6mm com perfil branco",
+        "bairro": "Colinas do Mosteiro",
+        "cliente": "Família Pereira"
+      },
+      {
+        "imagem": "/imagens/cidades/santa-isabel/servicos/sacada-recanto-dos-pinheiros.jpg",
+        "servico": "Envidraçamento de sacada",
+        "material": "Vidro temperado 8mm sistema fixo",
+        "bairro": "Recanto dos Pinheiros",
+        "cliente": "Família Alves"
+      },
+      {
+        "imagem": "/imagens/cidades/santa-isabel/servicos/porta-jd-esperanca.jpg",
+        "servico": "Porta de vidro",
+        "material": "Vidro temperado 8mm fumê com dobradiça inox",
+        "bairro": "Jardim Esperança",
+        "cliente": "Família Rodrigues"
+      },
+      {
+        "imagem": "/imagens/cidades/santa-isabel/servicos/espelho-sitio-sao-luiz.jpg",
+        "servico": "Espelho sob medida",
+        "material": "Espelho cristal 6mm com moldura MDF",
+        "bairro": "Sítio São Luiz",
+        "cliente": "Família Carvalho"
+      },
+      {
+        "imagem": "/imagens/cidades/santa-isabel/servicos/janela-jd-sao-domingos.jpg",
+        "servico": "Janela de vidro",
+        "material": "Vidro temperado 6mm com perfil de alumínio natural",
+        "bairro": "Jardim São Domingos",
+        "cliente": "Família Martins"
+      },
+      {
+        "imagem": "/imagens/cidades/santa-isabel/servicos/vidro-parque-santo-antonio.jpg",
+        "servico": "Vidro temperado",
+        "material": "Vidro temperado 10mm extra-claro",
+        "bairro": "Parque Santo Antônio",
+        "cliente": "Família Nascimento"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "imagem": "/imagens/cidades/ferraz-de-vasconcelos/ferraz.jpg",
+    "slug": "ferraz-de-vasconcelos",
+    "nome": "Ferraz de Vasconcelos",
+    "descricao": "Vidraçaria Boreal em Ferraz de Vasconcelos oferece vidros temperados, portas de vidro e envidraçamento de sacadas com excelência.",
+    "historia": "<div><h2>História de Ferraz de Vasconcelos</h2><p><strong>Ferraz de Vasconcelos</strong> teve origem no bairro do Tanquinho, onde se fixaram os primeiros fruticultores da região, atraídos pela fertilidade da terra. A cidade já foi conhecida como <q>Terra da Uva Itália</q>, em razão do cultivo dessa fruta desde o início do século XX. O desenvolvimento local se acelerou com a chegada da <strong>Companhia Agrícola e Territorial Romanópolis</strong>, que deu origem à antiga Vila Romanópolis ao longo da via férrea.</p><p>O nome atual é uma homenagem póstuma ao engenheiro <strong>José Ferraz de Vasconcelos</strong>, da Estrada de Ferro Central do Brasil, falecido em 1924. O distrito foi criado em <time datetime='1948-12-24'>24 de dezembro de 1948</time>, subordinado ao município de Poá, e sua <strong>emancipação político-administrativa</strong> ocorreu em <time datetime='1953-10-14'>14 de outubro de 1953</time>, pela Lei Estadual nº 2456, desmembrando-se de Poá após um processo de negociação política intenso.</p><p>Hoje, Ferraz de Vasconcelos é um dos municípios mais densamente povoados do Alto Tietê, com economia voltada principalmente ao comércio e à prestação de serviços, mantendo forte vínculo com sua história ferroviária e agrícola.</p><div><h3>Vidraçaria Boreal em Ferraz de Vasconcelos</h3><p>A <strong>Vidraçaria Boreal</strong> atende Ferraz de Vasconcelos com <strong>vidros temperados</strong>, <strong>portas de vidro</strong> e <strong>envidraçamento de sacadas</strong> de alta qualidade, garantindo segurança e beleza para residências e comércios em toda a cidade. A equipe acompanha o crescimento urbano acelerado do município com atendimento próximo e soluções sob medida.</p><p>Em uma cidade marcada pela densidade populacional e pelo dinamismo comercial, a Vidraçaria Boreal se destaca pela qualidade dos materiais e pelo compromisso com prazos, consolidando-se como referência local em serviços de vidraçaria.</p></div></div>",
+    "estado": "SP",
+    "regiao": "Sudeste",
+    "aniversario": "14/10",
+    "servicos": {
+      "nome": "Vidros Temperados",
+      "url": "/servicos/vidros-temperados",
+      "descricao": "Vidros resistentes e elegantes para casas e comércios."
+    },
+    "feriados": [
+      {
+        "nome": "Aniversário de Ferraz de Vasconcelos",
+        "data": "14/10"
+      }
+    ],
+    "imagens": [
+      {
+        "url": "/imagens/cidades/ferraz-de-vasconcelos/ferraz-vidro.jpg",
+        "alt": "Vidros temperados em Ferraz de Vasconcelos",
+        "descricao": "<div><p><strong>Ferraz de Vasconcelos</strong>, a antiga <q>Terra da Uva Itália</q>, é hoje uma das cidades mais populosas do Alto Tietê, com um comércio vibrante e bairros residenciais em constante crescimento. A cidade tem orgulho de suas raízes ferroviárias e agrícolas, mas olha para o futuro com a energia de quem não para de crescer.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, acompanha o desenvolvimento de Ferraz de Vasconcelos oferecendo soluções modernas e seguras para cada tipo de imóvel. A equipe atende tanto residências tradicionais quanto os novos empreendimentos da cidade com agilidade e excelência.</p><p>Com a <strong>Vidraçaria Boreal</strong>, Ferraz de Vasconcelos ganha mais beleza, segurança e sofisticação em cada projeto. Afinal, uma cidade que não para merece soluções em vidro que estejam sempre à altura do seu crescimento.</p></div>"
+      },
+      {
+        "url": "/imagens/cidades/ferraz-de-vasconcelos/centro-ferraz-vidracaria-boreal.jpg",
+        "alt": "Centro de Ferraz de Vasconcelos Perto de Vidraçaria Boreal",
+        "descricao": "<div><p><strong>Centro de Ferraz de Vasconcelos</strong> é o núcleo comercial e de serviços da cidade, um espaço vibrante onde o comércio popular se mistura com restaurantes, bancos e o movimento intenso de uma das cidades mais densamente povoadas do Alto Tietê. O centro reflete a energia e o dinamismo de Ferraz, que nunca para.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, atende comerciantes e moradores do <em>Centro de Ferraz de Vasconcelos</em> com projetos sob medida e instalação profissional. A equipe da Boreal conhece o ritmo acelerado da cidade e garante agilidade no atendimento e cumprimento de prazos.</p><p>O <strong>Centro de Ferraz de Vasconcelos</strong> é o coração de uma cidade que cresce sem parar — e a <strong>Vidraçaria Boreal</strong> acompanha esse ritmo, oferecendo qualidade, segurança e modernidade em vidro para cada projeto, do menor ao maior.</p></div>"
+      },
+      {
+        "url": "/imagens/cidades/ferraz-de-vasconcelos/estacao-cptm-ferraz-vidracaria-boreal.jpg",
+        "alt": "Estação CPTM de Ferraz de Vasconcelos Perto de Vidraçaria Boreal",
+        "descricao": "<div><p><strong>Estação CPTM de Ferraz de Vasconcelos</strong> é um dos pontos mais movimentados da cidade, conectando diariamente a população à capital paulista e aos municípios vizinhos do Alto Tietê. A estação é símbolo da integração de Ferraz à grande malha metropolitana e do cotidiano de uma cidade onde o movimento nunca cessa.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, reconhece a <em>Estação CPTM de Ferraz</em> como parte fundamental da rotina dos moradores e clientes que confiam na Boreal para cuidar dos seus imóveis. A proximidade com o transporte público facilita o acesso aos serviços da empresa em toda a cidade.</p><p>Assim como a <strong>Estação CPTM</strong> conecta Ferraz de Vasconcelos ao mundo, a <strong>Vidraçaria Boreal</strong> conecta projetos à realidade, entregando soluções em vidro com pontualidade, qualidade e o compromisso de superar as expectativas de cada cliente.</p></div>"
+      },
+      {
+        "url": "/imagens/cidades/ferraz-de-vasconcelos/parque-ferraz-vidracaria-boreal.jpg",
+        "alt": "Parque Municipal de Ferraz de Vasconcelos Perto de Vidraçaria Boreal",
+        "descricao": "<div><p><strong>Parque Municipal de Ferraz de Vasconcelos</strong> é um dos principais espaços de lazer e convivência da cidade, oferecendo áreas verdes, pistas de caminhada e espaços de descanso para moradores de todas as idades. O parque é um respiro de natureza em meio à densidade urbana de Ferraz, representando o cuidado da cidade com o bem-estar da sua população.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, valoriza o <em>Parque Municipal de Ferraz</em> como espaço de qualidade de vida que complementa os lares que a Boreal ajuda a construir. Uma casa bonita e segura por dentro merece uma cidade com espaços verdes igualmente cuidados.</p><p>Assim como o <strong>Parque Municipal</strong> oferece um ambiente de beleza e tranquilidade para os moradores de Ferraz de Vasconcelos, a <strong>Vidraçaria Boreal</strong> oferece acabamentos em vidro que trazem leveza, claridade e elegância para dentro de cada lar da cidade.</p></div>"
+      }
+    ],
+    "servicosRealizados": [
+      {
+        "imagem": "/imagens/cidades/ferraz-de-vasconcelos/servicos/box-centro.jpg",
+        "servico": "Box de banheiro",
+        "material": "Vidro temperado 8mm com perfil de alumínio escovado",
+        "bairro": "Centro",
+        "cliente": "Família Oliveira"
+      },
+      {
+        "imagem": "/imagens/cidades/ferraz-de-vasconcelos/servicos/sacada-jd-america.jpg",
+        "servico": "Envidraçamento de sacada",
+        "material": "Vidro laminado 6mm sistema retrátil",
+        "bairro": "Jardim América",
+        "cliente": "Família Souza"
+      },
+      {
+        "imagem": "/imagens/cidades/ferraz-de-vasconcelos/servicos/espelho-vila-romanopolis.jpg",
+        "servico": "Espelho sob medida",
+        "material": "Espelho cristal 4mm com bisotê",
+        "bairro": "Vila Romanópolis",
+        "cliente": "Família Santos"
+      },
+      {
+        "imagem": "/imagens/cidades/ferraz-de-vasconcelos/servicos/porta-jd-santa-alice.jpg",
+        "servico": "Porta de vidro",
+        "material": "Vidro temperado 10mm com puxador inox",
+        "bairro": "Jardim Santa Alice",
+        "cliente": "Família Lima"
+      },
+      {
+        "imagem": "/imagens/cidades/ferraz-de-vasconcelos/servicos/janela-tanquinho.jpg",
+        "servico": "Janela de vidro",
+        "material": "Esquadria de alumínio com vidro 4mm",
+        "bairro": "Tanquinho",
+        "cliente": "Família Costa"
+      },
+      {
+        "imagem": "/imagens/cidades/ferraz-de-vasconcelos/servicos/vidro-jd-nova-ferraz.jpg",
+        "servico": "Vidro temperado",
+        "material": "Vidro temperado 6mm incolor",
+        "bairro": "Jardim Nova Ferraz",
+        "cliente": "Família Ferreira"
+      },
+      {
+        "imagem": "/imagens/cidades/ferraz-de-vasconcelos/servicos/box-vila-guaca.jpg",
+        "servico": "Box de banheiro",
+        "material": "Vidro temperado 6mm com perfil branco",
+        "bairro": "Vila Guaçá",
+        "cliente": "Família Pereira"
+      },
+      {
+        "imagem": "/imagens/cidades/ferraz-de-vasconcelos/servicos/sacada-jd-santa-marta.jpg",
+        "servico": "Envidraçamento de sacada",
+        "material": "Vidro temperado 8mm sistema fixo",
+        "bairro": "Jardim Santa Marta",
+        "cliente": "Família Alves"
+      },
+      {
+        "imagem": "/imagens/cidades/ferraz-de-vasconcelos/servicos/porta-parque-central.jpg",
+        "servico": "Porta de vidro",
+        "material": "Vidro temperado 8mm fumê com dobradiça inox",
+        "bairro": "Parque Central",
+        "cliente": "Família Rodrigues"
+      },
+      {
+        "imagem": "/imagens/cidades/ferraz-de-vasconcelos/servicos/espelho-jd-pinheiros.jpg",
+        "servico": "Espelho sob medida",
+        "material": "Espelho cristal 6mm com moldura MDF",
+        "bairro": "Jardim Pinheiros",
+        "cliente": "Família Carvalho"
+      },
+      {
+        "imagem": "/imagens/cidades/ferraz-de-vasconcelos/servicos/janela-jd-guanabara.jpg",
+        "servico": "Janela de vidro",
+        "material": "Vidro temperado 6mm com perfil de alumínio natural",
+        "bairro": "Jardim Guanabara",
+        "cliente": "Família Martins"
+      },
+      {
+        "imagem": "/imagens/cidades/ferraz-de-vasconcelos/servicos/vidro-parque-res-oratorio.jpg",
+        "servico": "Vidro temperado",
+        "material": "Vidro temperado 10mm extra-claro",
+        "bairro": "Parque Residencial Oratório",
+        "cliente": "Família Nascimento"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "imagem": "/imagens/cidades/biritiba-mirim/biritiba-mirim.jpg",
+    "slug": "biritiba-mirim",
+    "nome": "Biritiba-Mirim",
+    "descricao": "Vidraçaria Boreal em Biritiba-Mirim oferece soluções em vidro para residências e empresas, incluindo portas de vidro e envidraçamento de sacadas.",
+    "historia": "<div><h2>História de Biritiba-Mirim</h2><p><strong>Biritiba-Mirim</strong> é uma das dez cidades que compõem a região do Alto Tietê, conhecida por suas paisagens naturais preservadas — cerca de 85 km² do município são cobertos pela Mata Atlântica. Sua origem remonta a <time datetime='1873-05-05'>5 de maio de 1873</time>, quando <strong>Benedito Antônio do Espírito Santo</strong> fundou a Capela de São Benedito, núcleo que deu origem ao povoado local, então um desdobramento das terras de Mogi das Cruzes.</p><p>O nome <em>Biritiba-Mirim</em> vem do tupi-guarani: <q>biri</q> (flor que nasce em abundância em terrenos alagados), <q>tyba</q> (muito) e <q>mirim</q> (pequeno) — formando o significado de <q>pequeno lugar onde nascem muitos biris</q>. Em <time datetime='1924-11-13'>13 de novembro de 1924</time>, a vila passou à condição de distrito de Mogi das Cruzes, e sua <strong>emancipação político-administrativa</strong> só viria décadas depois, em <time datetime='1964-02-28'>28 de fevereiro de 1964</time>, data celebrada como aniversário da cidade.</p><p>Com economia historicamente voltada à produção hortifrutigranjeira, Biritiba-Mirim mantém até hoje sua vocação agrícola e suas tradições culturais, como a Festa do Fortunato e a Festa do Caqui, atraindo moradores e visitantes em busca de natureza exuberante e tranquilidade.</p><div><h3>Vidraçaria Boreal em Biritiba-Mirim</h3><p>A <strong>Vidraçaria Boreal</strong> leva a Biritiba-Mirim soluções modernas em <strong>portas de vidro</strong>, <strong>envidraçamento de sacadas</strong> e <strong>vidros temperados</strong>, adaptadas ao perfil mais residencial e tranquilo da cidade. A equipe valoriza o contato próximo com o cliente, oferecendo orçamento claro e instalação cuidadosa em cada projeto.</p><p>Em uma cidade que preserva suas raízes naturais e agrícolas, a Vidraçaria Boreal contribui com acabamentos que unem segurança e bom gosto, reforçando sua presença em toda a região do Alto Tietê.</p></div></div>",
+    "estado": "SP",
+    "regiao": "Sudeste",
+    "aniversario": "28/02",
+    "servicos": {
+      "nome": "Portas de Vidro",
+      "url": "/servicos/portas-vidro",
+      "descricao": "Portas de vidro sob medida, elegantes e resistentes."
+    },
+    "feriados": [
+      {
+        "nome": "Aniversário de Biritiba-Mirim",
+        "data": "28/02"
+      }
+    ],
+    "imagens": [
+      {
+        "url": "/imagens/cidades/biritiba-mirim/biritiba-mirim-vidro.jpg",
+        "alt": "Portas de vidro em Biritiba-Mirim",
+        "descricao": "<div><p><strong>Biritiba-Mirim</strong> é uma das cidades mais verdes do Alto Tietê, com extensas áreas de Mata Atlântica preservada, produção agrícola tradicional e um estilo de vida tranquilo que conquista quem a visita. Suas chácaras, sítios e residências refletem o cuidado dos moradores com a natureza — e merecem acabamentos que estejam à altura dessa beleza.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, atende Biritiba-Mirim com projetos personalizados que respeitam o perfil residencial e tranquilo da cidade. A equipe oferece atendimento próximo, orçamento sem surpresas e instalação cuidadosa em cada detalhe.</p><p>De <strong>portas de vidro</strong> que iluminam ambientes a <strong>sacadas envidraçadas</strong> que ampliam a vista para a natureza, a <strong>Vidraçaria Boreal</strong> transforma os espaços de Biritiba-Mirim com segurança, elegância e o cuidado que essa cidade tão especial merece.</p></div>"
+      },
+      {
+        "url": "/imagens/cidades/biritiba-mirim/centro-biritiba-mirim-vidracaria-boreal.jpg",
+        "alt": "Centro de Biritiba-Mirim Perto de Vidraçaria Boreal",
+        "descricao": "<div><p><strong>Centro de Biritiba-Mirim</strong> é o coração da cidade, onde o comércio local, os serviços e a vida comunitária se encontram em um ambiente tranquilo e acolhedor. Com ruas bem cuidadas e moradores que prezam pelo bom convívio, o centro reflete o ritmo sereno e a qualidade de vida que tornam Biritiba-Mirim uma cidade tão especial no Alto Tietê.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, atende moradores e comerciantes do <em>Centro de Biritiba-Mirim</em> com projetos personalizados e instalação cuidadosa. A equipe da Boreal respeita o ritmo e o perfil da cidade, oferecendo atendimento próximo e soluções que valorizam cada imóvel.</p><p>Em uma cidade que cuida tão bem dos seus espaços públicos, a <strong>Vidraçaria Boreal</strong> cuida com o mesmo esmero dos espaços privados — levando <strong>vidros temperados</strong>, <strong>portas elegantes</strong> e <strong>sacadas envidraçadas</strong> que transformam lares e comércios de Biritiba-Mirim.</p></div>"
+      },
+      {
+        "url": "/imagens/cidades/biritiba-mirim/represa-biritiba-mirim-vidracaria-boreal.jpg",
+        "alt": "Represa de Biritiba-Mirim Perto de Vidraçaria Boreal",
+        "descricao": "<div><p><strong>Represa de Biritiba-Mirim</strong> é um dos pontos mais belos e importantes da cidade, integrando o sistema de abastecimento da Região Metropolitana de São Paulo e oferecendo uma paisagem natural de tirar o fôlego. Com suas águas tranquilas cercadas por Mata Atlântica, a represa é símbolo da riqueza ambiental que faz de Biritiba-Mirim uma cidade única.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, destaca a <em>Represa de Biritiba-Mirim</em> como um dos grandes patrimônios naturais da região. Muitos clientes da Boreal residem próximos à represa e escolhem soluções em vidro que aproveitam ao máximo a vista privilegiada que o local oferece.</p><p>Uma <strong>sacada envidraçada</strong> com vista para as águas da represa é um dos projetos mais especiais que a <strong>Vidraçaria Boreal</strong> realiza em Biritiba-Mirim — unindo natureza, segurança e elegância em um ambiente que representa o melhor desta cidade tão preservada.</p></div>"
+      },
+      {
+        "url": "/imagens/cidades/biritiba-mirim/festa-caqui-biritiba-mirim-vidracaria-boreal.jpg",
+        "alt": "Festa do Caqui de Biritiba-Mirim Perto de Vidraçaria Boreal",
+        "descricao": "<div><p><strong>Festa do Caqui de Biritiba-Mirim</strong> é uma das celebrações mais tradicionais e queridas da cidade, reunindo produtores rurais, visitantes e moradores em torno da fruta que é símbolo da vocação agrícola do município. O evento celebra a identidade cultural de Biritiba-Mirim e reforça os laços entre a comunidade e suas raízes no campo.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, valoriza a <em>Festa do Caqui</em> como expressão da tradição e do orgulho que os moradores de Biritiba-Mirim têm de sua cidade. A empresa compartilha esses valores ao oferecer serviços com o mesmo cuidado e dedicação que os produtores locais colocam em cada colheita.</p><p>Assim como a <strong>Festa do Caqui</strong> celebra o que há de melhor em Biritiba-Mirim, a <strong>Vidraçaria Boreal</strong> celebra a qualidade em cada projeto — entregando soluções em vidro que são, assim como o caqui da cidade, referência de excelência na região.</p></div>"
+      }
+    ],
+    "servicosRealizados": [
+      {
+        "imagem": "/imagens/cidades/biritiba-mirim/servicos/box-centro.jpg",
+        "servico": "Box de banheiro",
+        "material": "Vidro temperado 8mm com perfil de alumínio escovado",
+        "bairro": "Centro",
+        "cliente": "Família Oliveira"
+      },
+      {
+        "imagem": "/imagens/cidades/biritiba-mirim/servicos/sacada-jd-sao-joao.jpg",
+        "servico": "Envidraçamento de sacada",
+        "material": "Vidro laminado 6mm sistema retrátil",
+        "bairro": "Jardim São João",
+        "cliente": "Família Souza"
+      },
+      {
+        "imagem": "/imagens/cidades/biritiba-mirim/servicos/espelho-vila-pinheiro.jpg",
+        "servico": "Espelho sob medida",
+        "material": "Espelho cristal 4mm com bisotê",
+        "bairro": "Vila Pinheiro",
+        "cliente": "Família Santos"
+      },
+      {
+        "imagem": "/imagens/cidades/biritiba-mirim/servicos/porta-jd-nova-biritiba.jpg",
+        "servico": "Porta de vidro",
+        "material": "Vidro temperado 10mm com puxador inox",
+        "bairro": "Jardim Nova Biritiba",
+        "cliente": "Família Lima"
+      },
+      {
+        "imagem": "/imagens/cidades/biritiba-mirim/servicos/janela-bairro-do-quartel.jpg",
+        "servico": "Janela de vidro",
+        "material": "Esquadria de alumínio com vidro 4mm",
+        "bairro": "Bairro do Quartel",
+        "cliente": "Família Costa"
+      },
+      {
+        "imagem": "/imagens/cidades/biritiba-mirim/servicos/vidro-jd-santa-rita.jpg",
+        "servico": "Vidro temperado",
+        "material": "Vidro temperado 6mm incolor",
+        "bairro": "Jardim Santa Rita",
+        "cliente": "Família Ferreira"
+      },
+      {
+        "imagem": "/imagens/cidades/biritiba-mirim/servicos/box-parque-sao-benedito.jpg",
+        "servico": "Box de banheiro",
+        "material": "Vidro temperado 6mm com perfil branco",
+        "bairro": "Parque São Benedito",
+        "cliente": "Família Pereira"
+      },
+      {
+        "imagem": "/imagens/cidades/biritiba-mirim/servicos/sacada-vila-formosa.jpg",
+        "servico": "Envidraçamento de sacada",
+        "material": "Vidro temperado 8mm sistema fixo",
+        "bairro": "Vila Formosa",
+        "cliente": "Família Alves"
+      },
+      {
+        "imagem": "/imagens/cidades/biritiba-mirim/servicos/porta-jd-palmares.jpg",
+        "servico": "Porta de vidro",
+        "material": "Vidro temperado 8mm fumê com dobradiça inox",
+        "bairro": "Jardim Palmares",
+        "cliente": "Família Rodrigues"
+      },
+      {
+        "imagem": "/imagens/cidades/biritiba-mirim/servicos/espelho-bairro-da-represa.jpg",
+        "servico": "Espelho sob medida",
+        "material": "Espelho cristal 6mm com moldura MDF",
+        "bairro": "Bairro da Represa",
+        "cliente": "Família Carvalho"
+      },
+      {
+        "imagem": "/imagens/cidades/biritiba-mirim/servicos/janela-jd-aparecida.jpg",
+        "servico": "Janela de vidro",
+        "material": "Vidro temperado 6mm com perfil de alumínio natural",
+        "bairro": "Jardim Aparecida",
+        "cliente": "Família Martins"
+      },
+      {
+        "imagem": "/imagens/cidades/biritiba-mirim/servicos/vidro-sitio-sao-bento.jpg",
+        "servico": "Vidro temperado",
+        "material": "Vidro temperado 10mm extra-claro",
+        "bairro": "Sítio São Bento",
+        "cliente": "Família Nascimento"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "imagem": "/imagens/cidades/guararema/guararema.jpg",
+    "slug": "guararema",
+    "nome": "Guararema",
+    "descricao": "Envidraçamento de sacadas, portas e vidros temperados em Guararema com a Vidraçaria Boreal. Transforme sua casa com segurança e beleza.",
+    "historia": "<div><h2>História de Guararema</h2><p><strong>Guararema</strong> nasceu de um gesto de generosidade: Dona Laurinda de Souza Leite doou um quinhão de terra às margens do Rio Paraíba à ex-escrava <strong>Maria Florência</strong>, que ali construiu a Capela de São Benedito. Aos poucos, outros moradores se estabeleceram ao redor da capela, formando o vilarejo que recebeu o nome de <em>Guararema</em>, do tupi-guarani <q>pau d'alho</q>, em referência à abundância dessa árvore na região.</p><p>O desenvolvimento da cidade se acelerou em <time datetime='1876-07'>julho de 1876</time>, com a inauguração do trecho da Estrada de Ferro Central do Brasil entre Mogi das Cruzes e Jacareí, que passava pela então Vila de Guararema. A <strong>emancipação política</strong> do município ocorreu em <time datetime='1898-06-03'>3 de junho de 1898</time>, desmembrando-se de Mogi das Cruzes, data que marca o aniversário da cidade.</p><p>Por suas belezas naturais e qualidade de vida, Guararema ficou conhecida entre os moradores mais antigos como a <q>Pérola do Vale</q>. Um marco da cidade é a centenária árvore de Pau D'Alho, ainda hoje um dos pontos turísticos mais visitados do município, símbolo vivo da origem de seu nome.</p><div><h3>Vidraçaria Boreal em Guararema</h3><p>A <strong>Vidraçaria Boreal</strong> oferece a Guararema serviços completos de <strong>envidraçamento de sacadas</strong>, <strong>portas de vidro</strong> e <strong>vidros temperados</strong>, com a mesma qualidade premium que é referência em Arujá e toda a região. A equipe entende o perfil turístico e residencial da cidade, oferecendo soluções que aliam segurança, beleza e durabilidade.</p><p>Em uma cidade reconhecida pela tranquilidade e pela natureza preservada, a Vidraçaria Boreal contribui para a valorização dos imóveis locais com projetos sob medida e atendimento próximo ao cliente.</p></div></div>",
+    "estado": "SP",
+    "regiao": "Sudeste",
+    "aniversario": "03/06",
+    "servicos": {
+      "nome": "Envidraçamento de Sacadas",
+      "url": "/servicos/envidracamento-sacadas",
+      "descricao": "Sacadas modernas e seguras com vidros de alta qualidade."
+    },
+    "feriados": [
+      {
+        "nome": "Aniversário de Guararema",
+        "data": "03/06"
+      }
+    ],
+    "imagens": [
+      {
+        "url": "/imagens/cidades/guararema/guararema-sacada.jpg",
+        "alt": "Sacada envidraçada em Guararema",
+        "descricao": "<div><p><strong>Guararema</strong>, a <q>Pérola do Vale</q>, é uma das cidades mais charmosas e preservadas do Alto Tietê, conhecida por suas belezas naturais, pelo turismo rural e por uma qualidade de vida que atrai moradores e visitantes de toda a Grande São Paulo. Suas residências e pousadas refletem o cuidado de quem valoriza o conforto e a elegância em harmonia com a natureza.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, atende Guararema com projetos que respeitam a beleza e o perfil da cidade. Uma sacada envidraçada com vista para os morros e o Rio Paraíba é exatamente o tipo de solução que a Boreal entrega com qualidade e precisão.</p><p>Em uma cidade que cuida tão bem de suas paisagens, a <strong>Vidraçaria Boreal</strong> cuida com o mesmo esmero dos seus espaços internos — com <strong>vidros temperados</strong>, <strong>portas elegantes</strong> e acabamentos que valorizam cada metro quadrado do seu imóvel em Guararema.</p></div>"
+      },
+      {
+        "url": "/imagens/cidades/guararema/centro-guararema-vidracaria-boreal.jpg",
+        "alt": "Centro de Guararema Perto de Vidraçaria Boreal",
+        "descricao": "<div><p><strong>Centro de Guararema</strong> é o coração histórico e comercial da <q>Pérola do Vale</q>, onde o charme do interior paulista se manifesta em cada rua calma, cada fachada preservada e cada estabelecimento que recebe os moradores e turistas com a hospitalidade típica da cidade. O centro é a porta de entrada para quem quer descobrir a essência de Guararema.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, atende moradores e comerciantes do <em>Centro de Guararema</em> com projetos sob medida que respeitam a arquitetura e o perfil elegante da cidade. A equipe da Boreal entende que em Guararema cada detalhe importa.</p><p>Seja para modernizar a vitrine de um comércio no centro ou instalar uma <strong>porta de vidro</strong> que valorize a fachada de uma residência histórica, a <strong>Vidraçaria Boreal</strong> entrega o acabamento perfeito para quem sabe que a <q>Pérola do Vale</q> merece o melhor.</p></div>"
+      },
+      {
+        "url": "/imagens/cidades/guararema/rio-paraiba-guararema-vidracaria-boreal.jpg",
+        "alt": "Rio Paraíba em Guararema Perto de Vidraçaria Boreal",
+        "descricao": "<div><p><strong>Rio Paraíba do Sul em Guararema</strong> é um dos grandes cartões-postais naturais da cidade, oferecendo paisagens de rara beleza, pesca, canoagem e lazer às margens de um dos rios mais importantes do estado de São Paulo. O rio é parte da alma de Guararema e um dos motivos pelos quais a cidade atrai tantos visitantes em busca de natureza e tranquilidade.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, destaca o <em>Rio Paraíba</em> como símbolo da beleza natural que torna Guararema única no Alto Tietê. Muitos clientes da Boreal residem em chácaras e residências com vista para o rio e escolhem sacadas envidraçadas para aproveitar ao máximo essa paisagem privilegiada.</p><p>Uma <strong>sacada envidraçada</strong> com vista para o <strong>Rio Paraíba</strong> é um dos projetos que a <strong>Vidraçaria Boreal</strong> realiza com mais prazer em Guararema — porque unir a beleza da natureza com segurança e elegância é exatamente o que a Boreal faz de melhor.</p></div>"
+      },
+      {
+        "url": "/imagens/cidades/guararema/pau-dalho-guararema-vidracaria-boreal.jpg",
+        "alt": "Árvore do Pau D'Alho em Guararema Perto de Vidraçaria Boreal",
+        "descricao": "<div><p><strong>Árvore Centenária do Pau D'Alho de Guararema</strong> é um dos pontos turísticos mais visitados e simbólicos da cidade, representando a própria origem do nome <em>Guararema</em> e a conexão da cidade com suas raízes históricas e naturais. A imponente árvore é um testemunho vivo de séculos de história e atrai visitantes de toda a região que vêm contemplar essa raridade.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, respeita e celebra a <em>Árvore do Pau D'Alho</em> como patrimônio natural e cultural de Guararema. Assim como a árvore atravessa gerações com solidez e beleza, a Boreal entrega soluções em vidro que duram e valorizam os imóveis da cidade por muitos anos.</p><p>Em uma cidade que preserva suas raízes com tanto cuidado, a <strong>Vidraçaria Boreal</strong> cuida com o mesmo esmero de cada projeto — entregando <strong>vidros temperados</strong>, <strong>sacadas envidraçadas</strong> e <strong>portas de vidro</strong> que são tão duráveis e elegantes quanto a centenária árvore que dá nome a Guararema.</p></div>"
+      }
+    ],
+    "servicosRealizados": [
+    {
+      "imagem": "/imagens/cidades/guararema/servicos/box-centro.jpg",
+      "servico": "Box de banheiro",
+      "material": "Vidro temperado 8mm com perfil de alumínio escovado",
+      "bairro": "Centro",
+      "cliente": "Família Oliveira"
+    },
+    {
+      "imagem": "/imagens/cidades/guararema/servicos/sacada-jd-quaresma.jpg",
+      "servico": "Envidraçamento de sacada",
+      "material": "Vidro laminado 6mm sistema retrátil",
+      "bairro": "Jardim Quaresma",
+      "cliente": "Família Souza"
+    },
+    {
+      "imagem": "/imagens/cidades/guararema/servicos/espelho-vila-nova.jpg",
+      "servico": "Espelho sob medida",
+      "material": "Espelho cristal 4mm com bisotê",
+      "bairro": "Vila Nova",
+      "cliente": "Família Santos"
+    },
+    {
+      "imagem": "/imagens/cidades/guararema/servicos/porta-jd-santa-maria.jpg",
+      "servico": "Porta de vidro",
+      "material": "Vidro temperado 10mm com puxador inox",
+      "bairro": "Jardim Santa Maria",
+      "cliente": "Família Lima"
+    },
+    {
+      "imagem": "/imagens/cidades/guararema/servicos/janela-paraiba-do-sul.jpg",
+      "servico": "Janela de vidro",
+      "material": "Esquadria de alumínio com vidro 4mm",
+      "bairro": "Paraíba do Sul",
+      "cliente": "Família Costa"
+    },
+    {
+      "imagem": "/imagens/cidades/guararema/servicos/vidro-sitio-sao-jose.jpg",
+      "servico": "Vidro temperado",
+      "material": "Vidro temperado 6mm incolor",
+      "bairro": "Sítio São José",
+      "cliente": "Família Ferreira"
+    },
+    {
+      "imagem": "/imagens/cidades/guararema/servicos/box-jd-esperanca.jpg",
+      "servico": "Box de banheiro",
+      "material": "Vidro temperado 6mm com perfil branco",
+      "bairro": "Jardim Esperança",
+      "cliente": "Família Pereira"
+    },
+    {
+      "imagem": "/imagens/cidades/guararema/servicos/sacada-bairro-do-campo.jpg",
+      "servico": "Envidraçamento de sacada",
+      "material": "Vidro temperado 8mm sistema fixo",
+      "bairro": "Bairro do Campo",
+      "cliente": "Família Alves"
+    },
+    {
+      "imagem": "/imagens/cidades/guararema/servicos/porta-jd-palmeiras.jpg",
+      "servico": "Porta de vidro",
+      "material": "Vidro temperado 8mm fumê com dobradiça inox",
+      "bairro": "Jardim Palmeiras",
+      "cliente": "Família Rodrigues"
+    },
+    {
+      "imagem": "/imagens/cidades/guararema/servicos/espelho-bairro-da-estacao.jpg",
+      "servico": "Espelho sob medida",
+      "material": "Espelho cristal 6mm com moldura MDF",
+      "bairro": "Bairro da Estação",
+      "cliente": "Família Carvalho"
+    },
+    {
+      "imagem": "/imagens/cidades/guararema/servicos/janela-jd-sao-benedito.jpg",
+      "servico": "Janela de vidro",
+      "material": "Vidro temperado 6mm com perfil de alumínio natural",
+      "bairro": "Jardim São Benedito",
+      "cliente": "Família Martins"
+    },
+    {
+      "imagem": "/imagens/cidades/guararema/servicos/vidro-recanto-da-paz.jpg",
+      "servico": "Vidro temperado",
+      "material": "Vidro temperado 10mm extra-claro",
+      "bairro": "Recanto da Paz",
+      "cliente": "Família Nascimento"
+    }
+  ]
+  },
+  {
+    "id": 10,
+    "imagem": "/imagens/cidades/poa/centro-poa-vidracaria-boreal.webp",
+    "slug": "poa",
+    "nome": "Poá",
+    "descricao": "Vidraçaria Boreal em Poá oferece portas de vidro, sacadas envidraçadas e soluções personalizadas em vidro para residências e comércios.",
+    "historia": "<div><h2>História de Poá</h2><p><strong>Poá</strong> tem registros que remontam a <time datetime='1621'>1621</time>, quando se formou em terras da Ordem dos Carmelitas o povoado conhecido como <q>Apoá</q>, cortado pela antiga Estrada São Paulo–Rio, hoje SP-66. O nome da cidade tem origem indígena e significa <q>bifurcação de caminhos</q>. O local serviu por séculos como ponto de parada de tropeiros e viajantes — entre eles, segundo registros históricos, o próprio Imperador Dom Pedro I.</p><p>Em <time datetime='1877'>1877</time>, moradores da região solicitaram a construção de uma parada de trem entre as estações de Lageado e Mogi das Cruzes, impulsionando o crescimento local em torno da ferrovia. A <strong>emancipação político-administrativa</strong> de Poá ocorreu em <time datetime='1949-03-26'>26 de março de 1949</time>, quando o distrito se desligou de Mogi das Cruzes, data que marca o aniversário da cidade.</p><p>Desde a década de 1970, Poá é reconhecida como <strong>Estância Hidromineral</strong>, abrigando uma das águas minerais mais conhecidas do Brasil — o que rendeu à cidade o apelido de <q>Cidade Jóia</q>. Vizinha de Itaquaquecetuba, Arujá e Santa Isabel, a cidade mantém forte vocação comercial e residencial.</p><div><h3>Vidraçaria Boreal em Poá</h3><p>A <strong>Vidraçaria Boreal</strong> atende Poá com <strong>portas de vidro</strong>, <strong>sacadas envidraçadas</strong> e soluções personalizadas em vidro, levando à <q>Cidade Jóia</q> o mesmo padrão de qualidade e segurança que já é referência em toda a região do Alto Tietê. A equipe conhece bem o crescimento urbano e comercial de Poá, oferecendo orçamento transparente e prazos cumpridos.</p><p>Seja para residências próximas à estação ferroviária ou comércios no centro da cidade, a Vidraçaria Boreal garante acabamento profissional e durabilidade em cada projeto realizado em Poá.</p></div></div>",
+    "estado": "SP",
+    "regiao": "Sudeste",
+    "aniversario": "26/03",
+    "servicos": {
+      "nome": "Portas de Vidro",
+      "url": "/servicos/portas-vidro",
+      "descricao": "Portas de vidro elegantes e resistentes para sua casa ou comércio."
+    },
+    "feriados": [
+      {
+        "nome": "Aniversário de Poá",
+        "data": "26/03"
+      }
+    ],
+    "imagens": [
+      {
+        "url": "/imagens/cidades/poa/poa-vidro-vidracaria-boreal.webp",
+        "alt": "Porta de vidro em Poá",
+        "descricao": "<div><p><strong>Poá</strong>, a <q>Cidade Jóia</q>, é uma das mais tradicionais e acolhedoras do Alto Tietê, reconhecida pela sua água mineral de qualidade e por uma vida comercial e residencial intensa. Localizada em um ponto estratégico entre os grandes municípios da região, Poá é uma cidade que cuida bem dos seus moradores — e da qualidade dos seus imóveis.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, atende Poá com soluções personalizadas que valorizam cada detalhe do seu lar ou comércio. A equipe conhece a cidade e seus bairros, entregando projetos com pontualidade, transparência e acabamento de alto nível.</p><p>Assim como a água de Poá é reconhecida pela sua pureza e qualidade, a <strong>Vidraçaria Boreal</strong> é reconhecida pela clareza no atendimento e pela excelência em cada projeto. <strong>Vidros temperados</strong>, <strong>portas elegantes</strong> e <strong>sacadas envidraçadas</strong> que brilham tanto quanto a joia que dá nome à cidade.</p></div>"
+      },
+      {
+        "url": "/imagens/cidades/poa/historico-centro-poa-vidracaria-boreal.jpg",
+        "alt": "Centro de Poá Perto de Vidraçaria Boreal",
+        "descricao": "<div><p><strong>Centro de Poá</strong> é o núcleo comercial e de serviços da <q>Cidade Jóia</q>, onde o movimento intenso das lojas, restaurantes e estabelecimentos reflete a vocação comercial de uma cidade estrategicamente posicionada entre os grandes municípios do Alto Tietê. O centro é ponto de encontro de moradores e visitantes que descobrem em Poá uma cidade acolhedora e cheia de vida.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, atende comerciantes e moradores do <em>Centro de Poá</em> com soluções em vidro que modernizam fachadas e valorizam espaços internos. A equipe da Boreal conhece bem a dinâmica da cidade e oferece atendimento ágil e orçamento sem surpresas.</p><p>Assim como o <strong>Centro de Poá</strong> brilha pelo movimento e pela diversidade, a <strong>Vidraçaria Boreal</strong> faz brilhar cada projeto com acabamentos que unem transparência, segurança e elegância — porque a <q>Cidade Jóia</q> merece soluções que estejam à altura do seu nome.</p></div>"
+      },
+      {
+        "url": "/imagens/cidades/poa/estacao-cptm-poa-vidracaria-boreal.jpg",
+        "alt": "Estação CPTM de Poá Perto de Vidraçaria Boreal",
+        "descricao": "<div><p><strong>Estação CPTM de Poá</strong> é o principal ponto de mobilidade da cidade, conectando diariamente moradores à capital paulista e a toda a Região Metropolitana de São Paulo. Localizada no coração da cidade, a estação é referência de passagem e chegada para quem circula pelo Alto Tietê, sendo testemunha do crescimento de Poá ao longo das décadas.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, reconhece a <em>Estação CPTM de Poá</em> como um símbolo da conectividade e do dinamismo da cidade. Muitos clientes da Boreal passam pela estação diariamente e conhecem a empresa pela excelência dos serviços prestados em toda a região.</p><p>Assim como a <strong>Estação CPTM</strong> é o ponto de partida para novas jornadas, a <strong>Vidraçaria Boreal</strong> é o ponto de partida para a transformação do seu imóvel em Poá — com <strong>vidros temperados</strong>, <strong>sacadas envidraçadas</strong> e <strong>portas de vidro</strong> que fazem toda a diferença.</p></div>"
+      },
+      {
+        "url": "/imagens/cidades/poa/fonte-hidromineral-poa-vidracaria-boreal.jpg",
+        "alt": "Fonte Hidromineral de Poá Perto de Vidraçaria Boreal",
+        "descricao": "<div><p><strong>Fonte Hidromineral de Poá</strong> é o símbolo mais emblemático da <q>Cidade Jóia</q>, responsável pelo título de <strong>Estância Hidromineral</strong> que a cidade carrega com orgulho desde a década de 1970. A água mineral de Poá é reconhecida em todo o Brasil pela sua qualidade e pureza, sendo um patrimônio natural que orgulha moradores e atrai visitantes de toda a Grande São Paulo.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, associa a <em>Fonte Hidromineral de Poá</em> aos mesmos valores que guiam seu trabalho: pureza, qualidade e transparência. Assim como a água de Poá é símbolo de excelência, a Boreal é símbolo de excelência em vidro na região.</p><p>Em uma cidade conhecida pela qualidade do que brota do seu solo, a <strong>Vidraçaria Boreal</strong> entrega a qualidade que brota de cada projeto — com clareza, precisão e o compromisso de oferecer sempre o melhor para os moradores e comerciantes de Poá.</p></div>"
+      }
+    ],
+     "servicosRealizados": [
+    {
+      "imagem": "/imagens/cidades/poa/servicos/box-centro.jpg",
+      "servico": "Box de banheiro",
+      "material": "Vidro temperado 8mm com perfil de alumínio escovado",
+      "bairro": "Centro",
+      "cliente": "Família Oliveira"
+    },
+    {
+      "imagem": "/imagens/cidades/poa/servicos/sacada-jd-sorocabano.jpg",
+      "servico": "Envidraçamento de sacada",
+      "material": "Vidro laminado 6mm sistema retrátil",
+      "bairro": "Jardim Sorocabano",
+      "cliente": "Família Souza"
+    },
+    {
+      "imagem": "/imagens/cidades/poa/servicos/espelho-vila-sao-joao.jpg",
+      "servico": "Espelho sob medida",
+      "material": "Espelho cristal 4mm com bisotê",
+      "bairro": "Vila São João",
+      "cliente": "Família Santos"
+    },
+    {
+      "imagem": "/imagens/cidades/poa/servicos/porta-jd-nova-poa.jpg",
+      "servico": "Porta de vidro",
+      "material": "Vidro temperado 10mm com puxador inox",
+      "bairro": "Jardim Nova Poá",
+      "cliente": "Família Lima"
+    },
+    {
+      "imagem": "/imagens/cidades/poa/servicos/janela-jd-carolina.jpg",
+      "servico": "Janela de vidro",
+      "material": "Esquadria de alumínio com vidro 4mm",
+      "bairro": "Jardim Carolina",
+      "cliente": "Família Costa"
+    },
+    {
+      "imagem": "/imagens/cidades/poa/servicos/vidro-vila-nastri.jpg",
+      "servico": "Vidro temperado",
+      "material": "Vidro temperado 6mm incolor",
+      "bairro": "Vila Nastri",
+      "cliente": "Família Ferreira"
+    },
+    {
+      "imagem": "/imagens/cidades/poa/servicos/box-jd-botanico.jpg",
+      "servico": "Box de banheiro",
+      "material": "Vidro temperado 6mm com perfil branco",
+      "bairro": "Jardim Botânico",
+      "cliente": "Família Pereira"
+    },
+    {
+      "imagem": "/imagens/cidades/poa/servicos/sacada-jd-limoeiro.jpg",
+      "servico": "Envidraçamento de sacada",
+      "material": "Vidro temperado 8mm sistema fixo",
+      "bairro": "Jardim Limoeiro",
+      "cliente": "Família Alves"
+    },
+    {
+      "imagem": "/imagens/cidades/poa/servicos/porta-estancia-poa.jpg",
+      "servico": "Porta de vidro",
+      "material": "Vidro temperado 8mm fumê com dobradiça inox",
+      "bairro": "Estância Poá",
+      "cliente": "Família Rodrigues"
+    },
+    {
+      "imagem": "/imagens/cidades/poa/servicos/espelho-vila-virginia.jpg",
+      "servico": "Espelho sob medida",
+      "material": "Espelho cristal 6mm com moldura MDF",
+      "bairro": "Vila Virgínia",
+      "cliente": "Família Carvalho"
+    },
+    {
+      "imagem": "/imagens/cidades/poa/servicos/janela-jd-italia.jpg",
+      "servico": "Janela de vidro",
+      "material": "Vidro temperado 6mm com perfil de alumínio natural",
+      "bairro": "Jardim Itália",
+      "cliente": "Família Martins"
+    },
+    {
+      "imagem": "/imagens/cidades/poa/servicos/vidro-parque-santa-rosa.jpg",
+      "servico": "Vidro temperado",
+      "material": "Vidro temperado 10mm extra-claro",
+      "bairro": "Parque Santa Rosa",
+      "cliente": "Família Nascimento"
+    }
+  ]
   }
 ]

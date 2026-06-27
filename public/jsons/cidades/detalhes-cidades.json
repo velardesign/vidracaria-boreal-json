@@ -437,6 +437,92 @@
         "alt": "Fonte Hidromineral de Poá Perto de Vidraçaria Boreal",
         "descricao": "<div><p><strong>Fonte Hidromineral de Poá</strong> é o símbolo mais emblemático da <q>Cidade Jóia</q>, responsável pelo título de <strong>Estância Hidromineral</strong> que a cidade carrega com orgulho desde a década de 1970. A água mineral de Poá é reconhecida em todo o Brasil pela sua qualidade e pureza, sendo um patrimônio natural que orgulha moradores e atrai visitantes de toda a Grande São Paulo.</p><p>A <strong>Vidraçaria Boreal</strong>, referência em <strong>vidros temperados, box, janelas e envidraçamento de sacadas</strong>, associa a <em>Fonte Hidromineral de Poá</em> aos mesmos valores que guiam seu trabalho: pureza, qualidade e transparência. Assim como a água de Poá é símbolo de excelência, a Boreal é símbolo de excelência em vidro na região.</p><p>Em uma cidade conhecida pela qualidade do que brota do seu solo, a <strong>Vidraçaria Boreal</strong> entrega a qualidade que brota de cada projeto — com clareza, precisão e o compromisso de oferecer sempre o melhor para os moradores e comerciantes de Poá.</p></div>"
       }
+    ],
+    "servicosRealizados": [
+      {
+        "imagem": "/imagens/cidades/aruja/servicos/box-centro.jpg",
+        "servico": "Box de banheiro",
+        "material": "Vidro temperado 8mm com perfil de alumínio escovado",
+        "bairro": "Centro",
+        "cliente": "Família Oliveira"
+      },
+      {
+        "imagem": "/imagens/cidades/aruja/servicos/sacada-jd-rincao.jpg",
+        "servico": "Envidraçamento de sacada",
+        "material": "Vidro laminado 6mm sistema retrátil",
+        "bairro": "Jd. Fazenda Rincão",
+        "cliente": "Família Souza"
+      },
+      {
+        "imagem": "/imagens/cidades/aruja/servicos/espelho-jd-pinheiro.jpg",
+        "servico": "Espelho sob medida",
+        "material": "Espelho cristal 4mm com bisotê",
+        "bairro": "Jardim Pinheiro",
+        "cliente": "Família Santos"
+      },
+      {
+        "imagem": "/imagens/cidades/aruja/servicos/porta-nova-aruja.jpg",
+        "servico": "Porta de vidro",
+        "material": "Vidro temperado 10mm com puxador inox",
+        "bairro": "Nova Arujá",
+        "cliente": "Família Lima"
+      },
+      {
+        "imagem": "/imagens/cidades/aruja/servicos/janela-jd-real.jpg",
+        "servico": "Janela de vidro",
+        "material": "Esquadria de alumínio com vidro 4mm",
+        "bairro": "Jardim Real",
+        "cliente": "Família Costa"
+      },
+      {
+        "imagem": "/imagens/cidades/aruja/servicos/vidro-parque-rodrigo.jpg",
+        "servico": "Vidro temperado",
+        "material": "Vidro temperado 6mm incolor",
+        "bairro": "Parque Rodrigo Barreto",
+        "cliente": "Família Ferreira"
+      },
+      {
+        "imagem": "/imagens/cidades/aruja/servicos/box-jd-imperial.jpg",
+        "servico": "Box de banheiro",
+        "material": "Vidro temperado 6mm com perfil branco",
+        "bairro": "Jardim Imperial Hills",
+        "cliente": "Família Pereira"
+      },
+      {
+        "imagem": "/imagens/cidades/aruja/servicos/sacada-porto-sol.jpg",
+        "servico": "Envidraçamento de sacada",
+        "material": "Vidro temperado 8mm sistema fixo",
+        "bairro": "Porto do Sol",
+        "cliente": "Família Alves"
+      },
+      {
+        "imagem": "/imagens/cidades/aruja/servicos/porta-copaco.jpg",
+        "servico": "Porta de vidro",
+        "material": "Vidro temperado 8mm fumê com dobradiça inox",
+        "bairro": "Copaco",
+        "cliente": "Família Rodrigues"
+      },
+      {
+        "imagem": "/imagens/cidades/aruja/servicos/espelho-jd-renata.jpg",
+        "servico": "Espelho sob medida",
+        "material": "Espelho cristal 6mm com moldura MDF",
+        "bairro": "Jardim Renata",
+        "cliente": "Família Carvalho"
+      },
+      {
+        "imagem": "/imagens/cidades/aruja/servicos/janela-jd-emilia.jpg",
+        "servico": "Janela de vidro",
+        "material": "Vidro temperado 6mm com perfil de alumínio natural",
+        "bairro": "Jardim Emília",
+        "cliente": "Família Martins"
+      },
+      {
+        "imagem": "/imagens/cidades/aruja/servicos/vidro-jd-planalto.jpg",
+        "servico": "Vidro temperado",
+        "material": "Vidro temperado 10mm extra-claro",
+        "bairro": "Jardim Planalto",
+        "cliente": "Família Nascimento"
+      }
     ]
   }
 ]
